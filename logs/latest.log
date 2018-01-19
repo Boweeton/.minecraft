@@ -1,41 +1,41 @@
-[08:21:22] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[08:21:22] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[08:21:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[08:21:22] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
-[08:21:22] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25
-[08:21:22] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[08:21:22] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[08:21:22] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[08:21:22] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[08:21:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[08:21:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[08:21:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[08:21:23] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[08:21:23] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[08:21:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[08:21:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[08:21:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[08:21:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[08:21:24] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[08:21:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[08:21:24] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[08:21:24] [Client thread/INFO]: Setting user: Boweeton
-[08:21:26] [Client thread/INFO]: LWJGL Version: 2.9.4
-[08:21:26] [Client thread/WARN]: =============================================================
-[08:21:26] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
-[08:21:26] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
-[08:21:26] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
-[08:21:26] [Client thread/WARN]: =============================================================
-[08:21:26] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+[09:41:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:41:49] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:41:49] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
+[09:41:49] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25
+[09:41:49] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[09:41:49] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[09:41:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:41:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:41:51] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[09:41:51] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:41:51] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:41:51] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[09:41:51] [Client thread/INFO]: Setting user: Boweeton
+[09:41:53] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:41:53] [Client thread/WARN]: =============================================================
+[09:41:53] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[09:41:53] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[09:41:53] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[09:41:53] [Client thread/WARN]: =============================================================
+[09:41:54] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
 
 WARNING: coremods are present:
   NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
   NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
 Contact their authors BEFORE contacting forge
 
-// Ooh. Shiny.
+// Why is it breaking :(
 
-Time: 1/19/18 8:21 AM
+Time: 1/19/18 9:41 AM
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -50,7 +50,7 @@ Details:
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_25, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 100818792 bytes (96 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
+	Memory: 100562872 bytes (95 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
 	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
@@ -60,67 +60,69 @@ NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
 NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
   net.fybertech.nwr.NowWithRendering
 	GL info: ' Vendor: 'Intel' Version: '4.4.0 - Build 21.20.16.4526' Renderer: 'Intel(R) HD Graphics 630'
-[08:21:27] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
-[08:21:27] [Client thread/INFO]: Replaced 204 ore recipies
-[08:21:27] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[08:21:27] [Client thread/INFO]: Searching C:\Users\Boweeton\AppData\Roaming\.minecraft\mods for mods
-[08:21:28] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
-[08:21:28] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
-[08:21:28] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
-[08:21:29] [Client thread/INFO]: Starting automation
-[08:21:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
-[08:21:29] [Client thread/INFO]: Processing ObjectHolder annotations
-[08:21:29] [Client thread/INFO]: Found 418 ObjectHolder annotations
-[08:21:29] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[08:21:29] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[08:21:29] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[08:21:29] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
-[08:21:30] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
-[08:21:30] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[08:21:30] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
-[08:21:30] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
-[08:21:30] [Client thread/INFO]: No plugins for JourneyMap API discovered.
-[08:21:30] [Client thread/INFO]: MFR Loaded
-[08:21:30] [Client thread/INFO]: RightClickPlants Loaded
-[08:21:30] [Client thread/INFO]: Vanilla Loaded
-[08:21:30] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
-[08:21:30] [Client thread/INFO]: Pre-initialization complete!
-[08:21:30] [Client thread/INFO]: Applying holder lookups
-[08:21:30] [Client thread/INFO]: Holder lookups applied
-[08:21:30] [Client thread/INFO]: Injecting itemstacks
-[08:21:30] [Client thread/INFO]: Itemstack injection complete
-[08:21:30] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
-[08:21:30] [Client thread/ERROR]: Couldn't initialize twitch stream
-[08:21:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[08:21:31] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[08:21:31] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[08:21:31] [Thread-9/INFO]: OpenAL initialized.
-[08:21:31] [Sound Library Loader/INFO]: Sound engine started
-[08:21:32] [Client thread/INFO]: Max texture size: 16384
-[08:21:32] [Client thread/INFO]: Created: 16x16 textures-atlas
-[08:21:33] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
-[08:21:33] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
-[08:21:33] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
-[08:21:33] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
-[08:21:34] [Client thread/INFO]: JourneyMap log initialized.
-[08:21:34] [Client thread/INFO]: initialize ENTER
-[08:21:34] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
-[08:21:34] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[08:21:34] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
-[08:21:34] [Client thread/INFO]: Registering replacer for village generation
-[08:21:34] [Client thread/INFO]: Injecting itemstacks
-[08:21:34] [Client thread/INFO]: Itemstack injection complete
-[08:21:34] [Client thread/INFO]: postInitialize ENTER
-[08:21:34] [Client thread/INFO]: Registered channel: world_info
-[08:21:34] [Client thread/INFO]: Initializing icon sets...
-[08:21:34] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r369.07§8ms§r
-[08:21:34] [Client thread/INFO]: Prioritizing User and IMC mod configs...
-[08:21:34] [Client thread/INFO]: Registering items and trees...
-[08:21:34] [Client thread/INFO]: Skipping Ore Dictionary processing.
-[08:21:34] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
-[08:21:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
-[08:21:34] [Client thread/INFO]: SoundSystem shutting down...
-[08:21:34] [JM-VersionCheck-1/ERROR]: Could not check version URL
+[09:41:54] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
+[09:41:54] [Client thread/INFO]: Replaced 204 ore recipies
+[09:41:54] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[09:41:54] [Client thread/INFO]: Searching C:\Users\Boweeton\AppData\Roaming\.minecraft\mods for mods
+[09:41:55] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
+[09:41:55] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
+[09:41:55] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
+[09:41:56] [Client thread/INFO]: Starting automation
+[09:41:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[09:41:56] [Client thread/INFO]: Processing ObjectHolder annotations
+[09:41:56] [Client thread/INFO]: Found 418 ObjectHolder annotations
+[09:41:56] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[09:41:56] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[09:41:56] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[09:41:56] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
+[09:41:56] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
+[09:41:56] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[09:41:56] [Client thread/INFO]: MFR Loaded
+[09:41:56] [Client thread/INFO]: RightClickPlants Loaded
+[09:41:56] [Client thread/INFO]: Vanilla Loaded
+[09:41:57] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
+[09:41:57] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
+[09:41:57] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[09:41:57] [Client thread/INFO]: Pre-initialization complete!
+[09:41:57] [Client thread/INFO]: Applying holder lookups
+[09:41:57] [Client thread/INFO]: Holder lookups applied
+[09:41:57] [Client thread/INFO]: Injecting itemstacks
+[09:41:57] [Client thread/INFO]: Itemstack injection complete
+[09:41:57] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[09:41:57] [Client thread/ERROR]: Couldn't initialize twitch stream
+[09:41:57] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[09:41:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:41:57] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[09:41:57] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:41:58] [Thread-9/INFO]: OpenAL initialized.
+[09:41:58] [Sound Library Loader/INFO]: Sound engine started
+[09:41:59] [Client thread/INFO]: Max texture size: 16384
+[09:41:59] [Client thread/INFO]: Created: 16x16 textures-atlas
+[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[09:42:00] [Client thread/INFO]: JourneyMap log initialized.
+[09:42:00] [Client thread/INFO]: initialize ENTER
+[09:42:00] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
+[09:42:00] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[09:42:00] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[09:42:00] [Client thread/INFO]: Registering replacer for village generation
+[09:42:00] [Client thread/INFO]: Injecting itemstacks
+[09:42:00] [Client thread/INFO]: Itemstack injection complete
+[09:42:00] [Client thread/INFO]: postInitialize ENTER
+[09:42:00] [Client thread/INFO]: Registered channel: world_info
+[09:42:00] [Client thread/INFO]: Initializing icon sets...
+[09:42:01] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r364.08§8ms§r
+[09:42:01] [Client thread/INFO]: Prioritizing User and IMC mod configs...
+[09:42:01] [Client thread/INFO]: Registering items and trees...
+[09:42:01] [Client thread/INFO]: Skipping Ore Dictionary processing.
+[09:42:01] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
+[09:42:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[09:42:01] [Client thread/INFO]: SoundSystem shutting down...
+[09:42:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:42:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:42:01] [JM-VersionCheck-1/ERROR]: Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -137,101 +139,44 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[08:21:34] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[08:21:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[08:21:35] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[08:21:35] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[08:21:35] [Thread-11/INFO]: OpenAL initialized.
-[08:21:35] [Sound Library Loader/INFO]: Sound engine started
-[08:21:36] [Client thread/INFO]: Max texture size: 16384
-[08:21:37] [Client thread/INFO]: Created: 1024x1024 textures-atlas
-[08:21:38] [Client thread/INFO]: Loading blocks and textures...
-[08:21:38] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 83.41ms
-[08:21:38] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 23.062564ms
-[08:21:38] [Client thread/INFO]: Existing color palette's resource packs and mod names match current loadout.
-[08:21:38] [Client thread/INFO]: Loaded 504 block colors from color palette file in 2ms: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[08:21:39] [Client thread/INFO]: Initialized 8317 block colors from mods and resource packs in 393ms
-[08:21:39] [Client thread/INFO]: Color palette file generated with 505 colors in 42ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[08:21:39] [Client thread/INFO]: Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[08:21:43] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 12118
-[08:21:44] [Server Connector #1/ERROR]: Couldn't connect to server
-java.net.ConnectException: Connection refused: no further information: 0.tcp.ngrok.io/52.14.61.47:12118
-	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_25]
-	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716) ~[?:1.8.0_25]
-	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[NioSocketChannel.class:4.0.23.Final]
-	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[AbstractNioChannel$AbstractNioUnsafe.class:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[NioEventLoop.class:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[NioEventLoop.class:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[NioEventLoop.class:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[NioEventLoop.class:4.0.23.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[SingleThreadEventExecutor$2.class:4.0.23.Final]
-	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_25]
-[08:22:13] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 12118
-[08:22:30] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[08:22:31] [Netty Client IO #3/INFO]: Server protocol version 2
-[08:22:32] [Netty Client IO #3/INFO]: Injecting existing block and item data into this client instance
-[08:22:32] [Netty Client IO #3/INFO]: Applying holder lookups
-[08:22:32] [Netty Client IO #3/INFO]: Holder lookups applied
-[08:22:32] [Netty Client IO #3/INFO]: [Netty Client IO #3] Client side modded connection established
-[08:22:34] [Client thread/INFO]: Requesting World ID
-[08:22:34] [Client thread/INFO]: Loading journeymap.topo.config
-[08:22:34] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[08:22:34] [Client thread/INFO]: Blocks and textures are current
-[08:22:34] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 672MB total, 228MB free 
-[08:22:34] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bM§f]
-[08:22:34] [Client thread/INFO]: JourneyMap: Press [M]
-[08:22:43] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:33] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:33] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:33] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:33] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:33] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:33] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:23:33] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[08:43:59] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 248.5, 103.0, -69.5]
-[08:47:50] [Client thread/ERROR]: Item entity 460730 has no item?!
-[08:47:50] [Client thread/ERROR]: Item entity 460730 has no item?!
-[08:47:50] [Client thread/ERROR]: Item entity 460730 has no item?!
-[08:47:50] [Client thread/ERROR]: Item entity 460730 has no item?!
-[08:47:50] [Client thread/ERROR]: Item entity 460730 has no item?!
-[08:50:19] [Client thread/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[08:54:30] [Client thread/ERROR]: Item entity 476243 has no item?!
-[08:54:30] [Client thread/ERROR]: Item entity 476243 has no item?!
-[08:54:30] [Client thread/ERROR]: Item entity 476243 has no item?!
-[08:54:30] [Client thread/ERROR]: Item entity 476243 has no item?!
-[08:54:30] [Client thread/ERROR]: Item entity 476243 has no item?!
-[09:07:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[09:08:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[09:08:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[09:09:00] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[09:09:00] [Client thread/INFO]: Applying holder lookups
-[09:09:00] [Client thread/INFO]: Holder lookups applied
+[09:42:01] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[09:42:01] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:42:01] [Thread-11/INFO]: OpenAL initialized.
+[09:42:01] [Sound Library Loader/INFO]: Sound engine started
+[09:42:02] [Client thread/INFO]: Max texture size: 16384
+[09:42:03] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[09:42:04] [Client thread/INFO]: Loading blocks and textures...
+[09:42:05] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 79.59ms
+[09:42:05] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 22.281026ms
+[09:42:05] [Client thread/INFO]: Existing color palette's resource packs and mod names match current loadout.
+[09:42:05] [Client thread/INFO]: Loaded 505 block colors from color palette file in 3ms: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[09:42:05] [Client thread/INFO]: Initialized 8317 block colors from mods and resource packs in 391ms
+[09:42:05] [Client thread/INFO]: Color palette file generated with 504 colors in 41ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[09:42:05] [Client thread/INFO]: Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[09:42:07] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
+[09:42:09] [Netty Client IO #1/INFO]: Server protocol version 2
+[09:42:09] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
+[09:42:09] [Netty Client IO #1/INFO]: Applying holder lookups
+[09:42:09] [Netty Client IO #1/INFO]: Holder lookups applied
+[09:42:09] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
+[09:42:10] [Client thread/INFO]: Requesting World ID
+[09:42:10] [Client thread/INFO]: Loading journeymap.topo.config
+[09:42:11] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[09:42:11] [Client thread/INFO]: Blocks and textures are current
+[09:42:11] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1312MB total, 907MB free 
+[09:42:11] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bM§f]
+[09:42:11] [Client thread/INFO]: JourneyMap: Press [M]
+[09:42:11] [Client thread/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[09:42:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[09:43:11] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 219.5, 75.0, -105.5]
+[09:44:52] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[09:44:52] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[09:45:02] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[09:45:04] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[09:45:04] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[09:48:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
+[09:48:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
+[09:49:33] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[09:49:33] [JM-task-4/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@4a13b453
+[09:49:33] [Client thread/INFO]: Applying holder lookups
+[09:49:33] [Client thread/INFO]: Holder lookups applied
