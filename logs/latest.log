@@ -1,41 +1,41 @@
-[09:41:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[09:41:49] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[09:41:49] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
-[09:41:49] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25
-[09:41:49] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[09:41:49] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[09:41:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[09:41:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[09:41:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[09:41:51] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[09:41:51] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[09:41:51] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[09:41:51] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[09:41:51] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[09:41:51] [Client thread/INFO]: Setting user: Boweeton
-[09:41:53] [Client thread/INFO]: LWJGL Version: 2.9.4
-[09:41:53] [Client thread/WARN]: =============================================================
-[09:41:53] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
-[09:41:53] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
-[09:41:53] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
-[09:41:53] [Client thread/WARN]: =============================================================
-[09:41:54] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+[13:40:40] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:40:40] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:40:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:40:40] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
+[13:40:40] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at S:\Games\Minecraft\runtime\jre-x64\1.8.0_25
+[13:40:40] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:40:40] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:40:40] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:40:40] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:40:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:40:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:40:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:40:42] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:40:42] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[13:40:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:40:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:40:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:40:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:40:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:40:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:40:42] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:40:43] [Client thread/INFO]: Setting user: Boweeton
+[13:40:45] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:40:45] [Client thread/WARN]: =============================================================
+[13:40:45] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[13:40:45] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[13:40:45] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[13:40:45] [Client thread/WARN]: =============================================================
+[13:40:46] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
 
 WARNING: coremods are present:
   NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
   NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
 Contact their authors BEFORE contacting forge
 
-// Why is it breaking :(
+// Hi. I'm Minecraft, and I'm a crashaholic.
 
-Time: 1/19/18 9:41 AM
+Time: 1/19/18 1:40 PM
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -50,7 +50,7 @@ Details:
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_25, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 100562872 bytes (95 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
+	Memory: 165486016 bytes (157 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
 	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
@@ -59,70 +59,70 @@ NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
   net.fybertech.nwr.NowWithRendering
 NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
   net.fybertech.nwr.NowWithRendering
-	GL info: ' Vendor: 'Intel' Version: '4.4.0 - Build 21.20.16.4526' Renderer: 'Intel(R) HD Graphics 630'
-[09:41:54] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
-[09:41:54] [Client thread/INFO]: Replaced 204 ore recipies
-[09:41:54] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[09:41:54] [Client thread/INFO]: Searching C:\Users\Boweeton\AppData\Roaming\.minecraft\mods for mods
-[09:41:55] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
-[09:41:55] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
-[09:41:55] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
-[09:41:56] [Client thread/INFO]: Starting automation
-[09:41:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
-[09:41:56] [Client thread/INFO]: Processing ObjectHolder annotations
-[09:41:56] [Client thread/INFO]: Found 418 ObjectHolder annotations
-[09:41:56] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[09:41:56] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[09:41:56] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[09:41:56] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
-[09:41:56] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
-[09:41:56] [Client thread/INFO]: No plugins for JourneyMap API discovered.
-[09:41:56] [Client thread/INFO]: MFR Loaded
-[09:41:56] [Client thread/INFO]: RightClickPlants Loaded
-[09:41:56] [Client thread/INFO]: Vanilla Loaded
-[09:41:57] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
-[09:41:57] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
-[09:41:57] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[09:41:57] [Client thread/INFO]: Pre-initialization complete!
-[09:41:57] [Client thread/INFO]: Applying holder lookups
-[09:41:57] [Client thread/INFO]: Holder lookups applied
-[09:41:57] [Client thread/INFO]: Injecting itemstacks
-[09:41:57] [Client thread/INFO]: Itemstack injection complete
-[09:41:57] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
-[09:41:57] [Client thread/ERROR]: Couldn't initialize twitch stream
-[09:41:57] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
-[09:41:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:41:57] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[09:41:57] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:41:58] [Thread-9/INFO]: OpenAL initialized.
-[09:41:58] [Sound Library Loader/INFO]: Sound engine started
-[09:41:59] [Client thread/INFO]: Max texture size: 16384
-[09:41:59] [Client thread/INFO]: Created: 16x16 textures-atlas
-[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
-[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
-[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
-[09:42:00] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
-[09:42:00] [Client thread/INFO]: JourneyMap log initialized.
-[09:42:00] [Client thread/INFO]: initialize ENTER
-[09:42:00] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
-[09:42:00] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[09:42:00] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
-[09:42:00] [Client thread/INFO]: Registering replacer for village generation
-[09:42:00] [Client thread/INFO]: Injecting itemstacks
-[09:42:00] [Client thread/INFO]: Itemstack injection complete
-[09:42:00] [Client thread/INFO]: postInitialize ENTER
-[09:42:00] [Client thread/INFO]: Registered channel: world_info
-[09:42:00] [Client thread/INFO]: Initializing icon sets...
-[09:42:01] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r364.08§8ms§r
-[09:42:01] [Client thread/INFO]: Prioritizing User and IMC mod configs...
-[09:42:01] [Client thread/INFO]: Registering items and trees...
-[09:42:01] [Client thread/INFO]: Skipping Ore Dictionary processing.
-[09:42:01] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
-[09:42:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
-[09:42:01] [Client thread/INFO]: SoundSystem shutting down...
-[09:42:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[09:42:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:42:01] [JM-VersionCheck-1/ERROR]: Could not check version URL
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13492 Compatibility Profile Context 22.19.685.0' Renderer: 'Radeon (TM) RX 480 Graphics'
+[13:40:46] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
+[13:40:46] [Client thread/INFO]: Replaced 204 ore recipies
+[13:40:46] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[13:40:46] [Client thread/INFO]: Searching C:\Users\Luke\AppData\Roaming\.minecraft\mods for mods
+[13:40:47] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
+[13:40:47] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
+[13:40:47] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
+[13:40:48] [Client thread/INFO]: Starting automation
+[13:40:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[13:40:48] [Client thread/INFO]: Processing ObjectHolder annotations
+[13:40:48] [Client thread/INFO]: Found 418 ObjectHolder annotations
+[13:40:48] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[13:40:48] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[13:40:48] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[13:40:48] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
+[13:40:48] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
+[13:40:48] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[13:40:48] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
+[13:40:48] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:40:48] [Client thread/INFO]: MFR Loaded
+[13:40:48] [Client thread/INFO]: RightClickPlants Loaded
+[13:40:48] [Client thread/INFO]: Vanilla Loaded
+[13:40:49] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[13:40:49] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
+[13:40:49] [Client thread/INFO]: Pre-initialization complete!
+[13:40:49] [Client thread/INFO]: Applying holder lookups
+[13:40:49] [Client thread/INFO]: Holder lookups applied
+[13:40:49] [Client thread/INFO]: Injecting itemstacks
+[13:40:49] [Client thread/INFO]: Itemstack injection complete
+[13:40:49] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[13:40:49] [Client thread/ERROR]: Couldn't initialize twitch stream
+[13:40:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:40:50] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[13:40:50] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:40:50] [Thread-9/INFO]: OpenAL initialized.
+[13:40:50] [Sound Library Loader/INFO]: Sound engine started
+[13:40:52] [Client thread/INFO]: Max texture size: 16384
+[13:40:52] [Client thread/INFO]: Created: 16x16 textures-atlas
+[13:40:53] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[13:40:53] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[13:40:53] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[13:40:53] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[13:40:53] [Client thread/INFO]: JourneyMap log initialized.
+[13:40:53] [Client thread/INFO]: initialize ENTER
+[13:40:53] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
+[13:40:53] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:40:53] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[13:40:54] [Client thread/INFO]: Registering replacer for village generation
+[13:40:54] [Client thread/INFO]: Injecting itemstacks
+[13:40:54] [Client thread/INFO]: Itemstack injection complete
+[13:40:54] [Client thread/INFO]: postInitialize ENTER
+[13:40:54] [Client thread/INFO]: Registered channel: world_info
+[13:40:54] [Client thread/INFO]: Initializing icon sets...
+[13:40:54] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r313.52§8ms§r
+[13:40:54] [Client thread/INFO]: Prioritizing User and IMC mod configs...
+[13:40:54] [Client thread/INFO]: Registering items and trees...
+[13:40:54] [Client thread/INFO]: Skipping Ore Dictionary processing.
+[13:40:54] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
+[13:40:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[13:40:54] [Client thread/INFO]: SoundSystem shutting down...
+[13:40:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:40:54] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:40:54] [JM-VersionCheck-1/ERROR]: Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -139,368 +139,48 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[09:42:01] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[09:42:01] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:42:01] [Thread-11/INFO]: OpenAL initialized.
-[09:42:01] [Sound Library Loader/INFO]: Sound engine started
-[09:42:02] [Client thread/INFO]: Max texture size: 16384
-[09:42:03] [Client thread/INFO]: Created: 1024x1024 textures-atlas
-[09:42:04] [Client thread/INFO]: Loading blocks and textures...
-[09:42:05] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 79.59ms
-[09:42:05] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 22.281026ms
-[09:42:05] [Client thread/INFO]: Existing color palette's resource packs and mod names match current loadout.
-[09:42:05] [Client thread/INFO]: Loaded 505 block colors from color palette file in 3ms: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[09:42:05] [Client thread/INFO]: Initialized 8317 block colors from mods and resource packs in 391ms
-[09:42:05] [Client thread/INFO]: Color palette file generated with 504 colors in 41ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[09:42:05] [Client thread/INFO]: Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[09:42:07] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[09:42:09] [Netty Client IO #1/INFO]: Server protocol version 2
-[09:42:09] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
-[09:42:09] [Netty Client IO #1/INFO]: Applying holder lookups
-[09:42:09] [Netty Client IO #1/INFO]: Holder lookups applied
-[09:42:09] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
-[09:42:10] [Client thread/INFO]: Requesting World ID
-[09:42:10] [Client thread/INFO]: Loading journeymap.topo.config
-[09:42:11] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[09:42:11] [Client thread/INFO]: Blocks and textures are current
-[09:42:11] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1312MB total, 907MB free 
-[09:42:11] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bM§f]
-[09:42:11] [Client thread/INFO]: JourneyMap: Press [M]
-[09:42:11] [Client thread/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[09:42:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[09:43:11] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 219.5, 75.0, -105.5]
-[09:44:52] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[09:44:52] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[09:45:02] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[09:45:04] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[09:45:04] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[09:48:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[09:48:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[09:49:33] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[09:49:33] [JM-task-4/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@4a13b453
-[09:49:33] [Client thread/INFO]: Applying holder lookups
-[09:49:33] [Client thread/INFO]: Holder lookups applied
-[09:58:12] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[09:58:13] [Netty Client IO #3/INFO]: Server protocol version 2
-[09:58:14] [Netty Client IO #3/INFO]: Injecting existing block and item data into this client instance
-[09:58:14] [Netty Client IO #3/INFO]: Applying holder lookups
-[09:58:14] [Netty Client IO #3/INFO]: Holder lookups applied
-[09:58:14] [Netty Client IO #3/INFO]: [Netty Client IO #3] Client side modded connection established
-[09:58:16] [Client thread/INFO]: Requesting World ID
-[09:58:16] [Client thread/INFO]: Loading journeymap.topo.config
-[09:58:17] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[09:58:17] [Client thread/INFO]: Blocks and textures are current
-[09:58:17] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1408MB total, 572MB free 
-[09:58:18] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[09:58:18] [JM-task-5/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@5f69a0e7
-[09:58:18] [Client thread/INFO]: Applying holder lookups
-[09:58:18] [Client thread/INFO]: Holder lookups applied
-[10:00:10] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[10:00:11] [Netty Client IO #5/INFO]: Server protocol version 2
-[10:00:11] [Netty Client IO #5/INFO]: Injecting existing block and item data into this client instance
-[10:00:11] [Netty Client IO #5/INFO]: Applying holder lookups
-[10:00:11] [Netty Client IO #5/INFO]: Holder lookups applied
-[10:00:12] [Netty Client IO #5/INFO]: [Netty Client IO #5] Client side modded connection established
-[10:00:13] [Client thread/INFO]: Requesting World ID
-[10:00:13] [Client thread/INFO]: Loading journeymap.topo.config
-[10:00:13] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[10:00:13] [Client thread/INFO]: Blocks and textures are current
-[10:00:13] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1392MB total, 827MB free 
-[10:01:13] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[10:01:13] [JM-task-6/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@104fda18
-[10:01:13] [Client thread/INFO]: Applying holder lookups
-[10:01:13] [Client thread/INFO]: Holder lookups applied
-[10:03:28] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[10:03:29] [Netty Client IO #7/INFO]: Server protocol version 2
-[10:03:29] [Netty Client IO #7/INFO]: Injecting existing block and item data into this client instance
-[10:03:29] [Netty Client IO #7/INFO]: Applying holder lookups
-[10:03:29] [Netty Client IO #7/INFO]: Holder lookups applied
-[10:03:30] [Netty Client IO #7/INFO]: [Netty Client IO #7] Client side modded connection established
-[10:03:31] [Client thread/INFO]: Requesting World ID
-[10:03:31] [Client thread/INFO]: Loading journeymap.topo.config
-[10:03:31] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[10:03:31] [Client thread/INFO]: Blocks and textures are current
-[10:03:31] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1392MB total, 718MB free 
-[10:04:12] [Client thread/ERROR]: Item entity 548974 has no item?!
-[10:05:28] [Client thread/ERROR]: Item entity 548666 has no item?!
-[10:09:31] [Client thread/ERROR]: Item entity 588481 has no item?!
-[10:09:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:10:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:11] [Client thread/ERROR]: Item entity 599383 has no item?!
-[10:10:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:10:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:10:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:10:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:10:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:10:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:11:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:11:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:11:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:11:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:12:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:12:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:12:30] [Client thread/ERROR]: Item entity 626203 has no item?!
-[10:12:30] [Client thread/ERROR]: Item entity 626203 has no item?!
-[10:12:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:12:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:14:03] [Client thread/ERROR]: Item entity 640324 has no item?!
-[10:14:03] [Client thread/ERROR]: Item entity 640324 has no item?!
-[10:14:03] [Client thread/ERROR]: Item entity 640324 has no item?!
-[10:14:03] [Client thread/ERROR]: Item entity 640324 has no item?!
-[10:15:24] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[10:15:24] [Client thread/INFO]: Applying holder lookups
-[10:15:24] [Client thread/INFO]: Holder lookups applied
-[10:15:39] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[10:15:40] [Netty Client IO #1/INFO]: Server protocol version 2
-[10:15:41] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
-[10:15:41] [Netty Client IO #1/INFO]: Applying holder lookups
-[10:15:41] [Netty Client IO #1/INFO]: Holder lookups applied
-[10:15:41] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
-[10:15:42] [Client thread/INFO]: Requesting World ID
-[10:15:42] [Client thread/INFO]: Loading journeymap.topo.config
-[10:15:42] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[10:15:42] [Client thread/INFO]: Blocks and textures are current
-[10:15:42] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1936MB total, 1207MB free 
-[10:16:10] [Client thread/ERROR]: Item entity 662089 has no item?!
-[10:16:10] [Client thread/ERROR]: Item entity 662089 has no item?!
-[10:16:10] [Client thread/ERROR]: Item entity 662089 has no item?!
-[10:16:10] [Client thread/ERROR]: Item entity 662089 has no item?!
-[10:16:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:16:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:16:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:16:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:16:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:16:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:17:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:18:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:18:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:18:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:18:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:18:35] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[10:18:35] [Client thread/INFO]: Applying holder lookups
-[10:18:35] [Client thread/INFO]: Holder lookups applied
-[10:23:36] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[10:23:37] [Netty Client IO #3/INFO]: Server protocol version 2
-[10:23:38] [Netty Client IO #3/INFO]: Injecting existing block and item data into this client instance
-[10:23:38] [Netty Client IO #3/INFO]: Applying holder lookups
-[10:23:38] [Netty Client IO #3/INFO]: Holder lookups applied
-[10:23:38] [Netty Client IO #3/INFO]: [Netty Client IO #3] Client side modded connection established
-[10:23:40] [Client thread/INFO]: Requesting World ID
-[10:23:40] [Client thread/INFO]: Loading journeymap.topo.config
-[10:23:40] [Client thread/INFO]: Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[10:23:40] [Client thread/INFO]: Blocks and textures are current
-[10:23:40] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1936MB total, 1120MB free 
-[10:23:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:23:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:23:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:24:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:24:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[10:26:09] [Client thread/ERROR]: Item entity 724802 has no item?!
-[10:26:09] [Client thread/ERROR]: Item entity 724802 has no item?!
-[10:26:21] [Client thread/ERROR]: Item entity 714755 has no item?!
-[10:27:11] [Client thread/ERROR]: Item entity 731296 has no item?!
-[10:27:11] [Client thread/ERROR]: Item entity 731296 has no item?!
-[10:27:11] [Client thread/ERROR]: Item entity 731296 has no item?!
-[10:31:32] [Client thread/ERROR]: Item entity 756164 has no item?!
-[10:32:22] [Client thread/ERROR]: Item entity 771086 has no item?!
-[10:32:22] [Client thread/ERROR]: Item entity 771086 has no item?!
-[10:32:22] [Client thread/ERROR]: Item entity 771086 has no item?!
-[10:34:07] [Client thread/ERROR]: Item entity 783385 has no item?!
-[10:34:07] [Client thread/ERROR]: Item entity 783385 has no item?!
-[10:34:49] [Client thread/ERROR]: Item entity 787457 has no item?!
-[10:34:49] [Client thread/ERROR]: Item entity 787457 has no item?!
-[10:34:50] [Client thread/ERROR]: Item entity 787469 has no item?!
-[10:34:50] [Client thread/ERROR]: Item entity 787469 has no item?!
-[10:37:13] [Client thread/ERROR]: Item entity 782198 has no item?!
-[10:38:20] [Client thread/ERROR]: Item entity 780562 has no item?!
-[10:41:48] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[10:41:48] [JM-task-13/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@53e26545
-[10:41:48] [Client thread/INFO]: Applying holder lookups
-[10:41:48] [Client thread/INFO]: Holder lookups applied
-[11:24:06] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[11:24:07] [Netty Client IO #5/INFO]: Server protocol version 2
-[11:24:08] [Netty Client IO #5/INFO]: Injecting existing block and item data into this client instance
-[11:24:08] [Netty Client IO #5/INFO]: Applying holder lookups
-[11:24:08] [Netty Client IO #5/INFO]: Holder lookups applied
-[11:24:08] [Netty Client IO #5/INFO]: [Netty Client IO #5] Client side modded connection established
-[11:24:09] [Client thread/INFO]: Requesting World ID
-[11:24:09] [Client thread/INFO]: Loading journeymap.topo.config
-[11:24:09] [Client thread/INFO]: Loaded 11 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[11:24:09] [Client thread/INFO]: Blocks and textures are current
-[11:24:09] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1936MB total, 1023MB free 
-[11:27:25] [Client thread/ERROR]: Item entity 1083773 has no item?!
-[11:27:25] [Client thread/ERROR]: Item entity 1083773 has no item?!
-[11:30:57] [Client thread/ERROR]: Item entity 1108291 has no item?!
-[11:30:57] [Client thread/ERROR]: Item entity 1108291 has no item?!
-[11:32:34] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[11:32:34] [Client thread/INFO]: Applying holder lookups
-[11:32:34] [Client thread/INFO]: Holder lookups applied
-[11:59:51] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[11:59:52] [Netty Client IO #7/INFO]: Server protocol version 2
-[11:59:52] [Netty Client IO #7/INFO]: Injecting existing block and item data into this client instance
-[11:59:52] [Netty Client IO #7/INFO]: Applying holder lookups
-[11:59:52] [Netty Client IO #7/INFO]: Holder lookups applied
-[11:59:53] [Netty Client IO #7/INFO]: [Netty Client IO #7] Client side modded connection established
-[11:59:55] [Client thread/INFO]: Requesting World ID
-[11:59:55] [Client thread/INFO]: Loading journeymap.topo.config
-[11:59:55] [Client thread/INFO]: Loaded 11 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[11:59:55] [Client thread/INFO]: Blocks and textures are current
-[11:59:55] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2368MB total, 1326MB free 
-[12:00:00] [Client thread/INFO]: [CHAT] /weather, /worldborder, /whitelist, /w
-[12:00:01] [Client thread/INFO]: [CHAT] clear, rain, thunder
-[12:00:02] [Client thread/INFO]: [CHAT] Changing to clear weather
-[12:01:11] [Client thread/INFO]: [CHAT] Usage: /time <set|add|query> <value>
-[12:01:15] [Client thread/INFO]: [CHAT] Set the time to 0
-[12:06:10] [Client thread/INFO]: [CHAT] Teleported Boweeton to 245.5, 63.0, -68.5
-[12:07:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:28] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 5
-[12:07:55] [Client thread/INFO]: [CHAT] Teleported Boweeton to -1511.5, 68.0, 836.5
-[12:08:11] [Client thread/INFO]: [CHAT] Teleported Boweeton to 245.5, 102.0, -65.5
-[12:08:35] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 219.5, 75.0, -105.5]
-[12:09:01] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[12:09:01] [Client thread/INFO]: Applying holder lookups
-[12:09:01] [Client thread/INFO]: Holder lookups applied
-[12:09:04] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[12:09:06] [Netty Client IO #1/INFO]: Server protocol version 2
-[12:10:03] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[12:10:04] [Netty Client IO #2/INFO]: Server protocol version 2
-[12:10:05] [Netty Client IO #2/INFO]: Injecting existing block and item data into this client instance
-[12:10:05] [Netty Client IO #2/INFO]: Applying holder lookups
-[12:10:05] [Netty Client IO #2/INFO]: Holder lookups applied
-[12:10:05] [Netty Client IO #2/INFO]: [Netty Client IO #2] Client side modded connection established
-[12:10:06] [Client thread/INFO]: Requesting World ID
-[12:10:06] [Client thread/INFO]: Loading journeymap.topo.config
-[12:10:06] [Client thread/INFO]: Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[12:10:06] [Client thread/INFO]: Blocks and textures are current
-[12:10:06] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2368MB total, 1312MB free 
-[12:10:22] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 248.5, 103.0, -69.5]
-[12:10:28] [Client thread/INFO]: [CHAT] Teleported Boweeton to -1511.5, 68.0, 836.5
-[12:11:37] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[12:11:37] [Client thread/INFO]: Applying holder lookups
-[12:11:37] [Client thread/INFO]: Holder lookups applied
-[12:11:39] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[12:11:40] [Netty Client IO #4/INFO]: Server protocol version 2
-[12:11:41] [Netty Client IO #4/INFO]: Injecting existing block and item data into this client instance
-[12:11:41] [Netty Client IO #4/INFO]: Applying holder lookups
-[12:11:41] [Netty Client IO #4/INFO]: Holder lookups applied
-[12:11:41] [Netty Client IO #4/INFO]: [Netty Client IO #4] Client side modded connection established
-[12:11:43] [Client thread/INFO]: Requesting World ID
-[12:11:43] [Client thread/INFO]: Loading journeymap.topo.config
-[12:11:43] [Client thread/INFO]: Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[12:11:43] [Client thread/INFO]: Blocks and textures are current
-[12:11:43] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2368MB total, 1305MB free 
-[12:12:26] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
-[12:12:27] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
-[12:12:28] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
-[12:12:31] [Client thread/INFO]: [CHAT] Game rule has been updated
-[12:12:54] [Client thread/ERROR]: Item entity 1369935 has no item?!
-[12:12:54] [Client thread/ERROR]: Item entity 1369935 has no item?!
-[12:12:54] [Client thread/ERROR]: Item entity 1369935 has no item?!
-[12:13:54] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[12:13:54] [Client thread/INFO]: Applying holder lookups
-[12:13:54] [Client thread/INFO]: Holder lookups applied
-[12:14:35] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[12:14:36] [Netty Client IO #6/INFO]: Server protocol version 2
-[12:14:37] [Netty Client IO #6/INFO]: Injecting existing block and item data into this client instance
-[12:14:37] [Netty Client IO #6/INFO]: Applying holder lookups
-[12:14:37] [Netty Client IO #6/INFO]: Holder lookups applied
-[12:14:37] [Netty Client IO #6/INFO]: [Netty Client IO #6] Client side modded connection established
-[12:14:38] [Client thread/INFO]: Requesting World ID
-[12:14:38] [Client thread/INFO]: Loading journeymap.topo.config
-[12:14:39] [Client thread/INFO]: Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[12:14:39] [Client thread/INFO]: Blocks and textures are current
-[12:14:39] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2720MB total, 1485MB free 
-[12:16:00] [Client thread/INFO]: [CHAT] Teleported Boweeton to 245.5, 102.0, -65.5
-[12:16:19] [Client thread/INFO]: [CHAT] Teleported Boweeton to -1511.5, 68.0, 836.5
-[12:17:31] [Client thread/INFO]: [CHAT] Teleported Boweeton to 245.5, 102.0, -65.5
-[12:17:41] [Client thread/INFO]: [CHAT] Teleported Boweeton to 247.5, 70.0, -204.5
-[12:17:59] [Client thread/INFO]: [CHAT] Teleported Boweeton to -200.5, 63.0, -922.5
-[12:18:28] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[12:18:28] [Client thread/INFO]: Applying holder lookups
-[12:18:28] [Client thread/INFO]: Holder lookups applied
-[12:22:03] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
-[12:22:04] [Netty Client IO #0/INFO]: Server protocol version 2
-[12:22:04] [Netty Client IO #0/INFO]: Injecting existing block and item data into this client instance
-[12:22:04] [Netty Client IO #0/INFO]: Applying holder lookups
-[12:22:04] [Netty Client IO #0/INFO]: Holder lookups applied
-[12:22:04] [Netty Client IO #0/INFO]: [Netty Client IO #0] Client side modded connection established
-[12:22:06] [Client thread/INFO]: Requesting World ID
-[12:22:06] [Client thread/INFO]: Loading journeymap.topo.config
-[12:22:06] [Client thread/INFO]: Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[12:22:06] [Client thread/INFO]: Blocks and textures are current
-[12:22:06] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2720MB total, 1313MB free 
-[12:23:16] [Client thread/INFO]: [CHAT] Teleported Boweeton to 245.5, 102.0, -65.5
-[12:23:27] [Client thread/INFO]: [CHAT] Teleported Boweeton to -203.5, 69.0, -924.5
-[12:23:27] [JM-task-57/WARN]: Bad block at 14,89,10. Total bad blocks: 1
-[12:24:06] [Client thread/INFO]: [CHAT] Teleported Boweeton to -1511.5, 68.0, 836.5
-[12:24:41] [Client thread/INFO]: [CHAT] Teleported Boweeton to 245.5, 102.0, -65.5
-[12:30:54] [Client thread/INFO]: [CHAT] minecraft:ghast_tear, minecraft:book, minecraft:chainmail_chestplate, minecraft:sand, minecraft:diamond_pickaxe, minecraft:record_11, minecraft:birch_fence_gate, minecraft:bucket, minecraft:emerald, minecraft:leather_boots, minecraft:stained_glass, minecraft:iron_ingot, minecraft:activator_rail, minecraft:quartz_block, minecraft:leather_helmet, minecraft:record_far, minecraft:ice, minecraft:dispenser, minecraft:record_wait, minecraft:sugar, minecraft:fireworks, minecraft:glass_pane, minecraft:bookshelf, minecraft:chicken, minecraft:stained_hardened_clay, minecraft:quartz, minecraft:ender_eye, minecraft:cooked_fish, minecraft:fence_gate, minecraft:gold_ore, minecraft:flint, minecraft:iron_horse_armor, minecraft:rail, minecraft:diamond_shovel, minecraft:hay_block, minecraft:hopper, minecraft:mutton, minecraft:string, minecraft:wooden_axe, minecraft:netherbrick, minecraft:gold_ingot, minecraft:melon_seeds, minecraft:coal, minecraft:nether_wart, minecraft:painting, minecraft:bread, minecraft:dark_oak_door, minecraft:chest_minecart, minecraft:prismarine, minecraft:rotten_flesh, minecraft:cake, minecraft:iron_bars, minecraft:lapis_block, minecraft:cookie, minecraft:wool, minecraft:spruce_door, minecraft:rabbit_foot, minecraft:golden_boots, minecraft:record_13, minecraft:milk_bucket, minecraft:record_stal, minecraft:water_bucket, minecraft:stonebrick, minecraft:potion, minecraft:redstone, minecraft:diamond_block, minecraft:iron_block, minecraft:golden_leggings, minecraft:jungle_stairs, minecraft:item_frame, minecraft:reeds, minecraft:jungle_fence_gate, minecraft:acacia_fence_gate, minecraft:wooden_shovel, minecraft:piston, minecraft:bow, minecraft:iron_hoe, minecraft:vine, minecraft:diamond_helmet, minecraft:furnace, minecraft:snowball, minecraft:daylight_detector, minecraft:tnt_minecart, minecraft:spruce_fence_gate, minecraft:rabbit_stew, minecraft:map, minecraft:detector_rail, minecraft:netherrack, minecraft:wooden_sword, minecraft:beacon, minecraft:diamond_axe, minecraft:grass, minecraft:glowstone, minecraft:golden_rail, minecraft:anvil, minecraft:iron_leggings, minecraft:acacia_fence, minecraft:gold_nugget, minecraft:acacia_stairs, minecraft:record_blocks, minecraft:melon, minecraft:iron_shovel, minecraft:coal_block, minecraft:gold_block, minecraft:monster_egg, minecraft:mob_spawner, minecraft:magma_cream, minecraft:boat, minecraft:wooden_slab, minecraft:iron_ore, minecraft:redstone_block, minecraft:yellow_flower, minecraft:rabbit_hide, minecraft:heavy_weighted_pressure_plate, minecraft:apple, minecraft:mossy_cobblestone, minecraft:sticky_piston, minecraft:nether_brick_stairs, minecraft:trapdoor, minecraft:pumpkin_seeds, minecraft:red_sandstone_stairs, minecraft:diamond_horse_armor, minecraft:leaves, minecraft:prismarine_shard, minecraft:golden_apple, minecraft:carrot_on_a_stick, minecraft:carpet, minecraft:stone_shovel, minecraft:planks, minecraft:trapped_chest, minecraft:diamond_sword, minecraft:iron_sword, minecraft:crafting_table, minecraft:blaze_rod, minecraft:birch_stairs, minecraft:dragon_egg, minecraft:furnace_minecart, minecraft:cauldron, minecraft:noteblock, morefurnaces:furnaceBlock, minecraft:bed, minecraft:packed_ice, minecraft:dye, minecraft:lapis_ore, minecraft:iron_helmet, minecraft:stick, minecraft:chainmail_leggings, minecraft:poisonous_potato, minecraft:birch_fence, minecraft:diamond_chestplate, minecraft:wooden_hoe, minecraft:slime_ball, minecraft:sign, minecraft:prismarine_crystals, minecraft:lever, minecraft:paper, minecraft:redstone_ore, minecraft:record_chirp, minecraft:stone_stairs, minecraft:glass, minecraft:web, minecraft:name_tag, minecraft:record_ward, minecraft:leather, minecraft:jungle_door, minecraft:cobblestone, minecraft:ender_chest, minecraft:nether_brick, minecraft:snow_layer, minecraft:spawn_egg, minecraft:iron_chestplate, minecraft:tnt, minecraft:snow, minecraft:fermented_spider_eye, minecraft:cooked_chicken, minecraft:minecart, minecraft:hardened_clay, minecraft:cobblestone_wall, minecraft:stone_button, minecraft:stone_slab, minecraft:stained_glass_pane, minecraft:clay, minecraft:rabbit, minecraft:glass_bottle, minecraft:redstone_lamp, minecraft:record_cat, minecraft:brown_mushroom_block, minecraft:clay_ball, minecraft:tallgrass, minecraft:repeater, minecraft:nether_star, minecraft:brick_block, minecraft:flower_pot, minecraft:emerald_block, minecraft:golden_carrot, minecraft:red_flower, minecraft:beef, minecraft:firework_charge, minecraft:stone, minecraft:soul_sand, minecraft:mycelium, minecraft:light_weighted_pressure_plate, minecraft:diamond_leggings, minecraft:iron_door, minecraft:golden_horse_armor, minecraft:bedrock, minecraft:baked_potato, minecraft:brick, minecraft:diamond_boots, minecraft:iron_boots, minecraft:writable_book, minecraft:comparator, minecraft:torch, minecraft:diamond_hoe, minecraft:lit_furnace, minecraft:farmland, minecraft:banner, minecraft:command_block_minecart, minecraft:carrot, minecraft:slime, minecraft:enchanting_table, minecraft:dropper, minecraft:potato, minecraft:fishing_rod, minecraft:blaze_powder, minecraft:chainmail_boots, minecraft:pumpkin_pie, minecraft:enchanted_book, minecraft:cooked_mutton, minecraft:cactus, minecraft:command_block, minecraft:end_stone, minecraft:sapling, minecraft:compass, minecraft:cooked_rabbit, minecraft:log, minecraft:leather_chestplate, minecraft:saddle, minecraft:lava_bucket, minecraft:log2, minecraft:quartz_stairs, minecraft:red_mushroom, minecraft:diamond_ore, minecraft:experience_bottle, minecraft:coal_ore, minecraft:spruce_stairs, minecraft:waterlily, minecraft:quartz_ore, minecraft:stone_pressure_plate, minecraft:gravel, minecraft:acacia_door, minecraft:lit_pumpkin, minecraft:barrier, minecraft:jungle_fence, minecraft:wooden_pressure_plate, minecraft:filled_map, minecraft:fish, minecraft:golden_chestplate, minecraft:cooked_porkchop, minecraft:bowl, minecraft:stone_slab2, minecraft:gunpowder, minecraft:brown_mushroom, minecraft:redstone_torch, minecraft:spider_eye, minecraft:golden_shovel, minecraft:sandstone_stairs, minecraft:red_sandstone, minecraft:stone_pickaxe, minecraft:deadbush, minecraft:brick_stairs, minecraft:arrow, minecraft:red_mushroom_block, minecraft:jukebox, minecraft:spruce_fence, minecraft:birch_door, minecraft:obsidian, minecraft:armor_stand, minecraft:feather, minecraft:record_mellohi, minecraft:dark_oak_fence_gate, minecraft:ender_pearl, minecraft:stone_brick_stairs, minecraft:wooden_door, minecraft:oak_stairs, minecraft:written_book, minecraft:speckled_melon, minecraft:brewing_stand, minecraft:record_strad, minecraft:leaves2, minecraft:end_portal_frame, minecraft:sea_lantern, minecraft:chainmail_helmet, minecraft:diamond, minecraft:shears, minecraft:skull, minecraft:dirt, minecraft:emerald_ore, minecraft:egg, minecraft:record_mall, minecraft:cooked_beef, minecraft:leather_leggings, minecraft:golden_pickaxe, minecraft:sponge, minecraft:iron_axe, minecraft:dark_oak_stairs, minecraft:clock, minecraft:nether_brick_fence, minecraft:iron_pickaxe, minecraft:golden_helmet, minecraft:sandstone, minecraft:ladder, minecraft:fire_charge, minecraft:lead, minecraft:golden_hoe, minecraft:stone_hoe, minecraft:stone_sword, minecraft:mushroom_stew, minecraft:glowstone_dust, minecraft:iron_trapdoor, minecraft:chest, minecraft:bone, minecraft:hopper_minecart, minecraft:flint_and_steel, minecraft:wheat, minecraft:melon_block, minecraft:wooden_button, minecraft:wooden_pickaxe, minecraft:double_plant, minecraft:pumpkin, minecraft:wheat_seeds, minecraft:porkchop, minecraft:fence, minecraft:dark_oak_fence, minecraft:tripwire_hook, minecraft:golden_axe, minecraft:golden_sword, minecraft:stone_axe
-[12:30:54] [Client thread/INFO]: [CHAT] minecraft:ghast_tear, minecraft:book, minecraft:chainmail_chestplate, minecraft:sand, minecraft:diamond_pickaxe, minecraft:record_11, minecraft:birch_fence_gate, minecraft:bucket, minecraft:emerald, minecraft:leather_boots, minecraft:stained_glass, minecraft:iron_ingot, minecraft:activator_rail, minecraft:quartz_block, minecraft:leather_helmet, minecraft:record_far, minecraft:ice, minecraft:dispenser, minecraft:record_wait, minecraft:sugar, minecraft:fireworks, minecraft:glass_pane, minecraft:bookshelf, minecraft:chicken, minecraft:stained_hardened_clay, minecraft:quartz, minecraft:ender_eye, minecraft:cooked_fish, minecraft:fence_gate, minecraft:gold_ore, minecraft:flint, minecraft:iron_horse_armor, minecraft:rail, minecraft:diamond_shovel, minecraft:hay_block, minecraft:hopper, minecraft:mutton, minecraft:string, minecraft:wooden_axe, minecraft:netherbrick, minecraft:gold_ingot, minecraft:melon_seeds, minecraft:coal, minecraft:nether_wart, minecraft:painting, minecraft:bread, minecraft:dark_oak_door, minecraft:chest_minecart, minecraft:prismarine, minecraft:rotten_flesh, minecraft:cake, minecraft:iron_bars, minecraft:lapis_block, minecraft:cookie, minecraft:wool, minecraft:spruce_door, minecraft:rabbit_foot, minecraft:golden_boots, minecraft:record_13, minecraft:milk_bucket, minecraft:record_stal, minecraft:water_bucket, minecraft:stonebrick, minecraft:potion, minecraft:redstone, minecraft:diamond_block, minecraft:iron_block, minecraft:golden_leggings, minecraft:jungle_stairs, minecraft:item_frame, minecraft:reeds, minecraft:jungle_fence_gate, minecraft:acacia_fence_gate, minecraft:wooden_shovel, minecraft:piston, minecraft:bow, minecraft:iron_hoe, minecraft:vine, minecraft:diamond_helmet, minecraft:furnace, minecraft:snowball, minecraft:daylight_detector, minecraft:tnt_minecart, minecraft:spruce_fence_gate, minecraft:rabbit_stew, minecraft:map, minecraft:detector_rail, minecraft:netherrack, minecraft:wooden_sword, minecraft:beacon, minecraft:diamond_axe, minecraft:grass, minecraft:glowstone, minecraft:golden_rail, minecraft:anvil, minecraft:iron_leggings, minecraft:acacia_fence, minecraft:gold_nugget, minecraft:acacia_stairs, minecraft:record_blocks, minecraft:melon, minecraft:iron_shovel, minecraft:coal_block, minecraft:gold_block, minecraft:monster_egg, minecraft:mob_spawner, minecraft:magma_cream, minecraft:boat, minecraft:wooden_slab, minecraft:iron_ore, minecraft:redstone_block, minecraft:yellow_flower, minecraft:rabbit_hide, minecraft:heavy_weighted_pressure_plate, minecraft:apple, minecraft:mossy_cobblestone, minecraft:sticky_piston, minecraft:nether_brick_stairs, minecraft:trapdoor, minecraft:pumpkin_seeds, minecraft:red_sandstone_stairs, minecraft:diamond_horse_armor, minecraft:leaves, minecraft:prismarine_shard, minecraft:golden_apple, minecraft:carrot_on_a_stick, minecraft:carpet, minecraft:stone_shovel, minecraft:planks, minecraft:trapped_chest, minecraft:diamond_sword, minecraft:iron_sword, minecraft:crafting_table, minecraft:blaze_rod, minecraft:birch_stairs, minecraft:dragon_egg, minecraft:furnace_minecart, minecraft:cauldron, minecraft:noteblock, morefurnaces:furnaceBlock, minecraft:bed, minecraft:packed_ice, minecraft:dye, minecraft:lapis_ore, minecraft:iron_helmet, minecraft:stick, minecraft:chainmail_leggings, minecraft:poisonous_potato, minecraft:birch_fence, minecraft:diamond_chestplate, minecraft:wooden_hoe, minecraft:slime_ball, minecraft:sign, minecraft:prismarine_crystals, minecraft:lever, minecraft:paper, minecraft:redstone_ore, minecraft:record_chirp, minecraft:stone_stairs, minecraft:glass, minecraft:web, minecraft:name_tag, minecraft:record_ward, minecraft:leather, minecraft:jungle_door, minecraft:cobblestone, minecraft:ender_chest, minecraft:nether_brick, minecraft:snow_layer, minecraft:spawn_egg, minecraft:iron_chestplate, minecraft:tnt, minecraft:snow, minecraft:fermented_spider_eye, minecraft:cooked_chicken, minecraft:minecart, minecraft:hardened_clay, minecraft:cobblestone_wall, minecraft:stone_button, minecraft:stone_slab, minecraft:stained_glass_pane, minecraft:clay, minecraft:rabbit, minecraft:glass_bottle, minecraft:redstone_lamp, minecraft:record_cat, minecraft:brown_mushroom_block, minecraft:clay_ball, minecraft:tallgrass, minecraft:repeater, minecraft:nether_star, minecraft:brick_block, minecraft:flower_pot, minecraft:emerald_block, minecraft:golden_carrot, minecraft:red_flower, minecraft:beef, minecraft:firework_charge, minecraft:stone, minecraft:soul_sand, minecraft:mycelium, minecraft:light_weighted_pressure_plate, minecraft:diamond_leggings, minecraft:iron_door, minecraft:golden_horse_armor, minecraft:bedrock, minecraft:baked_potato, minecraft:brick, minecraft:diamond_boots, minecraft:iron_boots, minecraft:writable_book, minecraft:comparator, minecraft:torch, minecraft:diamond_hoe, minecraft:lit_furnace, minecraft:farmland, minecraft:banner, minecraft:command_block_minecart, minecraft:carrot, minecraft:slime, minecraft:enchanting_table, minecraft:dropper, minecraft:potato, minecraft:fishing_rod, minecraft:blaze_powder, minecraft:chainmail_boots, minecraft:pumpkin_pie, minecraft:enchanted_book, minecraft:cooked_mutton, minecraft:cactus, minecraft:command_block, minecraft:end_stone, minecraft:sapling, minecraft:compass, minecraft:cooked_rabbit, minecraft:log, minecraft:leather_chestplate, minecraft:saddle, minecraft:lava_bucket, minecraft:log2, minecraft:quartz_stairs, minecraft:red_mushroom, minecraft:diamond_ore, minecraft:experience_bottle, minecraft:coal_ore, minecraft:spruce_stairs, minecraft:waterlily, minecraft:quartz_ore, minecraft:stone_pressure_plate, minecraft:gravel, minecraft:acacia_door, minecraft:lit_pumpkin, minecraft:barrier, minecraft:jungle_fence, minecraft:wooden_pressure_plate, minecraft:filled_map, minecraft:fish, minecraft:golden_chestplate, minecraft:cooked_porkchop, minecraft:bowl, minecraft:stone_slab2, minecraft:gunpowder, minecraft:brown_mushroom, minecraft:redstone_torch, minecraft:spider_eye, minecraft:golden_shovel, minecraft:sandstone_stairs, minecraft:red_sandstone, minecraft:stone_pickaxe, minecraft:deadbush, minecraft:brick_stairs, minecraft:arrow, minecraft:red_mushroom_block, minecraft:jukebox, minecraft:spruce_fence, minecraft:birch_door, minecraft:obsidian, minecraft:armor_stand, minecraft:feather, minecraft:record_mellohi, minecraft:dark_oak_fence_gate, minecraft:ender_pearl, minecraft:stone_brick_stairs, minecraft:wooden_door, minecraft:oak_stairs, minecraft:written_book, minecraft:speckled_melon, minecraft:brewing_stand, minecraft:record_strad, minecraft:leaves2, minecraft:end_portal_frame, minecraft:sea_lantern, minecraft:chainmail_helmet, minecraft:diamond, minecraft:shears, minecraft:skull, minecraft:dirt, minecraft:emerald_ore, minecraft:egg, minecraft:record_mall, minecraft:cooked_beef, minecraft:leather_leggings, minecraft:golden_pickaxe, minecraft:sponge, minecraft:iron_axe, minecraft:dark_oak_stairs, minecraft:clock, minecraft:nether_brick_fence, minecraft:iron_pickaxe, minecraft:golden_helmet, minecraft:sandstone, minecraft:ladder, minecraft:fire_charge, minecraft:lead, minecraft:golden_hoe, minecraft:stone_hoe, minecraft:stone_sword, minecraft:mushroom_stew, minecraft:glowstone_dust, minecraft:iron_trapdoor, minecraft:chest, minecraft:bone, minecraft:hopper_minecart, minecraft:flint_and_steel, minecraft:wheat, minecraft:melon_block, minecraft:wooden_button, minecraft:wooden_pickaxe, minecraft:double_plant, minecraft:pumpkin, minecraft:wheat_seeds, minecraft:porkchop, minecraft:fence, minecraft:dark_oak_fence, minecraft:tripwire_hook, minecraft:golden_axe, minecraft:golden_sword, minecraft:stone_axe
-[12:30:55] [Client thread/INFO]: [CHAT] minecraft:ghast_tear, minecraft:book, minecraft:chainmail_chestplate, minecraft:sand, minecraft:diamond_pickaxe, minecraft:record_11, minecraft:birch_fence_gate, minecraft:bucket, minecraft:emerald, minecraft:leather_boots, minecraft:stained_glass, minecraft:iron_ingot, minecraft:activator_rail, minecraft:quartz_block, minecraft:leather_helmet, minecraft:record_far, minecraft:ice, minecraft:dispenser, minecraft:record_wait, minecraft:sugar, minecraft:fireworks, minecraft:glass_pane, minecraft:bookshelf, minecraft:chicken, minecraft:stained_hardened_clay, minecraft:quartz, minecraft:ender_eye, minecraft:cooked_fish, minecraft:fence_gate, minecraft:gold_ore, minecraft:flint, minecraft:iron_horse_armor, minecraft:rail, minecraft:diamond_shovel, minecraft:hay_block, minecraft:hopper, minecraft:mutton, minecraft:string, minecraft:wooden_axe, minecraft:netherbrick, minecraft:gold_ingot, minecraft:melon_seeds, minecraft:coal, minecraft:nether_wart, minecraft:painting, minecraft:bread, minecraft:dark_oak_door, minecraft:chest_minecart, minecraft:prismarine, minecraft:rotten_flesh, minecraft:cake, minecraft:iron_bars, minecraft:lapis_block, minecraft:cookie, minecraft:wool, minecraft:spruce_door, minecraft:rabbit_foot, minecraft:golden_boots, minecraft:record_13, minecraft:milk_bucket, minecraft:record_stal, minecraft:water_bucket, minecraft:stonebrick, minecraft:potion, minecraft:redstone, minecraft:diamond_block, minecraft:iron_block, minecraft:golden_leggings, minecraft:jungle_stairs, minecraft:item_frame, minecraft:reeds, minecraft:jungle_fence_gate, minecraft:acacia_fence_gate, minecraft:wooden_shovel, minecraft:piston, minecraft:bow, minecraft:iron_hoe, minecraft:vine, minecraft:diamond_helmet, minecraft:furnace, minecraft:snowball, minecraft:daylight_detector, minecraft:tnt_minecart, minecraft:spruce_fence_gate, minecraft:rabbit_stew, minecraft:map, minecraft:detector_rail, minecraft:netherrack, minecraft:wooden_sword, minecraft:beacon, minecraft:diamond_axe, minecraft:grass, minecraft:glowstone, minecraft:golden_rail, minecraft:anvil, minecraft:iron_leggings, minecraft:acacia_fence, minecraft:gold_nugget, minecraft:acacia_stairs, minecraft:record_blocks, minecraft:melon, minecraft:iron_shovel, minecraft:coal_block, minecraft:gold_block, minecraft:monster_egg, minecraft:mob_spawner, minecraft:magma_cream, minecraft:boat, minecraft:wooden_slab, minecraft:iron_ore, minecraft:redstone_block, minecraft:yellow_flower, minecraft:rabbit_hide, minecraft:heavy_weighted_pressure_plate, minecraft:apple, minecraft:mossy_cobblestone, minecraft:sticky_piston, minecraft:nether_brick_stairs, minecraft:trapdoor, minecraft:pumpkin_seeds, minecraft:red_sandstone_stairs, minecraft:diamond_horse_armor, minecraft:leaves, minecraft:prismarine_shard, minecraft:golden_apple, minecraft:carrot_on_a_stick, minecraft:carpet, minecraft:stone_shovel, minecraft:planks, minecraft:trapped_chest, minecraft:diamond_sword, minecraft:iron_sword, minecraft:crafting_table, minecraft:blaze_rod, minecraft:birch_stairs, minecraft:dragon_egg, minecraft:furnace_minecart, minecraft:cauldron, minecraft:noteblock, morefurnaces:furnaceBlock, minecraft:bed, minecraft:packed_ice, minecraft:dye, minecraft:lapis_ore, minecraft:iron_helmet, minecraft:stick, minecraft:chainmail_leggings, minecraft:poisonous_potato, minecraft:birch_fence, minecraft:diamond_chestplate, minecraft:wooden_hoe, minecraft:slime_ball, minecraft:sign, minecraft:prismarine_crystals, minecraft:lever, minecraft:paper, minecraft:redstone_ore, minecraft:record_chirp, minecraft:stone_stairs, minecraft:glass, minecraft:web, minecraft:name_tag, minecraft:record_ward, minecraft:leather, minecraft:jungle_door, minecraft:cobblestone, minecraft:ender_chest, minecraft:nether_brick, minecraft:snow_layer, minecraft:spawn_egg, minecraft:iron_chestplate, minecraft:tnt, minecraft:snow, minecraft:fermented_spider_eye, minecraft:cooked_chicken, minecraft:minecart, minecraft:hardened_clay, minecraft:cobblestone_wall, minecraft:stone_button, minecraft:stone_slab, minecraft:stained_glass_pane, minecraft:clay, minecraft:rabbit, minecraft:glass_bottle, minecraft:redstone_lamp, minecraft:record_cat, minecraft:brown_mushroom_block, minecraft:clay_ball, minecraft:tallgrass, minecraft:repeater, minecraft:nether_star, minecraft:brick_block, minecraft:flower_pot, minecraft:emerald_block, minecraft:golden_carrot, minecraft:red_flower, minecraft:beef, minecraft:firework_charge, minecraft:stone, minecraft:soul_sand, minecraft:mycelium, minecraft:light_weighted_pressure_plate, minecraft:diamond_leggings, minecraft:iron_door, minecraft:golden_horse_armor, minecraft:bedrock, minecraft:baked_potato, minecraft:brick, minecraft:diamond_boots, minecraft:iron_boots, minecraft:writable_book, minecraft:comparator, minecraft:torch, minecraft:diamond_hoe, minecraft:lit_furnace, minecraft:farmland, minecraft:banner, minecraft:command_block_minecart, minecraft:carrot, minecraft:slime, minecraft:enchanting_table, minecraft:dropper, minecraft:potato, minecraft:fishing_rod, minecraft:blaze_powder, minecraft:chainmail_boots, minecraft:pumpkin_pie, minecraft:enchanted_book, minecraft:cooked_mutton, minecraft:cactus, minecraft:command_block, minecraft:end_stone, minecraft:sapling, minecraft:compass, minecraft:cooked_rabbit, minecraft:log, minecraft:leather_chestplate, minecraft:saddle, minecraft:lava_bucket, minecraft:log2, minecraft:quartz_stairs, minecraft:red_mushroom, minecraft:diamond_ore, minecraft:experience_bottle, minecraft:coal_ore, minecraft:spruce_stairs, minecraft:waterlily, minecraft:quartz_ore, minecraft:stone_pressure_plate, minecraft:gravel, minecraft:acacia_door, minecraft:lit_pumpkin, minecraft:barrier, minecraft:jungle_fence, minecraft:wooden_pressure_plate, minecraft:filled_map, minecraft:fish, minecraft:golden_chestplate, minecraft:cooked_porkchop, minecraft:bowl, minecraft:stone_slab2, minecraft:gunpowder, minecraft:brown_mushroom, minecraft:redstone_torch, minecraft:spider_eye, minecraft:golden_shovel, minecraft:sandstone_stairs, minecraft:red_sandstone, minecraft:stone_pickaxe, minecraft:deadbush, minecraft:brick_stairs, minecraft:arrow, minecraft:red_mushroom_block, minecraft:jukebox, minecraft:spruce_fence, minecraft:birch_door, minecraft:obsidian, minecraft:armor_stand, minecraft:feather, minecraft:record_mellohi, minecraft:dark_oak_fence_gate, minecraft:ender_pearl, minecraft:stone_brick_stairs, minecraft:wooden_door, minecraft:oak_stairs, minecraft:written_book, minecraft:speckled_melon, minecraft:brewing_stand, minecraft:record_strad, minecraft:leaves2, minecraft:end_portal_frame, minecraft:sea_lantern, minecraft:chainmail_helmet, minecraft:diamond, minecraft:shears, minecraft:skull, minecraft:dirt, minecraft:emerald_ore, minecraft:egg, minecraft:record_mall, minecraft:cooked_beef, minecraft:leather_leggings, minecraft:golden_pickaxe, minecraft:sponge, minecraft:iron_axe, minecraft:dark_oak_stairs, minecraft:clock, minecraft:nether_brick_fence, minecraft:iron_pickaxe, minecraft:golden_helmet, minecraft:sandstone, minecraft:ladder, minecraft:fire_charge, minecraft:lead, minecraft:golden_hoe, minecraft:stone_hoe, minecraft:stone_sword, minecraft:mushroom_stew, minecraft:glowstone_dust, minecraft:iron_trapdoor, minecraft:chest, minecraft:bone, minecraft:hopper_minecart, minecraft:flint_and_steel, minecraft:wheat, minecraft:melon_block, minecraft:wooden_button, minecraft:wooden_pickaxe, minecraft:double_plant, minecraft:pumpkin, minecraft:wheat_seeds, minecraft:porkchop, minecraft:fence, minecraft:dark_oak_fence, minecraft:tripwire_hook, minecraft:golden_axe, minecraft:golden_sword, minecraft:stone_axe
-[12:30:58] [Client thread/INFO]: [CHAT] minecraft:ghast_tear, minecraft:book, progressiveautomation:WitherUpgrade, ironbackpacks:ironBackpackStorageEmphasis, minecraft:chainmail_chestplate, minecraft:sand, minecraft:diamond_pickaxe, minecraft:record_11, minecraft:birch_fence_gate, dungeontactics:bag_food, minecraft:bucket, dungeontactics:stone_knife, minecraft:emerald, minecraft:leather_boots, minecraft:stained_glass, minecraft:iron_ingot, progressiveautomation:FillerUpgrade, minecraft:activator_rail, minecraft:quartz_block, dungeontactics:charm_toxic, minecraft:leather_helmet, dungeontactics:gilded_hoe, dungeontactics:magic_teather, minecraft:record_far, dungeontactics:jewelled_knife, minecraft:ice, villagenames:glazed_terracotta_blue, minecraft:dispenser, minecraft:record_wait, progressiveautomation:WitherWood, minecraft:sugar, minecraft:fireworks, minecraft:glass_pane, minecraft:bookshelf, minecraft:chicken, progressiveautomation:ChopperIron, dungeontactics:jewelled_chestplate, progressiveautomation:Planter, dungeontactics:golden_knife, villagenames:glazed_terracotta_pink, minecraft:stained_hardened_clay, minecraft:quartz, progressiveautomation:ChopperDiamond, dungeontactics:bounce_boots, dungeontactics:tunneling_device, dungeontactics:diamond_knife, dungeontactics:iron_knife, progressiveautomation:Chopper, minecraft:ender_eye, villagenames:moonvillagebook, minecraft:cooked_fish, minecraft:fence_gate, minecraft:gold_ore, minecraft:flint, progressiveautomation:FarmerStone, progressiveautomation:GeneratorDiamond, minecraft:iron_horse_armor, minecraft:rail, minecraft:diamond_shovel, progressiveautomation:ChopperStone, minecraft:hay_block, ironbackpacks:crafting, minecraft:hopper, progressiveautomation:ShearingUpgrade, progressiveautomation:StoneUpgrade, dungeontactics:bush_bare, villagenames:fortressbook, progressiveautomation:PlanterIron, minecraft:mutton, minecraft:string, minecraft:wooden_axe, minecraft:netherbrick, progressiveautomation:CoalPellet, dungeontactics:fish_muscle, minecraft:gold_ingot, minecraft:melon_seeds, minecraft:coal, dungeontactics:grenade_cluster, minecraft:nether_wart, minecraft:painting, minecraft:bread, minecraft:dark_oak_door, villagenames:lunarinIronBrick, minecraft:chest_minecart, dungeontactics:flower_sanguine, minecraft:prismarine, minecraft:rotten_flesh, tobymodxp:xpItem1, minecraft:cake, progressiveautomation:Wrench, minecraft:iron_bars, minecraft:lapis_block, dungeontactics:slingshot, minecraft:cookie, dungeontactics:cluster_iron, uncraftingtable:nugget, minecraft:wool, minecraft:spruce_door, dungeontactics:bag_record, minecraft:rabbit_foot, dungeontactics:rocket_pants, minecraft:golden_boots, progressiveautomation:FilterAnimalUpgrade, dungeontactics:charm_unintelligible, minecraft:record_13, progressiveautomation:MinerDiamond, minecraft:milk_bucket, minecraft:record_stal, minecraft:water_bucket, minecraft:stonebrick, minecraft:potion, progressiveautomation:CobbleUpgrade, minecraft:redstone, progressiveautomation:WitherDiamond, dungeontactics:flower_ailment, minecraft:diamond_block, minecraft:iron_block, dungeontactics:peg_hammer, villagenames:glazed_terracotta_yellow, minecraft:golden_leggings, minecraft:jungle_stairs, minecraft:item_frame, progressiveautomation:Crafter, golems:golem_paper, minecraft:reeds, golems:light_provider_half, minecraft:jungle_fence_gate, minecraft:acacia_fence_gate, minecraft:wooden_shovel, minecraft:piston, minecraft:bow, minecraft:iron_hoe, dungeontactics:golden_hammer, minecraft:vine, minecraft:diamond_helmet, minecraft:furnace, ironbackpacks:diamondBackpackUpgradeEmphasis, minecraft:snowball, minecraft:daylight_detector, dungeontactics:ducttape, villagenames:glazed_terracotta_magenta, villagenames:strongholdbook, progressiveautomation:Killer, progressiveautomation:FarmerDiamond, minecraft:tnt_minecart, progressiveautomation:MinerIron, minecraft:spruce_fence_gate, minecraft:rabbit_stew, minecraft:map, minecraft:detector_rail, minecraft:netherrack, progressiveautomation:PlanterDiamond, minecraft:wooden_sword, progressiveautomation:FarmerIron, golems:spawn_bedrock_golem, dungeontactics:wooden_hammer, minecraft:beacon, minecraft:diamond_axe, minecraft:grass, minecraft:glowstone, minecraft:golden_rail, villagenames:mineshaftbook, dungeontactics:jewelled_axe, golems:light_provider_full, minecraft:anvil, minecraft:iron_leggings, minecraft:acacia_fence, minecraft:gold_nugget, minecraft:acacia_stairs, minecraft:record_blocks, minecraft:melon, minecraft:iron_shovel, dungeontactics:charm_heavy, progressiveautomation:WoodUpgrade, minecraft:coal_block, minecraft:gold_block, minecraft:monster_egg, villagenames:templebook, minecraft:mob_spawner, dungeontactics:flight_goggles, minecraft:magma_cream, minecraft:boat, minecraft:wooden_slab, minecraft:iron_ore, minecraft:redstone_block, villagenames:glazed_terracotta_silver, minecraft:yellow_flower, villagenames:glazed_terracotta_gray, minecraft:rabbit_hide, minecraft:heavy_weighted_pressure_plate, progressiveautomation:CrafterStone, minecraft:apple, tobymodxp:xpItem3, ironbackpacks:ironBackpackUpgradeEmphasis, minecraft:mossy_cobblestone, minecraft:sticky_piston, dungeontactics:wooden_knife, progressiveautomation:GeneratorIron, minecraft:nether_brick_stairs, villagenames:glazed_terracotta_red, minecraft:trapdoor, minecraft:pumpkin_seeds, minecraft:red_sandstone_stairs, minecraft:diamond_horse_armor, minecraft:leaves, dungeontactics:charm_darkened, minecraft:prismarine_shard, minecraft:golden_apple, ironbackpacks:upgrade, dungeontactics:bag_potion, villagenames:glazed_terracotta_black, progressiveautomation:CrafterIron, minecraft:carrot_on_a_stick, minecraft:carpet, dungeontactics:gilded_helmet, minecraft:stone_shovel, minecraft:planks, progressiveautomation:CrafterDiamond, minecraft:trapped_chest, minecraft:diamond_sword, minecraft:iron_sword, dungeontactics:charm_barren, minecraft:crafting_table, villagenames:nibiruvillagebook, minecraft:blaze_rod, minecraft:birch_stairs, dungeontactics:bagofhoarding, minecraft:dragon_egg, minecraft:furnace_minecart, minecraft:cauldron, dungeontactics:gilded_hammer, minecraft:noteblock, redstonepaste:redstonepaste, dungeontactics:flower_bark, villagenames:monumentbook, morefurnaces:furnaceBlock, villagenames:koentusvillagebook, dungeontactics:trap_boom, dungeontactics:potshot, minecraft:bed, minecraft:packed_ice, dungeontactics:trap_slime, minecraft:dye, minecraft:lapis_ore, minecraft:iron_helmet, minecraft:stick, minecraft:chainmail_leggings, minecraft:poisonous_potato, minecraft:birch_fence, minecraft:diamond_chestplate, minecraft:wooden_hoe, progressiveautomation:KillerDiamond, dungeontactics:flower_cinder, minecraft:slime_ball, minecraft:sign, minecraft:prismarine_crystals, dungeontactics:bag_ore, minecraft:lever, minecraft:paper, minecraft:redstone_ore, minecraft:record_chirp, minecraft:stone_stairs, progressiveautomation:Farmer, minecraft:glass, minecraft:web, minecraft:name_tag, minecraft:record_ward, minecraft:leather, minecraft:jungle_door, minecraft:cobblestone, minecraft:ender_chest, minecraft:nether_brick, minecraft:snow_layer, villagenames:concrete_powder, minecraft:spawn_egg, minecraft:iron_chestplate, minecraft:tnt, minecraft:snow, minecraft:fermented_spider_eye, minecraft:cooked_chicken, minecraft:minecart, villagenames:lunarinGoldBrick, minecraft:hardened_clay, villagenames:villagebook, dungeontactics:charm_sapping, progressiveautomation:CreativeRFEngine, minecraft:cobblestone_wall, minecraft:stone_button, minecraft:stone_slab, minecraft:stained_glass_pane, minecraft:clay, progressiveautomation:Generator, minecraft:rabbit, dungeontactics:ore_nethergold, minecraft:glass_bottle, minecraft:redstone_lamp, tobymodxp:xpItem5, minecraft:record_cat, minecraft:brown_mushroom_block, minecraft:clay_ball, dungeontactics:jewelled_hammer, minecraft:tallgrass, villagenames:glazed_terracotta_orange, dungeontactics:heart_drop, progressiveautomation:FilterMobUpgrade, minecraft:repeater, golems:golem_head, minecraft:nether_star, minecraft:brick_block, hopperducts:gratedhopper, dungeontactics:fish_lung, minecraft:flower_pot, minecraft:emerald_block, minecraft:golden_carrot, minecraft:red_flower, dungeontactics:diamond_hammer, minecraft:beef, tobymodxp:xpBlock, minecraft:firework_charge, minecraft:stone, minecraft:soul_sand, minecraft:mycelium, minecraft:light_weighted_pressure_plate, villagenames:endcitybook, minecraft:diamond_leggings, minecraft:iron_door, dungeontactics:engineer_dungarees, minecraft:golden_horse_armor, progressiveautomation:WitherIron, progressiveautomation:DiamondUpgrade, minecraft:bedrock, dungeontactics:dungeon_glass, minecraft:baked_potato, minecraft:brick, minecraft:diamond_boots, minecraft:iron_boots, dungeontactics:bush_baring, minecraft:writable_book, dungeontactics:bag_tool, dungeontactics:gilded_chestplate, dungeontactics:flower_bramble, minecraft:comparator, minecraft:torch, dungeontactics:charm_famine, minecraft:diamond_hoe, minecraft:lit_furnace, minecraft:farmland, dungeontactics:cluster_gold, minecraft:banner, minecraft:command_block_minecart, ironbackpacks:basicBackpack, minecraft:carrot, minecraft:slime, dungeontactics:flower_tangle, dungeontactics:jewelled_hoe, dungeontactics:heart_golden, dungeontactics:heart_jar, minecraft:enchanting_table, minecraft:dropper, dungeontactics:jewelled_sword, minecraft:potato, redstonepaste:stickyrepeater, dungeontactics:gilded_shovel, minecraft:fishing_rod, dungeontactics:trap_ailment, minecraft:blaze_powder, minecraft:chainmail_boots, progressiveautomation:MinerStone, progressiveautomation:FilterPlayerUpgrade, minecraft:pumpkin_pie, uncraftingtable:uncrafting_table, minecraft:enchanted_book, ironbackpacks:goldBackpackUpgradeEmphasis, dungeontactics:powered_bars, minecraft:cooked_mutton, minecraft:cactus, dungeontactics:obsidianbrick, minecraft:command_block, minecraft:end_stone, minecraft:sapling, minecraft:compass, minecraft:cooked_rabbit, minecraft:log, minecraft:leather_chestplate, redstonepaste:stickycomparator, minecraft:saddle, minecraft:lava_bucket, minecraft:log2, minecraft:quartz_stairs, minecraft:red_mushroom, villagenames:glazed_terracotta_lime, dungeontactics:gilded_sword, dungeontactics:gilded_axe, ironbackpacks:goldBackpackStorageEmphasis, dungeontactics:flower_xp, villagenames:glazed_terracotta_green, progressiveautomation:RFEngine, progressiveautomation:KillerIron, minecraft:diamond_ore, dungeontactics:gilded_knife, endercompass:ender_compass, minecraft:experience_bottle, minecraft:coal_ore, minecraft:spruce_stairs, minecraft:waterlily, villagenames:glazed_terracotta_purple, minecraft:quartz_ore, villagenames:glazed_terracotta_cyan, dungeontactics:battle_harness, minecraft:stone_pressure_plate, minecraft:gravel, minecraft:acacia_door, progressiveautomation:PlanterStone, dungeontactics:cherry_bomb, minecraft:lit_pumpkin, dungeontactics:trap_fire, minecraft:barrier, minecraft:jungle_fence, progressiveautomation:Miner, minecraft:wooden_pressure_plate, tobymodxp:xpItem2, dungeontactics:trap_foul, minecraft:filled_map, minecraft:fish, minecraft:golden_chestplate, villagenames:mansionbook, minecraft:cooked_porkchop, minecraft:bowl, progressiveautomation:WitherStone, dungeontactics:jewelled_shovel, minecraft:stone_slab2, dungeontactics:iron_hammer, dungeontactics:fish_flying, minecraft:gunpowder, minecraft:brown_mushroom, minecraft:redstone_torch, minecraft:spider_eye, progressiveautomation:MilkerUpgrade, minecraft:golden_shovel, minecraft:sandstone_stairs, minecraft:red_sandstone, minecraft:stone_pickaxe, progressiveautomation:IronUpgrade, dungeontactics:grenade_porting_cluster, minecraft:deadbush, dungeontactics:fish_lava, minecraft:brick_stairs, minecraft:arrow, progressiveautomation:GeneratorStone, minecraft:red_mushroom_block, dungeontactics:fish_tunnel, dungeontactics:gilded_leggings, minecraft:jukebox, minecraft:spruce_fence, dungeontactics:grenade_pyro_cluster, minecraft:birch_door, dungeontactics:bag_book, minecraft:obsidian, minecraft:armor_stand, minecraft:feather, dungeontactics:charm_searing, minecraft:record_mellohi, dungeontactics:engineer_doorag, dungeontactics:jewelled_boots, minecraft:dark_oak_fence_gate, minecraft:ender_pearl, dungeontactics:stone_hammer, minecraft:stone_brick_stairs, minecraft:wooden_door, minecraft:oak_stairs, villagenames:codex, golems:power_provider_full, dungeontactics:flower_fade, minecraft:written_book, minecraft:speckled_melon, minecraft:brewing_stand, minecraft:record_strad, dungeontactics:fish_swift, minecraft:leaves2, minecraft:end_portal_frame, dungeontactics:grenade_concussive, minecraft:sea_lantern, dungeontactics:fish_obsidian, minecraft:chainmail_helmet, minecraft:diamond, villagenames:fronosvillagebook, dungeontactics:grenade_porting, minecraft:shears, minecraft:skull, minecraft:dirt, minecraft:emerald_ore, ironbackpacks:diamondBackpackStorageEmphasis, minecraft:egg, minecraft:record_mall, minecraft:cooked_beef, dungeontactics:jewelled_helmet, dungeontactics:grenade_pyro, minecraft:leather_leggings, minecraft:golden_pickaxe, progressiveautomation:FilterAdultUpgrade, minecraft:sponge, minecraft:iron_axe, minecraft:dark_oak_stairs, dungeontactics:gilded_boots, minecraft:clock, minecraft:nether_brick_fence, dungeontactics:fan_block, minecraft:iron_pickaxe, dungeontactics:gilded_pickaxe, dungeontactics:phylactery, minecraft:golden_helmet, progressiveautomation:KillerStone, minecraft:sandstone, dungeontactics:jewelled_leggings, villagenames:glazed_terracotta_white, villagenames:concrete, minecraft:ladder, dungeontactics:trap_port, minecraft:fire_charge, villagenames:glazed_terracotta_brown, minecraft:lead, minecraft:golden_hoe, minecraft:stone_hoe, hopperducts:hopperduct, minecraft:stone_sword, tobymodxp:xpItem4, dungeontactics:charm_emaciated, minecraft:mushroom_stew, minecraft:glowstone_dust, villagenames:glazed_terracotta_light_blue, minecraft:iron_trapdoor, minecraft:chest, villagenames:abandonedbasebook, minecraft:bone, minecraft:hopper_minecart, minecraft:flint_and_steel, dungeontactics:jewelled_pickaxe, minecraft:wheat, dungeontactics:wither_web, minecraft:melon_block, minecraft:wooden_button, minecraft:wooden_pickaxe, minecraft:double_plant, minecraft:pumpkin, minecraft:wheat_seeds, minecraft:porkchop, minecraft:fence, minecraft:dark_oak_fence, minecraft:tripwire_hook, minecraft:golden_axe, minecraft:golden_sword, minecraft:stone_axe, dungeontactics:cluster_nethergold
-[12:30:58] [Client thread/INFO]: [CHAT] minecraft:ghast_tear, minecraft:book, progressiveautomation:WitherUpgrade, ironbackpacks:ironBackpackStorageEmphasis, minecraft:chainmail_chestplate, minecraft:sand, minecraft:diamond_pickaxe, minecraft:record_11, minecraft:birch_fence_gate, dungeontactics:bag_food, minecraft:bucket, dungeontactics:stone_knife, minecraft:emerald, minecraft:leather_boots, minecraft:stained_glass, minecraft:iron_ingot, progressiveautomation:FillerUpgrade, minecraft:activator_rail, minecraft:quartz_block, dungeontactics:charm_toxic, minecraft:leather_helmet, dungeontactics:gilded_hoe, dungeontactics:magic_teather, minecraft:record_far, dungeontactics:jewelled_knife, minecraft:ice, villagenames:glazed_terracotta_blue, minecraft:dispenser, minecraft:record_wait, progressiveautomation:WitherWood, minecraft:sugar, minecraft:fireworks, minecraft:glass_pane, minecraft:bookshelf, minecraft:chicken, progressiveautomation:ChopperIron, dungeontactics:jewelled_chestplate, progressiveautomation:Planter, dungeontactics:golden_knife, villagenames:glazed_terracotta_pink, minecraft:stained_hardened_clay, minecraft:quartz, progressiveautomation:ChopperDiamond, dungeontactics:bounce_boots, dungeontactics:tunneling_device, dungeontactics:diamond_knife, dungeontactics:iron_knife, progressiveautomation:Chopper, minecraft:ender_eye, villagenames:moonvillagebook, minecraft:cooked_fish, minecraft:fence_gate, minecraft:gold_ore, minecraft:flint, progressiveautomation:FarmerStone, progressiveautomation:GeneratorDiamond, minecraft:iron_horse_armor, minecraft:rail, minecraft:diamond_shovel, progressiveautomation:ChopperStone, minecraft:hay_block, ironbackpacks:crafting, minecraft:hopper, progressiveautomation:ShearingUpgrade, progressiveautomation:StoneUpgrade, dungeontactics:bush_bare, villagenames:fortressbook, progressiveautomation:PlanterIron, minecraft:mutton, minecraft:string, minecraft:wooden_axe, minecraft:netherbrick, progressiveautomation:CoalPellet, dungeontactics:fish_muscle, minecraft:gold_ingot, minecraft:melon_seeds, minecraft:coal, dungeontactics:grenade_cluster, minecraft:nether_wart, minecraft:painting, minecraft:bread, minecraft:dark_oak_door, villagenames:lunarinIronBrick, minecraft:chest_minecart, dungeontactics:flower_sanguine, minecraft:prismarine, minecraft:rotten_flesh, tobymodxp:xpItem1, minecraft:cake, progressiveautomation:Wrench, minecraft:iron_bars, minecraft:lapis_block, dungeontactics:slingshot, minecraft:cookie, dungeontactics:cluster_iron, uncraftingtable:nugget, minecraft:wool, minecraft:spruce_door, dungeontactics:bag_record, minecraft:rabbit_foot, dungeontactics:rocket_pants, minecraft:golden_boots, progressiveautomation:FilterAnimalUpgrade, dungeontactics:charm_unintelligible, minecraft:record_13, progressiveautomation:MinerDiamond, minecraft:milk_bucket, minecraft:record_stal, minecraft:water_bucket, minecraft:stonebrick, minecraft:potion, progressiveautomation:CobbleUpgrade, minecraft:redstone, progressiveautomation:WitherDiamond, dungeontactics:flower_ailment, minecraft:diamond_block, minecraft:iron_block, dungeontactics:peg_hammer, villagenames:glazed_terracotta_yellow, minecraft:golden_leggings, minecraft:jungle_stairs, minecraft:item_frame, progressiveautomation:Crafter, golems:golem_paper, minecraft:reeds, golems:light_provider_half, minecraft:jungle_fence_gate, minecraft:acacia_fence_gate, minecraft:wooden_shovel, minecraft:piston, minecraft:bow, minecraft:iron_hoe, dungeontactics:golden_hammer, minecraft:vine, minecraft:diamond_helmet, minecraft:furnace, ironbackpacks:diamondBackpackUpgradeEmphasis, minecraft:snowball, minecraft:daylight_detector, dungeontactics:ducttape, villagenames:glazed_terracotta_magenta, villagenames:strongholdbook, progressiveautomation:Killer, progressiveautomation:FarmerDiamond, minecraft:tnt_minecart, progressiveautomation:MinerIron, minecraft:spruce_fence_gate, minecraft:rabbit_stew, minecraft:map, minecraft:detector_rail, minecraft:netherrack, progressiveautomation:PlanterDiamond, minecraft:wooden_sword, progressiveautomation:FarmerIron, golems:spawn_bedrock_golem, dungeontactics:wooden_hammer, minecraft:beacon, minecraft:diamond_axe, minecraft:grass, minecraft:glowstone, minecraft:golden_rail, villagenames:mineshaftbook, dungeontactics:jewelled_axe, golems:light_provider_full, minecraft:anvil, minecraft:iron_leggings, minecraft:acacia_fence, minecraft:gold_nugget, minecraft:acacia_stairs, minecraft:record_blocks, minecraft:melon, minecraft:iron_shovel, dungeontactics:charm_heavy, progressiveautomation:WoodUpgrade, minecraft:coal_block, minecraft:gold_block, minecraft:monster_egg, villagenames:templebook, minecraft:mob_spawner, dungeontactics:flight_goggles, minecraft:magma_cream, minecraft:boat, minecraft:wooden_slab, minecraft:iron_ore, minecraft:redstone_block, villagenames:glazed_terracotta_silver, minecraft:yellow_flower, villagenames:glazed_terracotta_gray, minecraft:rabbit_hide, minecraft:heavy_weighted_pressure_plate, progressiveautomation:CrafterStone, minecraft:apple, tobymodxp:xpItem3, ironbackpacks:ironBackpackUpgradeEmphasis, minecraft:mossy_cobblestone, minecraft:sticky_piston, dungeontactics:wooden_knife, progressiveautomation:GeneratorIron, minecraft:nether_brick_stairs, villagenames:glazed_terracotta_red, minecraft:trapdoor, minecraft:pumpkin_seeds, minecraft:red_sandstone_stairs, minecraft:diamond_horse_armor, minecraft:leaves, dungeontactics:charm_darkened, minecraft:prismarine_shard, minecraft:golden_apple, ironbackpacks:upgrade, dungeontactics:bag_potion, villagenames:glazed_terracotta_black, progressiveautomation:CrafterIron, minecraft:carrot_on_a_stick, minecraft:carpet, dungeontactics:gilded_helmet, minecraft:stone_shovel, minecraft:planks, progressiveautomation:CrafterDiamond, minecraft:trapped_chest, minecraft:diamond_sword, minecraft:iron_sword, dungeontactics:charm_barren, minecraft:crafting_table, villagenames:nibiruvillagebook, minecraft:blaze_rod, minecraft:birch_stairs, dungeontactics:bagofhoarding, minecraft:dragon_egg, minecraft:furnace_minecart, minecraft:cauldron, dungeontactics:gilded_hammer, minecraft:noteblock, redstonepaste:redstonepaste, dungeontactics:flower_bark, villagenames:monumentbook, morefurnaces:furnaceBlock, villagenames:koentusvillagebook, dungeontactics:trap_boom, dungeontactics:potshot, minecraft:bed, minecraft:packed_ice, dungeontactics:trap_slime, minecraft:dye, minecraft:lapis_ore, minecraft:iron_helmet, minecraft:stick, minecraft:chainmail_leggings, minecraft:poisonous_potato, minecraft:birch_fence, minecraft:diamond_chestplate, minecraft:wooden_hoe, progressiveautomation:KillerDiamond, dungeontactics:flower_cinder, minecraft:slime_ball, minecraft:sign, minecraft:prismarine_crystals, dungeontactics:bag_ore, minecraft:lever, minecraft:paper, minecraft:redstone_ore, minecraft:record_chirp, minecraft:stone_stairs, progressiveautomation:Farmer, minecraft:glass, minecraft:web, minecraft:name_tag, minecraft:record_ward, minecraft:leather, minecraft:jungle_door, minecraft:cobblestone, minecraft:ender_chest, minecraft:nether_brick, minecraft:snow_layer, villagenames:concrete_powder, minecraft:spawn_egg, minecraft:iron_chestplate, minecraft:tnt, minecraft:snow, minecraft:fermented_spider_eye, minecraft:cooked_chicken, minecraft:minecart, villagenames:lunarinGoldBrick, minecraft:hardened_clay, villagenames:villagebook, dungeontactics:charm_sapping, progressiveautomation:CreativeRFEngine, minecraft:cobblestone_wall, minecraft:stone_button, minecraft:stone_slab, minecraft:stained_glass_pane, minecraft:clay, progressiveautomation:Generator, minecraft:rabbit, dungeontactics:ore_nethergold, minecraft:glass_bottle, minecraft:redstone_lamp, tobymodxp:xpItem5, minecraft:record_cat, minecraft:brown_mushroom_block, minecraft:clay_ball, dungeontactics:jewelled_hammer, minecraft:tallgrass, villagenames:glazed_terracotta_orange, dungeontactics:heart_drop, progressiveautomation:FilterMobUpgrade, minecraft:repeater, golems:golem_head, minecraft:nether_star, minecraft:brick_block, hopperducts:gratedhopper, dungeontactics:fish_lung, minecraft:flower_pot, minecraft:emerald_block, minecraft:golden_carrot, minecraft:red_flower, dungeontactics:diamond_hammer, minecraft:beef, tobymodxp:xpBlock, minecraft:firework_charge, minecraft:stone, minecraft:soul_sand, minecraft:mycelium, minecraft:light_weighted_pressure_plate, villagenames:endcitybook, minecraft:diamond_leggings, minecraft:iron_door, dungeontactics:engineer_dungarees, minecraft:golden_horse_armor, progressiveautomation:WitherIron, progressiveautomation:DiamondUpgrade, minecraft:bedrock, dungeontactics:dungeon_glass, minecraft:baked_potato, minecraft:brick, minecraft:diamond_boots, minecraft:iron_boots, dungeontactics:bush_baring, minecraft:writable_book, dungeontactics:bag_tool, dungeontactics:gilded_chestplate, dungeontactics:flower_bramble, minecraft:comparator, minecraft:torch, dungeontactics:charm_famine, minecraft:diamond_hoe, minecraft:lit_furnace, minecraft:farmland, dungeontactics:cluster_gold, minecraft:banner, minecraft:command_block_minecart, ironbackpacks:basicBackpack, minecraft:carrot, minecraft:slime, dungeontactics:flower_tangle, dungeontactics:jewelled_hoe, dungeontactics:heart_golden, dungeontactics:heart_jar, minecraft:enchanting_table, minecraft:dropper, dungeontactics:jewelled_sword, minecraft:potato, redstonepaste:stickyrepeater, dungeontactics:gilded_shovel, minecraft:fishing_rod, dungeontactics:trap_ailment, minecraft:blaze_powder, minecraft:chainmail_boots, progressiveautomation:MinerStone, progressiveautomation:FilterPlayerUpgrade, minecraft:pumpkin_pie, uncraftingtable:uncrafting_table, minecraft:enchanted_book, ironbackpacks:goldBackpackUpgradeEmphasis, dungeontactics:powered_bars, minecraft:cooked_mutton, minecraft:cactus, dungeontactics:obsidianbrick, minecraft:command_block, minecraft:end_stone, minecraft:sapling, minecraft:compass, minecraft:cooked_rabbit, minecraft:log, minecraft:leather_chestplate, redstonepaste:stickycomparator, minecraft:saddle, minecraft:lava_bucket, minecraft:log2, minecraft:quartz_stairs, minecraft:red_mushroom, villagenames:glazed_terracotta_lime, dungeontactics:gilded_sword, dungeontactics:gilded_axe, ironbackpacks:goldBackpackStorageEmphasis, dungeontactics:flower_xp, villagenames:glazed_terracotta_green, progressiveautomation:RFEngine, progressiveautomation:KillerIron, minecraft:diamond_ore, dungeontactics:gilded_knife, endercompass:ender_compass, minecraft:experience_bottle, minecraft:coal_ore, minecraft:spruce_stairs, minecraft:waterlily, villagenames:glazed_terracotta_purple, minecraft:quartz_ore, villagenames:glazed_terracotta_cyan, dungeontactics:battle_harness, minecraft:stone_pressure_plate, minecraft:gravel, minecraft:acacia_door, progressiveautomation:PlanterStone, dungeontactics:cherry_bomb, minecraft:lit_pumpkin, dungeontactics:trap_fire, minecraft:barrier, minecraft:jungle_fence, progressiveautomation:Miner, minecraft:wooden_pressure_plate, tobymodxp:xpItem2, dungeontactics:trap_foul, minecraft:filled_map, minecraft:fish, minecraft:golden_chestplate, villagenames:mansionbook, minecraft:cooked_porkchop, minecraft:bowl, progressiveautomation:WitherStone, dungeontactics:jewelled_shovel, minecraft:stone_slab2, dungeontactics:iron_hammer, dungeontactics:fish_flying, minecraft:gunpowder, minecraft:brown_mushroom, minecraft:redstone_torch, minecraft:spider_eye, progressiveautomation:MilkerUpgrade, minecraft:golden_shovel, minecraft:sandstone_stairs, minecraft:red_sandstone, minecraft:stone_pickaxe, progressiveautomation:IronUpgrade, dungeontactics:grenade_porting_cluster, minecraft:deadbush, dungeontactics:fish_lava, minecraft:brick_stairs, minecraft:arrow, progressiveautomation:GeneratorStone, minecraft:red_mushroom_block, dungeontactics:fish_tunnel, dungeontactics:gilded_leggings, minecraft:jukebox, minecraft:spruce_fence, dungeontactics:grenade_pyro_cluster, minecraft:birch_door, dungeontactics:bag_book, minecraft:obsidian, minecraft:armor_stand, minecraft:feather, dungeontactics:charm_searing, minecraft:record_mellohi, dungeontactics:engineer_doorag, dungeontactics:jewelled_boots, minecraft:dark_oak_fence_gate, minecraft:ender_pearl, dungeontactics:stone_hammer, minecraft:stone_brick_stairs, minecraft:wooden_door, minecraft:oak_stairs, villagenames:codex, golems:power_provider_full, dungeontactics:flower_fade, minecraft:written_book, minecraft:speckled_melon, minecraft:brewing_stand, minecraft:record_strad, dungeontactics:fish_swift, minecraft:leaves2, minecraft:end_portal_frame, dungeontactics:grenade_concussive, minecraft:sea_lantern, dungeontactics:fish_obsidian, minecraft:chainmail_helmet, minecraft:diamond, villagenames:fronosvillagebook, dungeontactics:grenade_porting, minecraft:shears, minecraft:skull, minecraft:dirt, minecraft:emerald_ore, ironbackpacks:diamondBackpackStorageEmphasis, minecraft:egg, minecraft:record_mall, minecraft:cooked_beef, dungeontactics:jewelled_helmet, dungeontactics:grenade_pyro, minecraft:leather_leggings, minecraft:golden_pickaxe, progressiveautomation:FilterAdultUpgrade, minecraft:sponge, minecraft:iron_axe, minecraft:dark_oak_stairs, dungeontactics:gilded_boots, minecraft:clock, minecraft:nether_brick_fence, dungeontactics:fan_block, minecraft:iron_pickaxe, dungeontactics:gilded_pickaxe, dungeontactics:phylactery, minecraft:golden_helmet, progressiveautomation:KillerStone, minecraft:sandstone, dungeontactics:jewelled_leggings, villagenames:glazed_terracotta_white, villagenames:concrete, minecraft:ladder, dungeontactics:trap_port, minecraft:fire_charge, villagenames:glazed_terracotta_brown, minecraft:lead, minecraft:golden_hoe, minecraft:stone_hoe, hopperducts:hopperduct, minecraft:stone_sword, tobymodxp:xpItem4, dungeontactics:charm_emaciated, minecraft:mushroom_stew, minecraft:glowstone_dust, villagenames:glazed_terracotta_light_blue, minecraft:iron_trapdoor, minecraft:chest, villagenames:abandonedbasebook, minecraft:bone, minecraft:hopper_minecart, minecraft:flint_and_steel, dungeontactics:jewelled_pickaxe, minecraft:wheat, dungeontactics:wither_web, minecraft:melon_block, minecraft:wooden_button, minecraft:wooden_pickaxe, minecraft:double_plant, minecraft:pumpkin, minecraft:wheat_seeds, minecraft:porkchop, minecraft:fence, minecraft:dark_oak_fence, minecraft:tripwire_hook, minecraft:golden_axe, minecraft:golden_sword, minecraft:stone_axe, dungeontactics:cluster_nethergold
-[12:30:59] [Client thread/INFO]: [CHAT] minecraft:ghast_tear, minecraft:book, progressiveautomation:WitherUpgrade, ironbackpacks:ironBackpackStorageEmphasis, minecraft:chainmail_chestplate, minecraft:sand, minecraft:diamond_pickaxe, minecraft:record_11, minecraft:birch_fence_gate, dungeontactics:bag_food, minecraft:bucket, dungeontactics:stone_knife, minecraft:emerald, minecraft:leather_boots, minecraft:stained_glass, minecraft:iron_ingot, progressiveautomation:FillerUpgrade, minecraft:activator_rail, minecraft:quartz_block, dungeontactics:charm_toxic, minecraft:leather_helmet, dungeontactics:gilded_hoe, dungeontactics:magic_teather, minecraft:record_far, dungeontactics:jewelled_knife, minecraft:ice, villagenames:glazed_terracotta_blue, minecraft:dispenser, minecraft:record_wait, progressiveautomation:WitherWood, minecraft:sugar, minecraft:fireworks, minecraft:glass_pane, minecraft:bookshelf, minecraft:chicken, progressiveautomation:ChopperIron, dungeontactics:jewelled_chestplate, progressiveautomation:Planter, dungeontactics:golden_knife, villagenames:glazed_terracotta_pink, minecraft:stained_hardened_clay, minecraft:quartz, progressiveautomation:ChopperDiamond, dungeontactics:bounce_boots, dungeontactics:tunneling_device, dungeontactics:diamond_knife, dungeontactics:iron_knife, progressiveautomation:Chopper, minecraft:ender_eye, villagenames:moonvillagebook, minecraft:cooked_fish, minecraft:fence_gate, minecraft:gold_ore, minecraft:flint, progressiveautomation:FarmerStone, progressiveautomation:GeneratorDiamond, minecraft:iron_horse_armor, minecraft:rail, minecraft:diamond_shovel, progressiveautomation:ChopperStone, minecraft:hay_block, ironbackpacks:crafting, minecraft:hopper, progressiveautomation:ShearingUpgrade, progressiveautomation:StoneUpgrade, dungeontactics:bush_bare, villagenames:fortressbook, progressiveautomation:PlanterIron, minecraft:mutton, minecraft:string, minecraft:wooden_axe, minecraft:netherbrick, progressiveautomation:CoalPellet, dungeontactics:fish_muscle, minecraft:gold_ingot, minecraft:melon_seeds, minecraft:coal, dungeontactics:grenade_cluster, minecraft:nether_wart, minecraft:painting, minecraft:bread, minecraft:dark_oak_door, villagenames:lunarinIronBrick, minecraft:chest_minecart, dungeontactics:flower_sanguine, minecraft:prismarine, minecraft:rotten_flesh, tobymodxp:xpItem1, minecraft:cake, progressiveautomation:Wrench, minecraft:iron_bars, minecraft:lapis_block, dungeontactics:slingshot, minecraft:cookie, dungeontactics:cluster_iron, uncraftingtable:nugget, minecraft:wool, minecraft:spruce_door, dungeontactics:bag_record, minecraft:rabbit_foot, dungeontactics:rocket_pants, minecraft:golden_boots, progressiveautomation:FilterAnimalUpgrade, dungeontactics:charm_unintelligible, minecraft:record_13, progressiveautomation:MinerDiamond, minecraft:milk_bucket, minecraft:record_stal, minecraft:water_bucket, minecraft:stonebrick, minecraft:potion, progressiveautomation:CobbleUpgrade, minecraft:redstone, progressiveautomation:WitherDiamond, dungeontactics:flower_ailment, minecraft:diamond_block, minecraft:iron_block, dungeontactics:peg_hammer, villagenames:glazed_terracotta_yellow, minecraft:golden_leggings, minecraft:jungle_stairs, minecraft:item_frame, progressiveautomation:Crafter, golems:golem_paper, minecraft:reeds, golems:light_provider_half, minecraft:jungle_fence_gate, minecraft:acacia_fence_gate, minecraft:wooden_shovel, minecraft:piston, minecraft:bow, minecraft:iron_hoe, dungeontactics:golden_hammer, minecraft:vine, minecraft:diamond_helmet, minecraft:furnace, ironbackpacks:diamondBackpackUpgradeEmphasis, minecraft:snowball, minecraft:daylight_detector, dungeontactics:ducttape, villagenames:glazed_terracotta_magenta, villagenames:strongholdbook, progressiveautomation:Killer, progressiveautomation:FarmerDiamond, minecraft:tnt_minecart, progressiveautomation:MinerIron, minecraft:spruce_fence_gate, minecraft:rabbit_stew, minecraft:map, minecraft:detector_rail, minecraft:netherrack, progressiveautomation:PlanterDiamond, minecraft:wooden_sword, progressiveautomation:FarmerIron, golems:spawn_bedrock_golem, dungeontactics:wooden_hammer, minecraft:beacon, minecraft:diamond_axe, minecraft:grass, minecraft:glowstone, minecraft:golden_rail, villagenames:mineshaftbook, dungeontactics:jewelled_axe, golems:light_provider_full, minecraft:anvil, minecraft:iron_leggings, minecraft:acacia_fence, minecraft:gold_nugget, minecraft:acacia_stairs, minecraft:record_blocks, minecraft:melon, minecraft:iron_shovel, dungeontactics:charm_heavy, progressiveautomation:WoodUpgrade, minecraft:coal_block, minecraft:gold_block, minecraft:monster_egg, villagenames:templebook, minecraft:mob_spawner, dungeontactics:flight_goggles, minecraft:magma_cream, minecraft:boat, minecraft:wooden_slab, minecraft:iron_ore, minecraft:redstone_block, villagenames:glazed_terracotta_silver, minecraft:yellow_flower, villagenames:glazed_terracotta_gray, minecraft:rabbit_hide, minecraft:heavy_weighted_pressure_plate, progressiveautomation:CrafterStone, minecraft:apple, tobymodxp:xpItem3, ironbackpacks:ironBackpackUpgradeEmphasis, minecraft:mossy_cobblestone, minecraft:sticky_piston, dungeontactics:wooden_knife, progressiveautomation:GeneratorIron, minecraft:nether_brick_stairs, villagenames:glazed_terracotta_red, minecraft:trapdoor, minecraft:pumpkin_seeds, minecraft:red_sandstone_stairs, minecraft:diamond_horse_armor, minecraft:leaves, dungeontactics:charm_darkened, minecraft:prismarine_shard, minecraft:golden_apple, ironbackpacks:upgrade, dungeontactics:bag_potion, villagenames:glazed_terracotta_black, progressiveautomation:CrafterIron, minecraft:carrot_on_a_stick, minecraft:carpet, dungeontactics:gilded_helmet, minecraft:stone_shovel, minecraft:planks, progressiveautomation:CrafterDiamond, minecraft:trapped_chest, minecraft:diamond_sword, minecraft:iron_sword, dungeontactics:charm_barren, minecraft:crafting_table, villagenames:nibiruvillagebook, minecraft:blaze_rod, minecraft:birch_stairs, dungeontactics:bagofhoarding, minecraft:dragon_egg, minecraft:furnace_minecart, minecraft:cauldron, dungeontactics:gilded_hammer, minecraft:noteblock, redstonepaste:redstonepaste, dungeontactics:flower_bark, villagenames:monumentbook, morefurnaces:furnaceBlock, villagenames:koentusvillagebook, dungeontactics:trap_boom, dungeontactics:potshot, minecraft:bed, minecraft:packed_ice, dungeontactics:trap_slime, minecraft:dye, minecraft:lapis_ore, minecraft:iron_helmet, minecraft:stick, minecraft:chainmail_leggings, minecraft:poisonous_potato, minecraft:birch_fence, minecraft:diamond_chestplate, minecraft:wooden_hoe, progressiveautomation:KillerDiamond, dungeontactics:flower_cinder, minecraft:slime_ball, minecraft:sign, minecraft:prismarine_crystals, dungeontactics:bag_ore, minecraft:lever, minecraft:paper, minecraft:redstone_ore, minecraft:record_chirp, minecraft:stone_stairs, progressiveautomation:Farmer, minecraft:glass, minecraft:web, minecraft:name_tag, minecraft:record_ward, minecraft:leather, minecraft:jungle_door, minecraft:cobblestone, minecraft:ender_chest, minecraft:nether_brick, minecraft:snow_layer, villagenames:concrete_powder, minecraft:spawn_egg, minecraft:iron_chestplate, minecraft:tnt, minecraft:snow, minecraft:fermented_spider_eye, minecraft:cooked_chicken, minecraft:minecart, villagenames:lunarinGoldBrick, minecraft:hardened_clay, villagenames:villagebook, dungeontactics:charm_sapping, progressiveautomation:CreativeRFEngine, minecraft:cobblestone_wall, minecraft:stone_button, minecraft:stone_slab, minecraft:stained_glass_pane, minecraft:clay, progressiveautomation:Generator, minecraft:rabbit, dungeontactics:ore_nethergold, minecraft:glass_bottle, minecraft:redstone_lamp, tobymodxp:xpItem5, minecraft:record_cat, minecraft:brown_mushroom_block, minecraft:clay_ball, dungeontactics:jewelled_hammer, minecraft:tallgrass, villagenames:glazed_terracotta_orange, dungeontactics:heart_drop, progressiveautomation:FilterMobUpgrade, minecraft:repeater, golems:golem_head, minecraft:nether_star, minecraft:brick_block, hopperducts:gratedhopper, dungeontactics:fish_lung, minecraft:flower_pot, minecraft:emerald_block, minecraft:golden_carrot, minecraft:red_flower, dungeontactics:diamond_hammer, minecraft:beef, tobymodxp:xpBlock, minecraft:firework_charge, minecraft:stone, minecraft:soul_sand, minecraft:mycelium, minecraft:light_weighted_pressure_plate, villagenames:endcitybook, minecraft:diamond_leggings, minecraft:iron_door, dungeontactics:engineer_dungarees, minecraft:golden_horse_armor, progressiveautomation:WitherIron, progressiveautomation:DiamondUpgrade, minecraft:bedrock, dungeontactics:dungeon_glass, minecraft:baked_potato, minecraft:brick, minecraft:diamond_boots, minecraft:iron_boots, dungeontactics:bush_baring, minecraft:writable_book, dungeontactics:bag_tool, dungeontactics:gilded_chestplate, dungeontactics:flower_bramble, minecraft:comparator, minecraft:torch, dungeontactics:charm_famine, minecraft:diamond_hoe, minecraft:lit_furnace, minecraft:farmland, dungeontactics:cluster_gold, minecraft:banner, minecraft:command_block_minecart, ironbackpacks:basicBackpack, minecraft:carrot, minecraft:slime, dungeontactics:flower_tangle, dungeontactics:jewelled_hoe, dungeontactics:heart_golden, dungeontactics:heart_jar, minecraft:enchanting_table, minecraft:dropper, dungeontactics:jewelled_sword, minecraft:potato, redstonepaste:stickyrepeater, dungeontactics:gilded_shovel, minecraft:fishing_rod, dungeontactics:trap_ailment, minecraft:blaze_powder, minecraft:chainmail_boots, progressiveautomation:MinerStone, progressiveautomation:FilterPlayerUpgrade, minecraft:pumpkin_pie, uncraftingtable:uncrafting_table, minecraft:enchanted_book, ironbackpacks:goldBackpackUpgradeEmphasis, dungeontactics:powered_bars, minecraft:cooked_mutton, minecraft:cactus, dungeontactics:obsidianbrick, minecraft:command_block, minecraft:end_stone, minecraft:sapling, minecraft:compass, minecraft:cooked_rabbit, minecraft:log, minecraft:leather_chestplate, redstonepaste:stickycomparator, minecraft:saddle, minecraft:lava_bucket, minecraft:log2, minecraft:quartz_stairs, minecraft:red_mushroom, villagenames:glazed_terracotta_lime, dungeontactics:gilded_sword, dungeontactics:gilded_axe, ironbackpacks:goldBackpackStorageEmphasis, dungeontactics:flower_xp, villagenames:glazed_terracotta_green, progressiveautomation:RFEngine, progressiveautomation:KillerIron, minecraft:diamond_ore, dungeontactics:gilded_knife, endercompass:ender_compass, minecraft:experience_bottle, minecraft:coal_ore, minecraft:spruce_stairs, minecraft:waterlily, villagenames:glazed_terracotta_purple, minecraft:quartz_ore, villagenames:glazed_terracotta_cyan, dungeontactics:battle_harness, minecraft:stone_pressure_plate, minecraft:gravel, minecraft:acacia_door, progressiveautomation:PlanterStone, dungeontactics:cherry_bomb, minecraft:lit_pumpkin, dungeontactics:trap_fire, minecraft:barrier, minecraft:jungle_fence, progressiveautomation:Miner, minecraft:wooden_pressure_plate, tobymodxp:xpItem2, dungeontactics:trap_foul, minecraft:filled_map, minecraft:fish, minecraft:golden_chestplate, villagenames:mansionbook, minecraft:cooked_porkchop, minecraft:bowl, progressiveautomation:WitherStone, dungeontactics:jewelled_shovel, minecraft:stone_slab2, dungeontactics:iron_hammer, dungeontactics:fish_flying, minecraft:gunpowder, minecraft:brown_mushroom, minecraft:redstone_torch, minecraft:spider_eye, progressiveautomation:MilkerUpgrade, minecraft:golden_shovel, minecraft:sandstone_stairs, minecraft:red_sandstone, minecraft:stone_pickaxe, progressiveautomation:IronUpgrade, dungeontactics:grenade_porting_cluster, minecraft:deadbush, dungeontactics:fish_lava, minecraft:brick_stairs, minecraft:arrow, progressiveautomation:GeneratorStone, minecraft:red_mushroom_block, dungeontactics:fish_tunnel, dungeontactics:gilded_leggings, minecraft:jukebox, minecraft:spruce_fence, dungeontactics:grenade_pyro_cluster, minecraft:birch_door, dungeontactics:bag_book, minecraft:obsidian, minecraft:armor_stand, minecraft:feather, dungeontactics:charm_searing, minecraft:record_mellohi, dungeontactics:engineer_doorag, dungeontactics:jewelled_boots, minecraft:dark_oak_fence_gate, minecraft:ender_pearl, dungeontactics:stone_hammer, minecraft:stone_brick_stairs, minecraft:wooden_door, minecraft:oak_stairs, villagenames:codex, golems:power_provider_full, dungeontactics:flower_fade, minecraft:written_book, minecraft:speckled_melon, minecraft:brewing_stand, minecraft:record_strad, dungeontactics:fish_swift, minecraft:leaves2, minecraft:end_portal_frame, dungeontactics:grenade_concussive, minecraft:sea_lantern, dungeontactics:fish_obsidian, minecraft:chainmail_helmet, minecraft:diamond, villagenames:fronosvillagebook, dungeontactics:grenade_porting, minecraft:shears, minecraft:skull, minecraft:dirt, minecraft:emerald_ore, ironbackpacks:diamondBackpackStorageEmphasis, minecraft:egg, minecraft:record_mall, minecraft:cooked_beef, dungeontactics:jewelled_helmet, dungeontactics:grenade_pyro, minecraft:leather_leggings, minecraft:golden_pickaxe, progressiveautomation:FilterAdultUpgrade, minecraft:sponge, minecraft:iron_axe, minecraft:dark_oak_stairs, dungeontactics:gilded_boots, minecraft:clock, minecraft:nether_brick_fence, dungeontactics:fan_block, minecraft:iron_pickaxe, dungeontactics:gilded_pickaxe, dungeontactics:phylactery, minecraft:golden_helmet, progressiveautomation:KillerStone, minecraft:sandstone, dungeontactics:jewelled_leggings, villagenames:glazed_terracotta_white, villagenames:concrete, minecraft:ladder, dungeontactics:trap_port, minecraft:fire_charge, villagenames:glazed_terracotta_brown, minecraft:lead, minecraft:golden_hoe, minecraft:stone_hoe, hopperducts:hopperduct, minecraft:stone_sword, tobymodxp:xpItem4, dungeontactics:charm_emaciated, minecraft:mushroom_stew, minecraft:glowstone_dust, villagenames:glazed_terracotta_light_blue, minecraft:iron_trapdoor, minecraft:chest, villagenames:abandonedbasebook, minecraft:bone, minecraft:hopper_minecart, minecraft:flint_and_steel, dungeontactics:jewelled_pickaxe, minecraft:wheat, dungeontactics:wither_web, minecraft:melon_block, minecraft:wooden_button, minecraft:wooden_pickaxe, minecraft:double_plant, minecraft:pumpkin, minecraft:wheat_seeds, minecraft:porkchop, minecraft:fence, minecraft:dark_oak_fence, minecraft:tripwire_hook, minecraft:golden_axe, minecraft:golden_sword, minecraft:stone_axe, dungeontactics:cluster_nethergold
-[12:31:17] [Client thread/INFO]: [CHAT] Given [Iron Furnace] * 1 to Boweeton
-[12:32:05] [Client thread/INFO]: [CHAT] Given [Iron Furnace] * 1 to Boweeton
-[12:32:11] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 219.5, 75.0, -105.5]
-[12:32:27] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[12:32:27] [JM-task-57/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@7f8feaf7
-[12:32:29] [Client thread/INFO]: Requesting World ID
-[12:32:29] [Client thread/INFO]: Loading journeymap.topo.config
-[12:32:29] [Client thread/INFO]: Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[12:32:29] [Client thread/INFO]: Blocks and textures are current
-[12:32:29] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM-1. Memory: 2720MB total, 725MB free 
-[12:33:31] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM-1
-[12:33:33] [Client thread/INFO]: Requesting World ID
-[12:33:33] [Client thread/INFO]: Loading journeymap.topo.config
-[12:33:33] [Client thread/INFO]: Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[12:33:33] [Client thread/INFO]: Blocks and textures are current
-[12:33:33] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2720MB total, 1098MB free 
-[12:33:40] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 248.5, 103.0, -69.5]
-[12:35:22] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 219.5, 75.0, -105.5]
-[12:38:33] [Client thread/INFO]: [CHAT] [@: Teleported Boweeton to 248.5, 103.0, -69.5]
-[12:43:49] [Client thread/ERROR]: Item entity 1427313 has no item?!
-[12:43:49] [Client thread/ERROR]: Item entity 1427313 has no item?!
-[12:43:49] [Client thread/ERROR]: Item entity 1427313 has no item?!
-[12:43:49] [Client thread/ERROR]: Item entity 1427313 has no item?!
-[12:43:49] [Client thread/ERROR]: Item entity 1427313 has no item?!
-[12:44:02] [Client thread/INFO]: Stopping!
-[12:44:02] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[12:44:02] [Client thread/INFO]: SoundSystem shutting down...
-[12:44:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:40:54] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[13:40:54] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:40:54] [Thread-11/INFO]: OpenAL initialized.
+[13:40:55] [Sound Library Loader/INFO]: Sound engine started
+[13:40:55] [Client thread/INFO]: Max texture size: 16384
+[13:40:56] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[13:40:58] [Client thread/INFO]: Loading blocks and textures...
+[13:40:58] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 95.07ms
+[13:40:58] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 20.278685ms
+[13:40:58] [Client thread/WARN]: Existing color palette's resource packs no longer match current loadout.
+[13:40:58] [Client thread/INFO]: WAS: faithful32pack.zip:zip:1515718186562
+NOW: faithful32pack.zip:zip:1516381066640
+[13:40:58] [Client thread/INFO]: Initialized 8799 block colors from mods and resource packs in 373ms
+[13:40:58] [Client thread/INFO]: Color palette file generated with 505 colors in 29ms for: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[13:40:58] [Client thread/INFO]: Updated color palette file: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[13:41:11] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 15273
+[13:41:12] [Netty Client IO #1/INFO]: Server protocol version 2
+[13:41:13] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
+[13:41:13] [Netty Client IO #1/INFO]: Applying holder lookups
+[13:41:13] [Netty Client IO #1/INFO]: Holder lookups applied
+[13:41:13] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
+[13:41:14] [Client thread/INFO]: Requesting World ID
+[13:41:14] [Client thread/INFO]: Loading journeymap.topo.config
+[13:41:14] [Client thread/INFO]: Loaded 12 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[13:41:14] [Client thread/INFO]: Blocks and textures are current
+[13:41:14] [Client thread/INFO]: Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 656MB total, 257MB free 
+[13:41:14] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bM§f]
+[13:41:14] [Client thread/INFO]: JourneyMap: Press [M]
+[13:41:29] [Client thread/ERROR]: Item entity 1429279 has no item?!
+[13:41:36] [Client thread/INFO]: [CHAT] Teleported Boweeton to -1511.5, 68.0, 836.5
+[13:43:05] [Client thread/INFO]: [CHAT] Teleported Boweeton to 245.5, 102.0, -65.5
+[13:43:06] [JM-task-4/WARN]: Bad block at 12,64,15. Total bad blocks: 1
+[13:43:07] [Client thread/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[13:44:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[13:44:45] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Saving map to screenshots: 2018-01-19_13.44.44_My~Server_Overworld_day.png
+[13:44:45] [Client thread/INFO]: JourneyMap: Saving map to screenshots: 2018-01-19_13.44.44_My~Server_Overworld_day.png
+[13:44:47] [JM-task-4/INFO]: Map filesize:11741063
+[13:45:37] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Map saved: C:\Users\Luke\AppData\Roaming\.minecraft\screenshots\2018-01-19_13.44.44_My~Server_Overworld_day.png
+[13:45:37] [Client thread/INFO]: JourneyMap: Map saved: C:\Users\Luke\AppData\Roaming\.minecraft\screenshots\2018-01-19_13.44.44_My~Server_Overworld_day.png
+[13:45:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[13:45:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[13:53:36] [Client thread/INFO]: Stopping!
+[13:53:36] [Client thread/INFO]: Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[13:53:36] [Client thread/INFO]: SoundSystem shutting down...
+[13:53:36] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
