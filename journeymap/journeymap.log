@@ -55,3 +55,86 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [09:42:11] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
 [09:49:33] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
 [09:49:33] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@4a13b453
+[09:58:16] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[09:58:16] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[09:58:17] [Client thread/INFO] [WaypointStore] Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[09:58:17] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:58:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1408MB total, 572MB free 
+[09:58:18] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[09:58:18] [JM-task-5/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@5f69a0e7
+[10:00:13] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:00:13] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[10:00:13] [Client thread/INFO] [WaypointStore] Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[10:00:13] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:00:13] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1392MB total, 827MB free 
+[10:01:13] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[10:01:13] [JM-task-6/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@104fda18
+[10:03:31] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:03:31] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[10:03:31] [Client thread/INFO] [WaypointStore] Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[10:03:31] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:03:31] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1392MB total, 718MB free 
+[10:15:24] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[10:15:42] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:15:42] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[10:15:42] [Client thread/INFO] [WaypointStore] Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[10:15:42] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:15:42] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1936MB total, 1207MB free 
+[10:18:35] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[10:23:40] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:23:40] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[10:23:40] [Client thread/INFO] [WaypointStore] Loaded 10 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[10:23:40] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:23:40] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1936MB total, 1120MB free 
+[10:41:48] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[10:41:48] [JM-task-13/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@53e26545
+[11:24:09] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[11:24:09] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[11:24:09] [Client thread/INFO] [WaypointStore] Loaded 11 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[11:24:09] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[11:24:09] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1936MB total, 1023MB free 
+[11:32:34] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[11:59:55] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[11:59:55] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[11:59:55] [Client thread/INFO] [WaypointStore] Loaded 11 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[11:59:55] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[11:59:55] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2368MB total, 1326MB free 
+[12:09:01] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[12:10:06] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:10:06] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:10:06] [Client thread/INFO] [WaypointStore] Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[12:10:06] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:10:06] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2368MB total, 1312MB free 
+[12:11:37] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[12:11:43] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:11:43] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:11:43] [Client thread/INFO] [WaypointStore] Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[12:11:43] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:11:43] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2368MB total, 1305MB free 
+[12:13:54] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[12:14:38] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:14:38] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:14:39] [Client thread/INFO] [WaypointStore] Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[12:14:39] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:14:39] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2720MB total, 1485MB free 
+[12:18:28] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[12:22:06] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:22:06] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:22:06] [Client thread/INFO] [WaypointStore] Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[12:22:06] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:22:06] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2720MB total, 1313MB free 
+[12:23:27] [JM-task-57/WARN] [BaseRenderer] Bad block at 14,89,10. Total bad blocks: 1
+[12:32:27] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[12:32:27] [JM-task-57/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@7f8feaf7
+[12:32:29] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:32:29] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:32:29] [Client thread/INFO] [WaypointStore] Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[12:32:29] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:32:29] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM-1. Memory: 2720MB total, 725MB free 
+[12:33:31] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM-1
+[12:33:33] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:33:33] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:33:33] [Client thread/INFO] [WaypointStore] Loaded 12 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[12:33:33] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:33:33] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 2720MB total, 1098MB free 
+[12:44:02] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0

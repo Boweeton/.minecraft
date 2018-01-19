@@ -1,0 +1,18 @@
+{
+  "id": "Storage Tower_245,102,-66",
+  "name": "Storage Tower",
+  "icon": "waypoint-normal.png",
+  "x": 245,
+  "y": 102,
+  "z": -66,
+  "r": 251,
+  "g": 153,
+  "b": 2,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
