@@ -1,0 +1,18 @@
+{
+  "id": "Acdordaw City [Village]_819,70,-463",
+  "name": "Acdordaw City [Village]",
+  "icon": "waypoint-normal.png",
+  "x": 819,
+  "y": 70,
+  "z": -463,
+  "r": 250,
+  "g": 188,
+  "b": 2,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
