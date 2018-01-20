@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.2,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.2.4 Unlimited for 1.8.9 on Fri Jan 19 16:52:52 MST 2018",
+  "generated": "Generated using JourneyMap 5.2.4 Unlimited for 1.8.9 on Sat Jan 20 05:39:25 MST 2018",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1560,11 +1560,6 @@ var colorpalette={
       "alpha": 1.0,
       "meta": 6,
       "variants": [
-        {
-          "name": "Poppy",
-          "color": "#980406",
-          "meta": 0
-        },
         {
           "name": "Blue Orchid",
           "color": "#1e7eb6",
