@@ -5575,3 +5575,16 @@ AL lib: (EE) MMDevApiProc: WaitForSingleObjectEx error: 0x102
 
 [0119/212217:INFO:GameCallbacks.cpp(178)] game/FML (Client thread) info Holder lookups applied
 
+[0119/231358:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.Minecraft (Client thread) info Stopping!
+
+[0119/231358:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) info SoundSystem shutting down...
+
+[0119/231358:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Author: Paul Lamb, www.paulscode.com
+
+[0119/231400:INFO:GameCallbacks.cpp(178)] launcher/launcher (main) info Process closed with exit code 0
+
+[0119/231400:INFO:GameCallbacks.cpp(178)] launcher/launcher (main) info 
+
+
+[0119/231400:INFO:ClientHandler.cpp(149)] Shutting down!
+

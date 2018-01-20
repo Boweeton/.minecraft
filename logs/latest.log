@@ -268,3 +268,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [21:22:17] [Client thread/INFO]: Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
 [21:22:17] [Client thread/INFO]: Applying holder lookups
 [21:22:17] [Client thread/INFO]: Holder lookups applied
+[23:13:58] [Client thread/INFO]: Stopping!
+[23:13:58] [Client thread/INFO]: SoundSystem shutting down...
+[23:13:58] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
