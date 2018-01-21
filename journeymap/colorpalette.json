@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.2,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.2.4 Unlimited for 1.8.9 on Sat Jan 20 13:56:16 MST 2018",
+  "generated": "Generated using JourneyMap 5.2.4 Unlimited for 1.8.9 on Sat Jan 20 19:09:09 MST 2018",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -284,7 +284,6 @@ var colorpalette={
       "variants": [
         {
           "color": "#dbd3b1",
-          "alpha": 0.99607843,
           "meta": 11
         }
       ]
@@ -475,7 +474,7 @@ var colorpalette={
       "uid": "minecraft:cauldron",
       "name": "Cauldron",
       "color": "#3e3e3e",
-      "alpha": 0.9647059,
+      "alpha": 1.0,
       "meta": 3
     },
     {
@@ -647,11 +646,6 @@ var colorpalette={
       "alpha": 1.0,
       "meta": 1,
       "variants": [
-        {
-          "name": "Podzol",
-          "color": "#7c583b",
-          "meta": 2
-        },
         {
           "name": "Podzol",
           "color": "#866043",
@@ -834,7 +828,7 @@ var colorpalette={
       "uid": "minecraft:end_portal",
       "name": "EndPortal",
       "color": "#7c007c",
-      "alpha": 0.0,
+      "alpha": 1.0,
       "meta": 0
     },
     {
@@ -1131,19 +1125,17 @@ var colorpalette={
       "uid": "minecraft:leaves",
       "name": "Birch Leaves",
       "color": "#646464",
-      "alpha": 0.69411767,
+      "alpha": 1.0,
       "meta": 14,
       "variants": [
         {
           "name": "Spruce Leaves",
           "color": "#5f5f5f",
-          "alpha": 0.65882355,
           "meta": 13
         },
         {
           "name": "Jungle Leaves",
           "color": "#83817a",
-          "alpha": 0.81960785,
           "meta": 15
         }
       ]
@@ -1152,7 +1144,7 @@ var colorpalette={
       "uid": "minecraft:leaves2",
       "name": "Dark Oak Leaves",
       "color": "#646464",
-      "alpha": 0.69411767,
+      "alpha": 1.0,
       "meta": 13
     },
     {
@@ -1390,7 +1382,7 @@ var colorpalette={
       "uid": "minecraft:piston_extension",
       "name": "PistonMoving",
       "color": "#7c007c",
-      "alpha": 0.0,
+      "alpha": 1.0,
       "meta": 13
     },
     {
@@ -1444,7 +1436,7 @@ var colorpalette={
       "uid": "minecraft:portal",
       "name": "Portal",
       "color": "#5a06c4",
-      "alpha": 0.7490196,
+      "alpha": 1.0,
       "meta": 2
     },
     {
@@ -1568,6 +1560,11 @@ var colorpalette={
       "alpha": 1.0,
       "meta": 6,
       "variants": [
+        {
+          "name": "Poppy",
+          "color": "#980406",
+          "meta": 0
+        },
         {
           "name": "Blue Orchid",
           "color": "#1e7eb6",
@@ -1733,7 +1730,6 @@ var colorpalette={
         },
         {
           "color": "#323820",
-          "alpha": 0.99607843,
           "meta": 9
         },
         {
@@ -1761,14 +1757,14 @@ var colorpalette={
       "uid": "minecraft:skull",
       "name": "Skull",
       "color": "#554134",
-      "alpha": 0.0,
+      "alpha": 1.0,
       "meta": 13
     },
     {
       "uid": "minecraft:slime",
       "name": "Slime Block",
       "color": "#7ac966",
-      "alpha": 0.7411765,
+      "alpha": 1.0,
       "meta": 0
     },
     {
@@ -2096,14 +2092,14 @@ var colorpalette={
       "uid": "minecraft:standing_banner",
       "name": "BannerStanding",
       "color": "#a68753",
-      "alpha": 0.0,
+      "alpha": 1.0,
       "meta": 15
     },
     {
       "uid": "minecraft:standing_sign",
       "name": "Sign",
       "color": "#a68753",
-      "alpha": 0.0,
+      "alpha": 1.0,
       "meta": 15
     },
     {
@@ -2273,7 +2269,7 @@ var colorpalette={
       "uid": "minecraft:tripwire",
       "name": "Tripwire",
       "color": "#818181",
-      "alpha": 0.6509804,
+      "alpha": 1.0,
       "meta": 15
     },
     {
@@ -2314,14 +2310,14 @@ var colorpalette={
       "uid": "minecraft:wall_banner",
       "name": "White Banner",
       "color": "#a68753",
-      "alpha": 0.0,
+      "alpha": 1.0,
       "meta": 5
     },
     {
       "uid": "minecraft:wall_sign",
       "name": "Sign",
       "color": "#a68753",
-      "alpha": 0.0,
+      "alpha": 1.0,
       "meta": 5
     },
     {
@@ -2684,7 +2680,7 @@ var colorpalette={
       "name": "Diamond Generator",
       "color": "#49cac2",
       "alpha": 1.0,
-      "meta": 5,
+      "meta": 4,
       "variants": [
         {
           "color": "#66cab0",
@@ -2697,7 +2693,7 @@ var colorpalette={
       "name": "Iron Generator",
       "color": "#959595",
       "alpha": 1.0,
-      "meta": 5,
+      "meta": 4,
       "variants": [
         {
           "color": "#aaa28d",
@@ -2710,7 +2706,7 @@ var colorpalette={
       "name": "Stone Generator",
       "color": "#656565",
       "alpha": 1.0,
-      "meta": 5,
+      "meta": 4,
       "variants": [
         {
           "color": "#7c735f",

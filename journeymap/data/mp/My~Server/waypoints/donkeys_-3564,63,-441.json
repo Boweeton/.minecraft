@@ -1,0 +1,18 @@
+{
+  "id": "donkeys_-3564,63,-441",
+  "name": "donkeys",
+  "icon": "waypoint-normal.png",
+  "x": -3564,
+  "y": 63,
+  "z": -441,
+  "r": 12,
+  "g": 154,
+  "b": 12,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
