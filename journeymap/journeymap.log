@@ -1,6 +1,6 @@
-[20:34:16] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[20:34:16] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[20:34:16] [Client thread/INFO] [?] Version: JourneyMap 5.2.4 Unlimited, built with Forge 11.15.1.1722
+[09:32:48] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[09:32:48] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[09:32:48] [Client thread/INFO] [?] Version: JourneyMap 5.2.4 Unlimited, built with Forge 11.15.1.1722
 Forge: 11.15.1.1722
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
 Unlimited Features: 
@@ -14,15 +14,15 @@ MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.
 FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.2.4, zoomLevel=1, showPlayers=true, showSelf=true, locationFormat=xzyv, showGrid=true, entityIconSetName=2D, showPlayerHeading=true, showVillagers=false, showCaves=false, showWaypoints=true, showAnimals=false, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, textureSmall=true, showMobs=false, showPets=true, fontScale=1, preferredMapType=day}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.2.4, createDeathpoints=false, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=false}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.2.4, zoomLevel=0, showPlayers=true, showSelf=true, showGrid=true, entityIconSetName=2D, enabled=false, showVillagers=true, showWaypoints=true, port=8080, showAnimals=true, showMobs=true, showPets=true, googleMapApiDomain=.com, preferredMapType=day}
-CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.2.4, radarLateralDistance=64, maxPlayersData=32, mapSurfaceAboveCaves=true, mapBathymetry=false, mapCrops=true, maxMobsData=32, optionsManagerViewed=5.2.4, announceMod=true, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mappingEnabled=true, renderOverlayEventTypeName=ALL, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, renderDistanceSurfaceMax=10, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=12, radarVerticalDistance=16, mapAntialiasing=true, cachePlayersData=2000, recordCacheStats=false, cacheMobsData=3000, hideSneakingEntities=true, renderDistanceSurfaceMin=10, cachePlayerData=1000, splashViewed=5.2.4, revealShape=Square, renderDistanceCaveMin=11, cacheAnimalsData=3100, themeName=Purist, alwaysMapSurface=false, mapCaveLighting=true, mapPlants=false, renderDelay=0, renderOverlayPreEvent=true, autoMapPoll=2000}
-[20:34:16] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.2
-[20:34:16] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[20:34:16] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[20:34:16] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
-[20:34:16] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
-[20:34:16] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
-[20:34:17] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r360.58§8ms§r
-[20:34:17] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.2.4, radarLateralDistance=64, maxPlayersData=32, mapSurfaceAboveCaves=true, mapBathymetry=false, mapCrops=true, maxMobsData=32, optionsManagerViewed=5.2.4, announceMod=true, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mappingEnabled=true, renderOverlayEventTypeName=ALL, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, renderDistanceSurfaceMax=2, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=2, radarVerticalDistance=16, mapAntialiasing=true, cachePlayersData=2000, recordCacheStats=false, cacheMobsData=3000, hideSneakingEntities=true, renderDistanceSurfaceMin=2, cachePlayerData=1000, splashViewed=5.2.4, revealShape=Square, renderDistanceCaveMin=2, cacheAnimalsData=3100, themeName=Purist, alwaysMapSurface=false, mapCaveLighting=true, mapPlants=false, renderDelay=0, renderOverlayPreEvent=true, autoMapPoll=2000}
+[09:32:48] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.2
+[09:32:48] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[09:32:48] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[09:32:48] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[09:32:48] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[09:32:48] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[09:32:48] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r291.45§8ms§r
+[09:32:49] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -39,49 +39,19 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[20:34:20] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[20:34:20] [Client thread/INFO] [BlockMD] Built BlockMD cache (8851) : BlockMD.reset count 1 avg 81.57ms
-[20:34:20] [Client thread/INFO] [ColorHelper_1_8] initBlocksTexture: 1024x1024 loaded in 26.733128ms
-[20:34:20] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
-[20:34:20] [Client thread/INFO] [ColorManager] Loaded 505 block colors from color palette file in 3ms: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[20:34:21] [Client thread/INFO] [ColorManager] Initialized 8320 block colors from mods and resource packs in 336ms
-[20:34:21] [Client thread/INFO] [ColorPalette] Color palette file generated with 505 colors in 49ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[20:34:21] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[20:34:26] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[20:34:27] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\sp\mod testing\waypoints
-[20:34:27] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[20:34:27] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\sp\mod testing\DIM0. Memory: 1312MB total, 493MB free 
-[20:34:29] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
-[20:45:29] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\sp\mod testing\DIM0
-[20:45:29] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@4d07b703
-[20:45:49] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[20:45:49] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[20:45:49] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[20:45:49] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[20:45:49] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1856MB total, 1013MB free 
-[21:26:52] [JM-task-13/WARN] [BaseRenderer] Bad block at 5,66,3. Total bad blocks: 1
-[21:31:58] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=211, y=72, z=-132}. Deathpoints enabled: false. Deathpoint created: true
-[21:46:14] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[21:46:16] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[22:25:26] [JM-task-13/INFO] [StatTimer] SurfaceRenderer.renderSurface hit max count, 1000000
-[22:25:26] [JM-task-13/INFO] [StatTimer] TopoRenderer.renderSurface hit max count, 1000000
-[22:30:24] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[22:30:24] [JM-task-13/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@1602d21e
-[22:31:05] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[22:31:05] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[22:31:05] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[22:31:05] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[22:31:05] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1728MB total, 1101MB free 
-[23:19:25] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
-[23:19:26] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
-[23:38:13] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
-[23:38:18] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[23:38:18] [Client thread/WARN] [PropertiesBase] core (Valid) Render distance 2 is less than CoreProperties.renderDistanceCaveMin
-[23:38:18] [Client thread/WARN] [PropertiesBase] core (Valid) Render distance 2 is less than CoreProperties.renderDistanceCaveMax
-[23:38:18] [Client thread/WARN] [PropertiesBase] core (Valid) Render distance 2 is less than CoreProperties.renderDistanceSurfaceMin
-[23:38:18] [Client thread/WARN] [PropertiesBase] core (Valid) Render distance 2 is less than CoreProperties.renderDistanceSurfaceMax
-[23:38:18] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[23:38:18] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
-[23:38:18] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[23:38:18] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 1728MB total, 1089MB free 
-[23:47:31] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[09:32:52] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[09:32:52] [Client thread/INFO] [BlockMD] Built BlockMD cache (8851) : BlockMD.reset count 1 avg 122.45ms
+[09:32:52] [Client thread/INFO] [ColorHelper_1_8] initBlocksTexture: 1024x1024 loaded in 30.327304ms
+[09:32:52] [Client thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
+[09:32:52] [Client thread/INFO] [ColorPalette] WAS: faithful32pack.zip:zip:1515718186562
+NOW: faithful32pack.zip:zip:1516381066640
+[09:32:53] [Client thread/INFO] [ColorManager] Initialized 8799 block colors from mods and resource packs in 327ms
+[09:32:53] [Client thread/INFO] [ColorPalette] Color palette file generated with 505 colors in 30ms for: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[09:32:53] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[09:33:06] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[09:33:06] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[09:33:06] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[09:33:06] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[09:33:06] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 656MB total, 251MB free 
+[09:33:09] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
+[10:12:53] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
