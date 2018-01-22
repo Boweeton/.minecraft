@@ -55,3 +55,9 @@ NOW: faithful32pack.zip:zip:1516381066640
 [09:33:06] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 656MB total, 251MB free 
 [09:33:09] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
 [10:12:53] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+[10:13:59] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[10:13:59] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[10:13:59] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+[10:13:59] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:13:59] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 704MB total, 274MB free 
+[10:25:50] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0

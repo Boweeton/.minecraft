@@ -6655,3 +6655,298 @@ NOW: faithful32pack.zip:zip:1516381066640
 
 [0122/101253:INFO:GameCallbacks.cpp(178)] game/FML (Client thread) info Holder lookups applied
 
+[0122/101357:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.multiplayer.GuiConnecting (Client thread) info Connecting to 0.tcp.ngrok.io, 19992
+
+[0122/101358:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Server protocol version 2
+
+[0122/101358:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Injecting existing block and item data into this client instance
+
+[0122/101358:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Applying holder lookups
+
+[0122/101358:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Holder lookups applied
+
+[0122/101359:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info [Netty Client IO #3] Client side modded connection established
+
+[0122/101359:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Requesting World ID
+
+[0122/101359:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Loading journeymap.topo.config
+
+[0122/101359:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\waypoints
+
+[0122/101359:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Blocks and textures are current
+
+[0122/101359:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0. Memory: 704MB total, 274MB free 
+
+[0122/101421:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101421:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101421:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101422:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101423:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101605:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 124420 has no item?!
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101806:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101825:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101826:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101834:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101835:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101835:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101835:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101835:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101835:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/101835:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102010:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102011:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102011:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102011:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102011:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102011:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102011:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102206:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 141195 has no item?!
+
+[0122/102206:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 141195 has no item?!
+
+[0122/102357:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 144090 has no item?!
+
+[0122/102357:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 144090 has no item?!
+
+[0122/102357:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 144090 has no item?!
+
+[0122/102519:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 146342 has no item?!
+
+[0122/102519:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 146342 has no item?!
+
+[0122/102519:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 146342 has no item?!
+
+[0122/102519:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 146342 has no item?!
+
+[0122/102519:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 146342 has no item?!
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102540:INFO:GameCallbacks.cpp(178)] game/STDOUT (Client thread) info [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+
+[0122/102550:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\My~Server\DIM0
+
+[0122/102550:INFO:GameCallbacks.cpp(178)] game/FML (Client thread) info Applying holder lookups
+
+[0122/102550:INFO:GameCallbacks.cpp(178)] game/FML (Client thread) info Holder lookups applied
+
+[0122/102551:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.Minecraft (Client thread) info Stopping!
+
+[0122/102551:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) info SoundSystem shutting down...
+
+[0122/102552:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Author: Paul Lamb, www.paulscode.com
+
+[0122/102553:INFO:GameCallbacks.cpp(178)] launcher/launcher (main) info Process closed with exit code 0
+
+[0122/102553:INFO:GameCallbacks.cpp(178)] launcher/launcher (main) info 
+
+
+[0122/102553:INFO:ClientHandler.cpp(149)] Shutting down!
+
