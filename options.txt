@@ -11,8 +11,8 @@ anaglyph3d:false
 maxFps:260
 fboEnable:true
 difficulty:1
-fancyGraphics:true
-ao:2
+fancyGraphics:false
+ao:1
 renderClouds:false
 resourcePacks:["faithful32pack.zip"]
 incompatibleResourcePacks:[]
@@ -105,7 +105,7 @@ soundCategory_record:1.0
 soundCategory_weather:0.09154929
 soundCategory_block:1.0
 soundCategory_hostile:0.8239437
-soundCategory_neutral:0.20422535
+soundCategory_neutral:0.1056338
 soundCategory_player:0.52112675
 soundCategory_ambient:1.0
 modelPart_cape:true
