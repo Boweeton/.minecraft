@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.2,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.2.4 Unlimited for 1.8.9 on Tue Jan 23 15:59:33 MST 2018",
+  "generated": "Generated using JourneyMap 5.2.4 Unlimited for 1.8.9 on Wed Jan 24 11:19:25 MST 2018",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -10,7 +10,7 @@ var colorpalette={
     "For more information, go to: http://journeymap.info/Color_Palette"
   ],
   "permanent": false,
-  "resourcePacks": "faithful32pack.zip:zip:1516381066640",
+  "resourcePacks": "faithful32pack.zip:zip:1515718186562",
   "modNames": "DungeonTactics:DT0.9.3, Ender Compass:1.2.2.1, Extra Golems:3.05, Faster Ladder Climbing:0.1-104, FlatBedrock Xplosion\u0027s Edition:1.1.0, Forge Mod Loader:8.0.99.99, Hopper Ducts:1.4.6, Iron Backpacks:1.8.9-2.0.5, JourneyMap:1.8.9-5.2.4, Minecraft Coder Pack:9.19, Minecraft Forge:11.15.1.1722, More Furnaces:1.5.1, Progressive Automation:1.6.44, Redstone Paste:1.7.2, Rotten Flesh to Leather:1.0, Treecapitator:at_0.9, Uncrafting Table:1.5.1, Village Names:2.0, XPyourself:2.0, bspkrsCore:at_0.9",
   "blockColors": [
     {
