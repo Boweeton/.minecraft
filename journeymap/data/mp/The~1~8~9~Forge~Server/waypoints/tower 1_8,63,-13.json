@@ -1,0 +1,18 @@
+{
+  "id": "tower 1_8,63,-13",
+  "name": "tower 1",
+  "icon": "waypoint-normal.png",
+  "x": 8,
+  "y": 63,
+  "z": -13,
+  "r": 124,
+  "g": 4,
+  "b": 179,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

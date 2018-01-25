@@ -1,0 +1,18 @@
+{
+  "id": "tower 9_-4064,63,1040",
+  "name": "tower 9",
+  "icon": "waypoint-normal.png",
+  "x": -4064,
+  "y": 63,
+  "z": 1040,
+  "r": 43,
+  "g": 32,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
