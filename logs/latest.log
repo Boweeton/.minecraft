@@ -1,1313 +1,202 @@
-[20:14:03] [Client thread/INFO]: Setting user: Boweeton
-[20:14:04] [Client thread/WARN]: Skipping bad option: streamPreferredServer:
-[20:14:04] [Client thread/INFO]: LWJGL Version: 2.9.4
-[20:14:05] [Client thread/WARN]: Removed selected resource pack faithful32pack.zip because it's no longer compatible
-[20:14:05] [Client thread/INFO]: Reloading ResourceManager: Default
-[20:14:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[20:14:07] [Thread-3/INFO]: Initializing LWJGL OpenAL
-[20:14:07] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[20:14:07] [Thread-3/INFO]: OpenAL initialized.
-[20:14:07] [Sound Library Loader/INFO]: Sound engine started
-[20:14:10] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[20:14:11] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[20:14:59] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
-[20:15:00] [Client thread/INFO]: [CHAT] a>>   Achievement Unlocked: 񘬒Achievement Get! Hypixel Server!   <<a
-[20:15:00] [Client thread/INFO]: [CHAT]                                      
-[20:15:00] [Client thread/INFO]: [CHAT]                          
-[20:15:00] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:01] [Client thread/INFO]: [CHAT] You have 1 unclaimed leveling reward!
-[20:15:01] [Client thread/INFO]: [CHAT] Click here to view it!
-[20:15:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:01] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
-	at h.a(SourceFile:47) [1.12.2.jar:?]
-	at bib.az(SourceFile:991) [1.12.2.jar:?]
-	at bib.a(SourceFile:419) [1.12.2.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
-Caused by: java.lang.NullPointerException
-	at bhk.d(SourceFile:228) ~[1.12.2.jar:?]
-	at brz.a(SourceFile:1694) ~[1.12.2.jar:?]
-	at kl.a(SourceFile:117) ~[1.12.2.jar:?]
-	at kl.a(SourceFile:13) ~[1.12.2.jar:?]
-	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
-	at h.a(SourceFile:46) ~[1.12.2.jar:?]
-	... 3 more
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:05] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:05] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:05] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:06] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:06] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:06] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:08] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:08] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:08] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:09] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:09] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:09] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:09] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:09] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:10] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:10] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:12] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:12] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:12] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:13] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:13] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:13] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:13] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:15] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:15] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:15] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:16] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:16] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:16] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:16] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:18] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:18] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:18] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:19] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:19] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:19] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:19] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:20] [Client thread/INFO]: [CHAT] [MVP+] MysticPearl�6 joined the lobby!
-[20:15:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:21] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:21] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:21] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:22] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:22] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:22] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:22] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:24] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:24] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:24] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:25] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:25] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:25] [Client thread/INFO]: [CHAT] [Mystery Box] kor_lightening found a Epic Hype Dance Gesture!
-[20:15:25] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:25] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:28] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:28] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:30] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:30] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:30] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:31] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:31] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:31] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:31] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:32] [Client thread/INFO]: [CHAT] [MVP�6+] Cosmo_06�6 joined the lobby!
-[20:15:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:33] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:33] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:33] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:34] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:34] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:34] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:34] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:36] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:36] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:36] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:37] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:37] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:37] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:37] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:40] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:40] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:41] [Client thread/INFO]: [CHAT] [MVP+] FalconBlitzlanta�6 joined the lobby!
-[20:15:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:43] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:43] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:45] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:45] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:45] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:46] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:46] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:46] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:46] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:48] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:48] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:48] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:49] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:49] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:49] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:49] [Client thread/INFO]: [CHAT] [MVP+] xAlwqysArctic_�6 joined the lobby!
-[20:15:49] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:51] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:51] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:51] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:52] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:52] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:52] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:52] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:54] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:54] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:54] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:55] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:55] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:55] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:55] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:57] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:57] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:57] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:58] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:58] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:58] [Client thread/INFO]: [CHAT] [MVP+] Charlote�6 joined the lobby!
-[20:15:58] [Client thread/INFO]: [CHAT] [MVP�2+] Petite_moppe�6 joined the lobby!
-[20:15:58] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:58] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:15:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:00] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:00] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:00] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:00] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:01] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:02] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:02] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:02] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:04] [Client thread/INFO]: [CHAT] [MVP+] ISacredAngerI�6 joined the lobby!
-[20:16:04] [Client thread/INFO]: [CHAT]  >>> �6[MVP++�6] Farrt�6 joined the lobby! <<<
-[20:16:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:04] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:05] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:05] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:05] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:06] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:06] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:06] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:07] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:08] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:08] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:08] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:09] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:10] [Client thread/INFO]: [CHAT]                                      
-[20:16:10] [Client thread/INFO]: [CHAT]                          
-[20:16:10] [Client thread/INFO]: [CHAT] You have 1 unclaimed leveling reward!
-[20:16:10] [Client thread/INFO]: [CHAT] Click here to view it!
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_25]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_25]
-	at h.a(SourceFile:47) [1.12.2.jar:?]
-	at bib.az(SourceFile:991) [1.12.2.jar:?]
-	at bib.a(SourceFile:419) [1.12.2.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
-Caused by: java.lang.NullPointerException
-	at bhk.d(SourceFile:228) ~[1.12.2.jar:?]
-	at brz.a(SourceFile:1694) ~[1.12.2.jar:?]
-	at kl.a(SourceFile:117) ~[1.12.2.jar:?]
-	at kl.a(SourceFile:13) ~[1.12.2.jar:?]
-	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_25]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_25]
-	at h.a(SourceFile:46) ~[1.12.2.jar:?]
-	... 3 more
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:11] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:12] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:12] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:12] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:13] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:13] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:14] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:15] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:15] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:15] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:16] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:16] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:17] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:18] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:18] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:18] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:19] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:19] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:20] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:21] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:21] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:21] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:22] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:22] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:23] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:24] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:24] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:24] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:25] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:25] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:26] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:27] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:28] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:28] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:28] [Client thread/INFO]: [CHAT] Player visibility disabled!
-[20:16:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:29] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:30] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:30] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:30] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:30] [Client thread/INFO]: [CHAT] -----------------------------------------------------\nNoahquay has invited you to join their party!\nClick here to join! You have 60 seconds to accept.\n-----------------------------------------------------
-[20:16:31] [Client thread/INFO]: [CHAT] You must wait 3s between uses!
-[20:16:31] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:31] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:32] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:33] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:33] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:33] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:34] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:34] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:35] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:36] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:36] [Client thread/INFO]: [CHAT] Player visibility enabled!
-[20:16:36] [Client thread/INFO]: [CHAT] You must wait 3s between uses!
-[20:16:36] [Client thread/INFO]: [CHAT] You must wait 3s between uses!
-[20:16:36] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:36] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:37] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:37] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:38] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:39] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:40] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:40] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:41] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:42] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:43] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:43] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:44] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:45] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:45] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:45] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:46] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:46] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:47] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:48] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:48] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:48] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:49] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:49] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:49] [Client thread/INFO]: [CHAT] -----------------------------------------------------
-[20:16:49] [Client thread/INFO]: [CHAT] You joined Noahquay's party!
-[20:16:49] [Client thread/INFO]: [CHAT] -----------------------------------------------------
-[20:16:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:50] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:51] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:51] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:51] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:52] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:52] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:53] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:54] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:54] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:54] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:55] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:55] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:56] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:57] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:57] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:57] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:58] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:58] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:16:59] [Client thread/WARN]: Received passengers for unknown entity
-[20:17:01] [Client thread/INFO]: [CHAT]                                      
-[20:17:01] [Client thread/INFO]: [CHAT]                          
-[20:17:01] [Client thread/INFO]: [CHAT] [MVP+] TNSGE_F4feeee_XL�6 joined the lobby!
-[20:17:01] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:17:01] [Client thread/INFO]: [CHAT] 
-[20:17:01] [Client thread/INFO]: [CHAT]                            Bed Wars Experience
-[20:17:01] [Client thread/INFO]: [CHAT]           Level 0                                           Level 1
-[20:17:01] [Client thread/INFO]: [CHAT]           [??????????????????????????????????]
-[20:17:01] [Client thread/INFO]: [CHAT]                MN  LEVEL UP! You are now Level 1!  NM
-[20:17:01] [Client thread/INFO]: [CHAT] 
-[20:17:01] [Client thread/INFO]: [CHAT] You earned 500 Bed Wars Experience (First Join)
-[20:17:01] [Client thread/INFO]: [CHAT] You earned 1x Bed Wars Loot Chest
-[20:17:01] [Client thread/INFO]: [CHAT] 
-[20:17:01] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:17:01] [Client thread/INFO]: [CHAT] You have 1 unclaimed leveling reward!
-[20:17:01] [Client thread/INFO]: [CHAT] Click here to view it!
-[20:17:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[20:17:11] [Client thread/INFO]: [CHAT]                                      
-[20:17:11] [Client thread/INFO]: [CHAT]        
-[20:17:11] [Client thread/INFO]: [CHAT] Boweeton has joined (9/16)!
-[20:17:11] [Client thread/INFO]: [CHAT] Noahquay has joined (10/16)!
-[20:17:11] [Client thread/INFO]: [CHAT] The game starts in 20 seconds!
-[20:17:11] [Client thread/INFO]: [CHAT] Unicornflyer has joined (11/16)!
-[20:17:11] [Client thread/INFO]: [CHAT] Freakierx2 has joined (12/16)!
-[20:17:11] [Client thread/INFO]: [CHAT] UqlyAly has joined (13/16)!
-[20:17:11] [Client thread/INFO]: [CHAT] ILostYourDad has joined (14/16)!
-[20:17:11] [Client thread/INFO]: [CHAT] acarrier08 has joined (15/16)!
-[20:17:11] [Client thread/INFO]: [CHAT] JosephBruff has joined (16/16)!
-[20:17:13] [Client thread/INFO]: [CHAT] Sejuyoutube1023: ????
-[20:17:14] [Client thread/INFO]: [CHAT] [MVP+] ThatCrazyFish27: Please no try hards :(
-[20:17:15] [Client thread/INFO]: [CHAT] JewsWisely: yezqsh
-[20:17:17] [Client thread/INFO]: [CHAT] Freakierx2: gg
-[20:17:18] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:17:19] [Client thread/INFO]: [CHAT] [MVP+] Reznak: pls good team
-[20:17:20] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:17:21] [Client thread/INFO]: [CHAT] ILostYourDad: yeah
-[20:17:25] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:17:26] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:17:26] [Client thread/INFO]: [CHAT] ILostYourDad: im so sick of getting targeted
-[20:17:27] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:17:28] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
-[20:17:29] [Client thread/INFO]: [CHAT] The game starts in 1 second!
-[20:17:30] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:17:30] [Client thread/INFO]: [CHAT]                                   Bed Wars
-[20:17:30] [Client thread/INFO]: [CHAT] 
-[20:17:30] [Client thread/INFO]: [CHAT]      Protect your bed and destroy the enemy beds.
-[20:17:30] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
-[20:17:30] [Client thread/INFO]: [CHAT]     Iron, Gold, Emerald and Diamond from generators
-[20:17:30] [Client thread/INFO]: [CHAT]                   to access powerful upgrades.
-[20:17:30] [Client thread/INFO]: [CHAT] 
-[20:17:30] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:17:33] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:17:33] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:17:42] [Client thread/INFO]: [CHAT] WooshyBubblegum disconnected
-[20:17:46] [Client thread/INFO]: [CHAT] MexicanLife fell into the void.
-[20:18:04] [Client thread/INFO]: [CHAT] JosephBruff fell into the void.
-[20:18:08] [Client thread/INFO]: [CHAT] You don't have enough Emerald! Need 4 more!
-[20:18:15] [Client thread/INFO]: [CHAT] You purchased Stone Sword
-[20:18:18] [Client thread/INFO]: [CHAT] ClaytonDesit fell into the void.
-[20:18:18] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:18:34] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:18:34] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:18:34] [Client thread/INFO]: [CHAT] Noahquay fell into the void.
-[20:18:39] [Client thread/INFO]: [CHAT] You don't have enough Gold! Need 6 more!
-[20:18:42] [Client thread/INFO]: [CHAT] You purchased Arrow
-[20:18:43] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed be shot with cannon by ClaytonDesit!
-[20:18:47] [Client thread/INFO]: [CHAT] Noahquay be cannonballed to death by ClaytonDesit. FINAL KILL!
-[20:18:48] [Client thread/INFO]: [CHAT] ClaytonDesit was knocked into the void by Boweeton.
-[20:18:48] [Client thread/INFO]: [CHAT] Unicornflyer fell into the void.
-[20:18:49] [Client thread/INFO]: [CHAT] Boweeton was struck down by prowarrior1. FINAL KILL!
-[20:18:49] [Client thread/INFO]: [CHAT] You have been eliminated!
-[20:18:49] [Client thread/INFO]: [CHAT] 
-[20:18:49] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Gray Team has been eliminated!
-[20:18:49] [Client thread/INFO]: [CHAT] 
-[20:18:52] [Client thread/INFO]: [CHAT] [SHOUT] [BLUE] ILostYourDad: red are try hards
-[20:18:58] [Client thread/INFO]: [CHAT] [SHOUT] [RED] [MVP++] prowarrior1: what?? xD
-[20:19:01] [Client thread/INFO]: [CHAT] [SHOUT] [RED] ClaytonDesit: 2 bad
-[20:19:12] [Client thread/INFO]: [CHAT] prowarrior1 was killed by Yohanan.
-[20:19:18] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:19:21] [Client thread/INFO]: [CHAT] 
-[20:19:21] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Yellow Bed was destroyed by acarrier08!
-[20:19:21] [Client thread/INFO]: [CHAT] 
-[20:19:24] [Client thread/INFO]: [CHAT] ClaytonDesit was knocked into the void by Yohanan.
-[20:19:25] [Client thread/INFO]: [CHAT] Freakierx2 was killed by acarrier08. FINAL KILL!
-[20:19:27] [Client thread/INFO]: [CHAT] Unicornflyer was knocked into the void by JosephBruff. FINAL KILL!
-[20:19:27] [Client thread/INFO]: [CHAT] 
-[20:19:27] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Yellow Team has been eliminated!
-[20:19:27] [Client thread/INFO]: [CHAT] 
-[20:19:30] [Client thread/INFO]: [CHAT] [SPECTATOR] Unicornflyer: bye
-[20:19:36] [Client thread/INFO]: [CHAT] prowarrior1 was knocked into the void by Yohanan.
-[20:19:40] [Client thread/INFO]: [CHAT] [SPECTATOR] Freakierx2: bye
-[20:19:47] [Client thread/INFO]: [CHAT]                                      
-[20:19:47] [Client thread/INFO]: [CHAT]        
-[20:19:47] [Client thread/INFO]: [CHAT] Noahquay has joined (15/16)!
-[20:19:47] [Client thread/INFO]: [CHAT] Boweeton has joined (16/16)!
-[20:19:55] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:20:00] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:20:01] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:20:02] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:20:03] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
-[20:20:04] [Client thread/INFO]: [CHAT] The game starts in 1 second!
-[20:20:05] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:20:05] [Client thread/INFO]: [CHAT]                                   Bed Wars
-[20:20:05] [Client thread/INFO]: [CHAT] 
-[20:20:05] [Client thread/INFO]: [CHAT]      Protect your bed and destroy the enemy beds.
-[20:20:05] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
-[20:20:05] [Client thread/INFO]: [CHAT]     Iron, Gold, Emerald and Diamond from generators
-[20:20:05] [Client thread/INFO]: [CHAT]                   to access powerful upgrades.
-[20:20:05] [Client thread/INFO]: [CHAT] 
-[20:20:05] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:20:29] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:20:36] [Client thread/INFO]: [CHAT] Noahquay fell into the void.
-[20:20:39] [Client thread/INFO]: [CHAT] 
-[20:20:39] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Green Bed was deep fried by ohKenjamin!
-[20:20:39] [Client thread/INFO]: [CHAT] 
-[20:20:42] [Client thread/INFO]: [CHAT] You don't have enough Gold! Need 2 more!
-[20:20:43] [Client thread/INFO]: [CHAT] TheDabMasterMan was not spicy enough for ohKenjamin. FINAL KILL!
-[20:20:44] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:20:44] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:20:46] [Client thread/INFO]: [CHAT] You purchased Stone Sword
-[20:20:47] [Client thread/INFO]: [CHAT] HUNTER72707 was wrapped into a gift by Luvonox. FINAL KILL!
-[20:20:47] [Client thread/INFO]: [CHAT] 
-[20:20:47] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Green Team has been eliminated!
-[20:20:47] [Client thread/INFO]: [CHAT] 
-[20:20:49] [Client thread/INFO]: [CHAT] aznroadkill fell into the void.
-[20:21:20] [Client thread/INFO]: [CHAT] Freeeeeeeeeee fell into the void.
-[20:21:27] [Client thread/INFO]: [CHAT] Jihoo0723 fell into the void.
-[20:21:29] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:21:31] [Client thread/INFO]: [CHAT] 
-[20:21:31] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Yellow Bed was deep fried by ohKenjamin!
-[20:21:31] [Client thread/INFO]: [CHAT] 
-[20:21:35] [Client thread/INFO]: [CHAT] ohKenjamin was knocked into the void by MrMights.
-[20:21:45] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:21:45] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:21:50] [Client thread/INFO]: [CHAT] You purchased Wool
-[20:21:51] [Client thread/INFO]: [CHAT] 
-[20:21:51] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Pink Bed was destroyed by aznroadkill!
-[20:21:51] [Client thread/INFO]: [CHAT] 
-[20:21:51] [Client thread/INFO]: [CHAT] You purchased Wool
-[20:21:52] [Client thread/INFO]: [CHAT] aznroadkill was killed by Jihoo0723.
-[20:21:55] [Client thread/INFO]: [CHAT] diamondboy324 was knocked into the void by ItsSavagePleb. FINAL KILL!
-[20:22:00] [Client thread/INFO]: [CHAT] Jihoo0723 was knocked into the void by ItsSavagePleb. FINAL KILL!
-[20:22:00] [Client thread/INFO]: [CHAT] 
-[20:22:00] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Pink Team has been eliminated!
-[20:22:00] [Client thread/INFO]: [CHAT] 
-[20:22:00] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed was destroyed by lionninja187!
-[20:22:05] [Client thread/INFO]: [CHAT] Boweeton was killed by lionninja187. FINAL KILL!
-[20:22:05] [Client thread/INFO]: [CHAT] You have been eliminated!
-[20:22:06] [Client thread/INFO]: [CHAT] AwesomeWally was killed by Noahquay.
-[20:22:07] [Client thread/INFO]: [CHAT] [SPECTATOR] Jihoo0723: zzz
-[20:22:09] [Client thread/INFO]: [CHAT] Noahquay was killed by lionninja187. FINAL KILL!
-[20:22:09] [Client thread/INFO]: [CHAT] 
-[20:22:09] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Gray Team has been eliminated!
-[20:22:09] [Client thread/INFO]: [CHAT] 
-[20:22:24] [Client thread/INFO]: [CHAT]                                      
-[20:22:24] [Client thread/INFO]: [CHAT]        
-[20:22:24] [Client thread/INFO]: [CHAT] Noahquay has joined (4/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] Boweeton has joined (5/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] kak841 has joined (6/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] winter_night123 has joined (7/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] AndySoccer10 has joined (8/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] Thuglife1205_YT has joined (9/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] stellbell10 has joined (10/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] Vyyvian has joined (11/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] The game starts in 20 seconds!
-[20:22:24] [Client thread/INFO]: [CHAT] FearlessCatV2 has joined (12/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] alphatanuki has joined (13/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] zagzig941 has joined (14/16)!
-[20:22:24] [Client thread/INFO]: [CHAT] moonfish73 has joined (15/16)!
-[20:22:25] [Client thread/INFO]: [CHAT] ziggyzoob has joined (16/16)!
-[20:22:26] [Client thread/INFO]: [CHAT] andy0127: trtr
-[20:22:34] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:22:34] [Client thread/INFO]: [CHAT] The_Cool_Martin: t
-[20:22:39] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:22:40] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:22:41] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:22:42] [Client thread/INFO]: [CHAT] winter_night123: ???
-[20:22:42] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
-[20:22:43] [Client thread/INFO]: [CHAT] The game starts in 1 second!
-[20:22:44] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:22:44] [Client thread/INFO]: [CHAT]                                   Bed Wars
-[20:22:44] [Client thread/INFO]: [CHAT] 
-[20:22:44] [Client thread/INFO]: [CHAT]      Protect your bed and destroy the enemy beds.
-[20:22:44] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
-[20:22:44] [Client thread/INFO]: [CHAT]     Iron, Gold, Emerald and Diamond from generators
-[20:22:44] [Client thread/INFO]: [CHAT]                   to access powerful upgrades.
-[20:22:44] [Client thread/INFO]: [CHAT] 
-[20:22:44] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:23:21] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:23:36] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:23:36] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:23:37] [Client thread/INFO]: [CHAT] alphatanuki fell into the void.
-[20:23:45] [Client thread/INFO]: [CHAT] winter_night123 was filled full of lead by Thuglife1205_YT.
-[20:23:54] [Client thread/INFO]: [CHAT] moonfish73 was knocked into the void by ziggyzoob.
-[20:24:01] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed got memed by alphatanuki!
-[20:24:02] [Client thread/INFO]: [CHAT] Noahquay was filled full of lead by FearlessCatV2. FINAL KILL!
-[20:24:04] [Client thread/INFO]: [CHAT] alphatanuki was killed by Boweeton.
-[20:24:05] [Client thread/INFO]: [CHAT] zagzig941 was killed by ziggyzoob.
-[20:24:11] [Client thread/INFO]: [CHAT] ziggyzoob was killed by moonfish73.
-[20:24:16] [Client thread/INFO]: [CHAT]                                      
-[20:24:16] [Client thread/INFO]: [CHAT]        
-[20:24:16] [Client thread/INFO]: [CHAT] Noahquay has joined (7/16)!
-[20:24:16] [Client thread/INFO]: [CHAT] Boweeton has joined (8/16)!
-[20:24:17] [Client thread/INFO]: [CHAT] Mendarii has joined (9/16)!
-[20:24:17] [Client thread/INFO]: [CHAT] AlphaNovaII has joined (10/16)!
-[20:24:17] [Client thread/INFO]: [CHAT] UmbreGames has joined (11/16)!
-[20:24:17] [Client thread/INFO]: [CHAT] The game starts in 20 seconds!
-[20:24:17] [Client thread/INFO]: [CHAT] Godenabled has joined (12/16)!
-[20:24:19] [Client thread/INFO]: [CHAT] Dorian_DJ has joined (13/16)!
-[20:24:19] [Client thread/INFO]: [CHAT] eli_pli_o has joined (14/16)!
-[20:24:19] [Client thread/INFO]: [CHAT] Spectrathonic has joined (15/16)!
-[20:24:19] [Client thread/INFO]: [CHAT] Supperdoggygamer has joined (16/16)!
-[20:24:25] [Client thread/INFO]: [CHAT] Dorian_DJ has quit!
-[20:24:25] [Client thread/INFO]: [CHAT] Diamond_Pixaxe has joined (16/16)!
-[20:24:27] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:24:30] [Client thread/INFO]: [CHAT] eli_pli_o has quit!
-[20:24:30] [Client thread/INFO]: [CHAT] SingleParent has quit!
-[20:24:31] [Client thread/INFO]: [CHAT] DingWL has joined (15/16)!
-[20:24:32] [Client thread/INFO]: [CHAT] sunmin_1004 has joined (16/16)!
-[20:24:32] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:24:35] [Client thread/INFO]: [CHAT] Angelo2510: yah i know
-[20:24:35] [Client thread/INFO]: [CHAT] __Myst__ has quit!
-[20:24:36] [Client thread/INFO]: [CHAT] SashBernYT has joined (16/16)!
-[20:24:36] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:24:37] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:24:38] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
-[20:24:38] [Client thread/INFO]: [CHAT] The game starts in 1 second!
-[20:24:39] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:24:39] [Client thread/INFO]: [CHAT]                                   Bed Wars
-[20:24:39] [Client thread/INFO]: [CHAT] 
-[20:24:39] [Client thread/INFO]: [CHAT]      Protect your bed and destroy the enemy beds.
-[20:24:39] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
-[20:24:39] [Client thread/INFO]: [CHAT]     Iron, Gold, Emerald and Diamond from generators
-[20:24:39] [Client thread/INFO]: [CHAT]                   to access powerful upgrades.
-[20:24:39] [Client thread/INFO]: [CHAT] 
-[20:24:39] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:24:57] [Client thread/INFO]: [CHAT] You don't have enough Iron! Need 1 more!
-[20:25:00] [Client thread/INFO]: [CHAT] You don't have enough Iron! Need 9 more!
-[20:25:09] [Client thread/INFO]: [CHAT] You purchased Wool
-[20:25:09] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:25:09] [Client thread/INFO]: [CHAT] You purchased Wool
-[20:25:24] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:25:24] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:25:43] [Client thread/INFO]: [CHAT] Supperdoggygamer was killed by Mendarii.
-[20:25:47] [Client thread/INFO]: [CHAT] Boweeton was wrapped into a gift by The_Nerd_Player.
-[20:25:47] [Client thread/INFO]: [CHAT] You will respawn in 5 seconds!
-[20:25:48] [Client thread/INFO]: [CHAT] You will respawn in 4 seconds!
-[20:25:48] [Client thread/INFO]: [CHAT] The_Nerd_Player was killed by sunmin_1004.
-[20:25:49] [Client thread/INFO]: [CHAT] You will respawn in 3 seconds!
-[20:25:50] [Client thread/INFO]: [CHAT] You will respawn in 2 seconds!
-[20:25:51] [Client thread/INFO]: [CHAT] You will respawn in 1 seconds!
-[20:25:51] [Client thread/INFO]: [CHAT] Mendarii was knocked into the void by Supperdoggygamer.
-[20:25:52] [Client thread/INFO]: [CHAT] You have respawned!
-[20:26:01] [Client thread/INFO]: [CHAT] You purchased Wool
-[20:26:06] [Client thread/INFO]: [CHAT] Mendarii was knocked into the void by Supperdoggygamer.
-[20:26:07] [Client thread/INFO]: [CHAT] 
-[20:26:07] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Gray Bed was destroyed by Supperdoggygamer!
-[20:26:07] [Client thread/INFO]: [CHAT] 
-[20:26:09] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:26:11] [Client thread/INFO]: [CHAT] Supperdoggygamer was knocked into the void by AlphaNovaII.
-[20:26:13] [Client thread/INFO]: [CHAT] sunmin_1004 was wrapped into a gift by The_Nerd_Player.
-[20:26:14] [Client thread/INFO]: [CHAT] DingWL fell into the void.
-[20:26:21] [Client thread/INFO]: [CHAT] Maximus2100 got rekt by Godenabled.
-[20:26:24] [Client thread/INFO]: [CHAT] UmbreGames was knocked off a cliff by Maximus2100.
-[20:26:25] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:26:25] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:26:27] [Client thread/INFO]: [CHAT] Spectrathonic was killed by AlphaNovaII.
-[20:26:27] [Client thread/INFO]: [CHAT] 
-[20:26:27] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Blue Bed got memed by Godenabled!
-[20:26:27] [Client thread/INFO]: [CHAT] 
-[20:26:28] [Client thread/INFO]: [CHAT] Awesam_man fell into the void. FINAL KILL!
-[20:26:30] [Client thread/INFO]: [CHAT] DingWL was knocked into the void by Diamond_Pixaxe.
-[20:26:36] [Client thread/INFO]: [CHAT] 
-[20:26:36] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Aqua Bed was destroyed by SashBernYT!
-[20:26:36] [Client thread/INFO]: [CHAT] 
-[20:26:37] [Client thread/INFO]: [CHAT] Maximus2100 fell into the void. FINAL KILL!
-[20:26:38] [Client thread/INFO]: [CHAT] 
-[20:26:38] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Blue Team has been eliminated!
-[20:26:38] [Client thread/INFO]: [CHAT] 
-[20:26:40] [Client thread/INFO]: [CHAT] SashBernYT was killed by DingWL.
-[20:26:44] [Client thread/INFO]: [CHAT] DingWL was killed by Diamond_Pixaxe. FINAL KILL!
-[20:26:48] [Client thread/INFO]: [CHAT] You purchased Iron Sword
-[20:26:51] [Client thread/INFO]: [CHAT] Mendarii was glazed in BBQ sauce by Spectrathonic. FINAL KILL!
-[20:26:51] [Client thread/INFO]: [CHAT] Spectrathonic was killed by AlphaNovaII.
-[20:26:52] [Client thread/INFO]: [CHAT] 
-[20:26:52] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Yellow Bed was destroyed by sunmin_1004!
-[20:26:52] [Client thread/INFO]: [CHAT] 
-[20:26:53] [Client thread/INFO]: [CHAT] SashBernYT was knocked into the void by sunmin_1004. FINAL KILL!
-[20:26:55] [Client thread/INFO]: [CHAT] Diamond_Pixaxe was killed by sunmin_1004. FINAL KILL!
-[20:26:55] [Client thread/INFO]: [CHAT] 
-[20:26:55] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Yellow Team has been eliminated!
-[20:26:55] [Client thread/INFO]: [CHAT] 
-[20:27:05] [Client thread/INFO]: [CHAT] AlphaNovaII was glazed in BBQ sauce by Spectrathonic. FINAL KILL!
-[20:27:05] [Client thread/INFO]: [CHAT] 
-[20:27:05] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Gray Team has been eliminated!
-[20:27:05] [Client thread/INFO]: [CHAT] 
-[20:27:10] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:27:25] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:27:25] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:27:29] [Client thread/INFO]: [CHAT] Spectrathonic fell into the void.
-[20:27:39] [Client thread/INFO]: [CHAT] The_Nerd_Player was wrapped into a gift by UmbreGames.
-[20:27:47] [Client thread/INFO]: [CHAT] sunmin_1004 was killed by Noahquay. FINAL KILL!
-[20:27:47] [Client thread/INFO]: [CHAT] 
-[20:27:47] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Aqua Team has been eliminated!
-[20:27:47] [Client thread/INFO]: [CHAT] 
-[20:27:54] [Client thread/INFO]: [CHAT] You purchased Arrow
-[20:27:55] [Client thread/INFO]: [CHAT] You purchased Arrow
-[20:28:09] [Client thread/INFO]: [CHAT] Noahquay fell into the void.
-[20:28:10] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:28:19] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed got memed by Godenabled!
-[20:28:22] [Client thread/INFO]: [CHAT] Godenabled was killed by Noahquay.
-[20:28:25] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:28:25] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:28:29] [Client thread/INFO]: [CHAT] The_Nerd_Player was knocked into the void by Boweeton.
-[20:28:29] [Client thread/INFO]: [CHAT] Boweeton hit the hard-wood floor because of The_Nerd_Player. FINAL KILL!
-[20:28:29] [Client thread/INFO]: [CHAT] You have been eliminated!
-[20:28:54] [Client thread/INFO]: [CHAT] The_Nerd_Player got rekt by Godenabled.
-[20:29:10] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:29:35] [Client thread/INFO]: [CHAT] UmbreGames was wrapped into a gift by The_Nerd_Player.
-[20:30:10] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:30:10] [Client thread/INFO]: [CHAT] The_Nerd_Player fell into the void.
-[20:30:18] [Client thread/INFO]: [CHAT] The_Nerd_Player disconnected
-[20:30:34] [Client thread/INFO]: [CHAT] Spectrathonic fell into the void.
-[20:30:43] [Client thread/INFO]: [CHAT] 
-[20:30:43] [Client thread/INFO]: [CHAT] BED DESTRUCTION > White Bed got memed by Godenabled!
-[20:30:43] [Client thread/INFO]: [CHAT] 
-[20:31:03] [Client thread/INFO]: [CHAT] Angelo2510 took the L to Godenabled. FINAL KILL!
-[20:31:03] [Client thread/INFO]: [CHAT] 
-[20:31:03] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > White Team has been eliminated!
-[20:31:03] [Client thread/INFO]: [CHAT] 
-[20:31:10] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:31:34] [Client thread/INFO]: [CHAT] Spectrathonic fell into the void.
-[20:32:10] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:33:10] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:33:10] [Client thread/INFO]: [CHAT] Spectrathonic got rekt by Godenabled.
-[20:33:15] [Client thread/INFO]: [CHAT] 
-[20:33:15] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Pink Bed was traded in for milk and cookies by UmbreGames!
-[20:33:15] [Client thread/INFO]: [CHAT] 
-[20:33:31] [Client thread/INFO]: [CHAT] Godenabled was shot by Noahquay.
-[20:33:52] [Client thread/INFO]: [CHAT] Spectrathonic hit the hard-wood floor because of UmbreGames. FINAL KILL!
-[20:34:10] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:34:31] [Client thread/INFO]: [CHAT] Supperdoggygamer was wrapped into a gift by UmbreGames. FINAL KILL!
-[20:34:31] [Client thread/INFO]: [CHAT] 
-[20:34:31] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Pink Team has been eliminated!
-[20:34:31] [Client thread/INFO]: [CHAT] 
-[20:34:38] [Client thread/INFO]: [CHAT] Noahquay got rekt by Godenabled. FINAL KILL!
-[20:34:38] [Client thread/INFO]: [CHAT] 
-[20:34:38] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Green Team has been eliminated!
-[20:34:38] [Client thread/INFO]: [CHAT] 
-[20:34:38] [Client thread/INFO]: [CHAT] Red Team has won the game!
-[20:34:38] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:34:38] [Client thread/INFO]: [CHAT]                                   Bed Wars
-[20:34:38] [Client thread/INFO]: [CHAT] 
-[20:34:38] [Client thread/INFO]: [CHAT]                  Red - UmbreGames, [VIP+] Godenabled\n
-[20:34:38] [Client thread/INFO]: [CHAT] 
-[20:34:38] [Client thread/INFO]: [CHAT]                   1st Killer - [VIP+] Godenabled - 5
-[20:34:38] [Client thread/INFO]: [CHAT]                   2nd Killer - The_Nerd_Player - 4
-[20:34:38] [Client thread/INFO]: [CHAT]                        3rd Killer - Noahquay - 3
-[20:34:38] [Client thread/INFO]: [CHAT] 
-[20:34:38] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:34:38] [Client thread/INFO]: [CHAT] +10 Bed Wars Experience (Group Bonus)
-[20:34:39] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:34:39] [Client thread/INFO]: [CHAT]                             Reward Summary
-[20:34:39] [Client thread/INFO]: [CHAT] 
-[20:34:39] [Client thread/INFO]: [CHAT] 
-[20:34:39] [Client thread/INFO]: [CHAT]     +45 Your game had 3 VIPs (or higher)
-[20:34:39] [Client thread/INFO]: [CHAT] Total Earned Hypixel Experience: 10
-[20:34:39] [Client thread/INFO]: [CHAT]     +5 Your game had 1 MVPs (or higher)
-[20:34:39] [Client thread/INFO]: [CHAT] 
-[20:34:39] [Client thread/INFO]: [CHAT]                            Bed Wars Experience
-[20:34:39] [Client thread/INFO]: [CHAT] 
-[20:34:39] [Client thread/INFO]: [CHAT]           Level 1                                           Level 2
-[20:34:39] [Client thread/INFO]: [CHAT] 
-[20:34:39] [Client thread/INFO]: [CHAT]           [??????????????????????????????????]
-[20:34:39] [Client thread/INFO]: [CHAT]                             210 / 1,000 (21.0%)
-[20:34:39] [Client thread/INFO]: [CHAT] 
-[20:34:39] [Client thread/INFO]: [CHAT] 
-[20:34:39] [Client thread/INFO]: [CHAT] You earned 110 Bed Wars Experience
-[20:34:39] [Client thread/INFO]: [CHAT] You earned 8 Bed Wars Coins
-[20:34:40] [Client thread/INFO]: [CHAT] UmbreGames: gg
-[20:34:40] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:34:44] [Client thread/INFO]: [CHAT] [VIP+] Godenabled: gg
-[20:34:46] [Client thread/INFO]: [CHAT] Spectrathonic: ijwhu9g3t7 865vrftyuvhbjnke
-[20:34:50] [Client thread/INFO]: [CHAT] Supperdoggygamer: (*&^TRBHQ!U87DRSX%F
-[20:34:52] [Client thread/INFO]: [CHAT] Only the party leader can warp you into a game! Have them click an NPC or /party leave
-[20:34:54] [Client thread/INFO]: [CHAT]                                      
-[20:34:54] [Client thread/INFO]: [CHAT]        
-[20:34:54] [Client thread/INFO]: [CHAT] The game is starting within 20 seconds!
-[20:34:54] [Client thread/INFO]: [CHAT] Boweeton has joined (15/16)!
-[20:34:54] [Client thread/INFO]: [CHAT] Noahquay has joined (16/16)!
-[20:35:00] [Client thread/INFO]: [CHAT] ItzJustEmily has quit!
-[20:35:01] [Client thread/INFO]: [CHAT] NeonGiraffe528: that was my fault
-[20:35:02] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:35:03] [Client thread/INFO]: [CHAT] Cuppeh has quit!
-[20:35:03] [Client thread/INFO]: [CHAT] CML1004 has joined (15/16)!
-[20:35:03] [Client thread/INFO]: [CHAT] SkilletsSkills has joined (16/16)!
-[20:35:07] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:35:08] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:35:09] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:35:10] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
-[20:35:11] [Client thread/INFO]: [CHAT] The game starts in 1 second!
-[20:35:12] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:35:12] [Client thread/INFO]: [CHAT]                                   Bed Wars
-[20:35:12] [Client thread/INFO]: [CHAT] 
-[20:35:12] [Client thread/INFO]: [CHAT]      Protect your bed and destroy the enemy beds.
-[20:35:12] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
-[20:35:12] [Client thread/INFO]: [CHAT]     Iron, Gold, Emerald and Diamond from generators
-[20:35:12] [Client thread/INFO]: [CHAT]                   to access powerful upgrades.
-[20:35:12] [Client thread/INFO]: [CHAT] 
-[20:35:12] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:35:32] [Client thread/INFO]: [CHAT] SoIvEl disconnected
-[20:35:33] [Client thread/INFO]: [CHAT] SkilletsSkills disconnected
-[20:35:44] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:35:54] [Client thread/INFO]: [CHAT] You purchased Blast-Proof Glass
-[20:35:55] [Client thread/INFO]: [CHAT] You don't have enough Iron! Need 10 more!
-[20:35:59] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:35:59] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:36:19] [Client thread/INFO]: [CHAT] mail2003 was killed by Noahquay.
-[20:36:22] [Client thread/INFO]: [CHAT] iDaddy_ fell into the void.
-[20:36:28] [Client thread/INFO]: [CHAT] Noahquay was glazed in BBQ sauce by mail2003.
-[20:36:29] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed got memed by AidanMD1!
-[20:36:40] [Client thread/INFO]: [CHAT] Boweeton was knocked into the void by AznGamez3. FINAL KILL!
-[20:36:40] [Client thread/INFO]: [CHAT] You have been eliminated!
-[20:36:41] [Client thread/INFO]: [CHAT] [SHOUT] [GREEN] mail2003: thank you red
-[20:36:44] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:36:44] [Client thread/INFO]: [CHAT] You were teleported to [VIP] iDaddy_
-[20:36:45] [Client thread/INFO]: [CHAT] You were teleported to Super_Awesome6
-[20:36:45] [Client thread/INFO]: [CHAT] You were teleported to Synxity
-[20:36:45] [Client thread/INFO]: [CHAT] You were teleported to Zmanprogamer
-[20:36:47] [Client thread/INFO]: [CHAT] You were teleported to [VIP] AznGamez3
-[20:36:47] [Client thread/INFO]: [CHAT] You were teleported to AidanMD1
-[20:36:47] [Client thread/INFO]: [CHAT] You were teleported to BUDDERlegacy
-[20:36:49] [Client thread/INFO]: [CHAT] You were teleported to mail2003
-[20:36:52] [Client thread/INFO]: [CHAT] AidanMD1 slipped in BBQ sauce off the edge spilled by mail2003.
-[20:36:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.zombie.cure
-[20:37:00] [Client thread/INFO]: [CHAT] Noahquay was knocked into the void by AznGamez3. FINAL KILL!
-[20:37:00] [Client thread/INFO]: [CHAT] 
-[20:37:00] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Blue Team has been eliminated!
-[20:37:00] [Client thread/INFO]: [CHAT] 
-[20:37:03] [Client thread/INFO]: [CHAT] 
-[20:37:03] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Green Bed got memed by iDaddy_!
-[20:37:03] [Client thread/INFO]: [CHAT] 
-[20:37:21] [Client thread/INFO]: [CHAT] iDaddy_ was killed by AznGamez3.
-[20:37:22] [Client thread/INFO]: [CHAT] mail2003 was killed by AznGamez3. FINAL KILL!
-[20:37:26] [Client thread/INFO]: [CHAT] LPSLONDON was killed by AznGamez3. FINAL KILL!
-[20:37:26] [Client thread/INFO]: [CHAT] 
-[20:37:26] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Green Team has been eliminated!
-[20:37:26] [Client thread/INFO]: [CHAT] 
-[20:37:31] [Client thread/INFO]: [CHAT]                                      
-[20:37:31] [Client thread/INFO]: [CHAT]        
-[20:37:31] [Client thread/INFO]: [CHAT] Noahquay has joined (5/16)!
-[20:37:31] [Client thread/INFO]: [CHAT] Boweeton has joined (6/16)!
-[20:37:31] [Client thread/INFO]: [CHAT] uM_Huahwi_WF has joined (7/16)!
-[20:37:31] [Client thread/INFO]: [CHAT] xX1NORM1Xx has joined (8/16)!
-[20:37:31] [Client thread/INFO]: [CHAT] mail2003 has joined (9/16)!
-[20:37:31] [Client thread/INFO]: [CHAT] LPSLONDON has joined (10/16)!
-[20:37:32] [Client thread/INFO]: [CHAT] The game starts in 20 seconds!
-[20:37:32] [Client thread/INFO]: [CHAT] skybull123 has joined (11/16)!
-[20:37:32] [Client thread/INFO]: [CHAT] Caydenoneill has joined (12/16)!
-[20:37:32] [Client thread/INFO]: [CHAT] max_cow has joined (13/16)!
-[20:37:32] [Client thread/INFO]: [CHAT] XMasterMMOSX has joined (14/16)!
-[20:37:32] [Client thread/INFO]: [CHAT] Lytadaphoenix has joined (15/16)!
-[20:37:32] [Client thread/INFO]: [CHAT] WinterWolfeh has joined (16/16)!
-[20:37:41] [Client thread/INFO]: [CHAT] Noahquay has quit!
-[20:37:41] [Client thread/INFO]: [CHAT] jondechicken has joined (16/16)!
-[20:37:42] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:37:47] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:37:47] [Client thread/INFO]: [CHAT] [MVP] TheGrumpilex: Give me your mincone capes lol
-[20:37:48] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:37:49] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:37:49] [Client thread/INFO]: [CHAT] [MVP] TheGrumpilex: jk jk
-[20:37:50] [Client thread/INFO]: [CHAT]                                      
-[20:37:50] [Client thread/INFO]: [CHAT]        
-[20:37:50] [Client thread/INFO]: [CHAT] Boweeton has joined (15/16)!
-[20:37:50] [Client thread/INFO]: [CHAT] Noahquay has joined (16/16)!
-[20:37:50] [Client thread/INFO]: [CHAT] The game is starting within 20 seconds!
-[20:37:54] [Client thread/INFO]: [CHAT] TOTO_GAMING05 has quit!
-[20:37:56] [Client thread/INFO]: [CHAT] BlackMagic813 has joined (16/16)!
-[20:37:58] [Client thread/INFO]: [CHAT] KJW7512: hi guys
-[20:37:58] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:38:00] [Client thread/INFO]: [CHAT] JoboDeHobo has quit!
-[20:38:01] [Client thread/INFO]: [CHAT] star_mingming has joined (16/16)!
-[20:38:02] [Client thread/INFO]: [CHAT] SirSnorlax09 has quit!
-[20:38:02] [Client thread/INFO]: [CHAT] ProPvp573 has quit!
-[20:38:03] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:38:04] [Client thread/INFO]: [CHAT] Lucastrolrex has joined (15/16)!
-[20:38:04] [Client thread/INFO]: [CHAT] Felipe_Uzumaki has joined (16/16)!
-[20:38:04] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:38:05] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:38:06] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
-[20:38:07] [Client thread/INFO]: [CHAT] The game starts in 1 second!
-[20:38:08] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:38:08] [Client thread/INFO]: [CHAT]                                   Bed Wars
-[20:38:08] [Client thread/INFO]: [CHAT] 
-[20:38:08] [Client thread/INFO]: [CHAT]      Protect your bed and destroy the enemy beds.
-[20:38:08] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
-[20:38:08] [Client thread/INFO]: [CHAT]     Iron, Gold, Emerald and Diamond from generators
-[20:38:08] [Client thread/INFO]: [CHAT]                   to access powerful upgrades.
-[20:38:08] [Client thread/INFO]: [CHAT] 
-[20:38:08] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:38:17] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:38:32] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:38:32] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:38:53] [Client thread/INFO]: [CHAT] GM_man was struck down by Abdullahkwty.
-[20:38:56] [Client thread/INFO]: [CHAT] Noahquay fell into the void.
-[20:38:57] [Client thread/INFO]: [CHAT] Radon7966 was knocked into the void by Noahquay.
-[20:38:58] [Client thread/INFO]: [CHAT] yee1342 was struck down by Abdullahkwty.
-[20:39:03] [Client thread/INFO]: [CHAT] Abdullahkwty was killed by GM_man.
-[20:39:04] [Client thread/INFO]: [CHAT] You purchased Oak Wood Planks
-[20:39:13] [Client thread/INFO]: [CHAT] Noahquay was glazed in BBQ sauce by Radon7966.
-[20:39:17] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:39:18] [Client thread/INFO]: [CHAT] 
-[20:39:18] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Gray Bed got memed by supersilentninja!
-[20:39:18] [Client thread/INFO]: [CHAT] 
-[20:39:21] [Client thread/INFO]: [CHAT] 
-[20:39:21] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Pink Bed was iced by Lucastrolrex!
-[20:39:21] [Client thread/INFO]: [CHAT] 
-[20:39:22] [Client thread/INFO]: [CHAT] VanDamm was given the cold shoulder by BlackMagic813.
-[20:39:22] [Client thread/INFO]: [CHAT] Abdullahkwty was killed by Felipe_Uzumaki. FINAL KILL!
-[20:39:24] [Client thread/INFO]: [CHAT] Radon7966 fell into the void.
-[20:39:25] [Client thread/INFO]: [CHAT] Sigaer was knocked into the void by Boweeton.
-[20:39:25] [Client thread/INFO]: [CHAT] +2 Iron
-[20:39:25] [Client thread/INFO]: [CHAT] +3 Gold
-[20:39:26] [Client thread/INFO]: [CHAT] supersilentninja was filled full of lead by yee1342. FINAL KILL!
-[20:39:26] [Client thread/INFO]: [CHAT] 
-[20:39:26] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Pink Team has been eliminated!
-[20:39:26] [Client thread/INFO]: [CHAT] 
-[20:39:32] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:39:32] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:39:33] [Client thread/INFO]: [CHAT] You purchased Oak Wood Planks
-[20:39:34] [Client thread/INFO]: [CHAT] You don't have enough Gold! Need 2 more!
-[20:39:36] [Client thread/INFO]: [CHAT] GM_man was filled full of lead by Lucastrolrex. FINAL KILL!
-[20:39:36] [Client thread/INFO]: [CHAT] Noahquay was glazed in BBQ sauce by Radon7966.
-[20:39:40] [Client thread/INFO]: [CHAT] yee1342 was killed by Felipe_Uzumaki. FINAL KILL!
-[20:39:40] [Client thread/INFO]: [CHAT] 
-[20:39:40] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Gray Team has been eliminated!
-[20:39:40] [Client thread/INFO]: [CHAT] 
-[20:39:51] [Client thread/INFO]: [CHAT] Noahquay was glazed in BBQ sauce by Radon7966.
-[20:39:52] [Client thread/INFO]: [CHAT] Sigaer was knocked into the void by Noahquay.
-[20:39:55] [Client thread/INFO]: [CHAT] Radon7966 was killed by Boweeton.
-[20:40:04] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:40:05] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:40:05] [Client thread/INFO]: [CHAT] star_mingming was hit off by a love bomb from BlackMagic813.
-[20:40:08] [Client thread/INFO]: [CHAT] VanDamm was hit off by a love bomb from BlackMagic813.
-[20:40:09] [Client thread/INFO]: [CHAT] 
-[20:40:09] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Green Bed got memed by rkswkdqkq9359_!
-[20:40:09] [Client thread/INFO]: [CHAT] 
-[20:40:12] [Client thread/INFO]: [CHAT] Noahquay was given the cold shoulder by Sigaer.
-[20:40:17] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:40:20] [Client thread/INFO]: [CHAT] rkswkdqkq9359_ was glazed in BBQ sauce by Radon7966.
-[20:40:22] [Client thread/INFO]: [CHAT] BlackMagic813 fell into the void.
-[20:40:30] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:40:31] [Client thread/INFO]: [CHAT] TTM05 was filled full of lead by Lucastrolrex.
-[20:40:32] [Client thread/INFO]: [CHAT] Felipe_Uzumaki met their end by TTM05.
-[20:40:32] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:40:32] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:40:38] [Client thread/INFO]: [CHAT] Lucastrolrex was killed by CandyCane743.
-[20:40:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.guardian.land.death
-[20:40:40] [Client thread/INFO]: [CHAT] VanDamm fell into the void.
-[20:40:45] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:40:46] [Client thread/INFO]: [CHAT] You don't have enough Iron! Need 8 more!
-[20:40:51] [Client thread/INFO]: [CHAT] Noahquay got rekt by rkswkdqkq9359_.
-[20:41:00] [Client thread/INFO]: [CHAT] Felipe_Uzumaki fell into the void.
-[20:41:06] [Client thread/INFO]: [CHAT] You purchased Iron Sword
-[20:41:10] [Client thread/INFO]: [CHAT] rkswkdqkq9359_ was given the cold shoulder by Sigaer.
-[20:41:17] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:41:30] [Client thread/INFO]: [CHAT] Noahquay took the L to rkswkdqkq9359_.
-[20:41:30] [Client thread/INFO]: [CHAT] CandyCane743 was filled full of lead by Lucastrolrex.
-[20:41:32] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:41:32] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:41:32] [Client thread/INFO]: [CHAT] TTM05 was filled full of lead by Lucastrolrex.
-[20:41:36] [Client thread/INFO]: [CHAT] Radon7966 took the L to rkswkdqkq9359_. FINAL KILL!
-[20:41:45] [Client thread/INFO]: [CHAT] Noahquay fell into the void.
-[20:41:50] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:41:51] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:42:08] [Client thread/INFO]: [CHAT] Felipe_Uzumaki was knocked into the void by CandyCane743.
-[20:42:11] [Client thread/INFO]: [CHAT] Sigaer took the L to rkswkdqkq9359_. FINAL KILL!
-[20:42:11] [Client thread/INFO]: [CHAT] 
-[20:42:11] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Green Team has been eliminated!
-[20:42:11] [Client thread/INFO]: [CHAT] 
-[20:42:17] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:42:23] [Client thread/INFO]: [CHAT] Lucastrolrex met their end by TTM05.
-[20:42:27] [Client thread/INFO]: [CHAT] star_mingming was hit off by a love bomb from BlackMagic813.
-[20:42:28] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:42:29] [Client thread/INFO]: [CHAT] BlackMagic813 was turned to dust by VanDamm.
-[20:42:30] [Client thread/INFO]: [CHAT] VanDamm was hit off by a love bomb from BlackMagic813.
-[20:42:32] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:42:32] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:42:37] [Client thread/INFO]: [CHAT] You purchased Arrow
-[20:42:43] [Client thread/INFO]: [CHAT] Noahquay got rekt by rkswkdqkq9359_.
-[20:42:47] [Client thread/INFO]: [CHAT] Felipe_Uzumaki met their end by TTM05.
-[20:43:08] [Client thread/INFO]: [CHAT] BlackMagic813 was struck down by VanDamm.
-[20:43:13] [Client thread/INFO]: [CHAT] Felipe_Uzumaki was filled full of lead by TTM05.
-[20:43:17] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:43:31] [Client thread/INFO]: [CHAT] You purchased End Stone
-[20:43:32] [Client thread/INFO]: [CHAT] +25 Bed Wars Experience (Time Played)
-[20:43:32] [Client thread/INFO]: [CHAT] +2 coins! (Time Played)
-[20:43:33] [Client thread/INFO]: [CHAT] Felipe_Uzumaki was filled full of lead by TTM05.
-[20:43:38] [Client thread/INFO]: [CHAT] TTM05 was filled full of lead by Lucastrolrex.
-[20:43:41] [Client thread/INFO]: [CHAT] Noahquay took the L to rkswkdqkq9359_.
-[20:43:42] [Client thread/INFO]: [CHAT] CandyCane743 was filled full of lead by Lucastrolrex.
-[20:43:52] [Client thread/INFO]: [CHAT] VanDamm was hit off by a love bomb from BlackMagic813.
-[20:43:55] [Client thread/INFO]: [CHAT] star_mingming was hit off by a love bomb from BlackMagic813.
-[20:44:02] [Client thread/INFO]: [CHAT] You can only break blocks placed by a player!
-[20:44:08] [Client thread/INFO]: [CHAT] Felipe_Uzumaki fell into the void.
-[20:44:08] [Client thread/INFO]: [CHAT] Diamond Generators have been upgraded to Tier II
-[20:44:14] [Client thread/INFO]: [CHAT] BlackMagic813 was killed by star_mingming.
-[20:44:15] [Client thread/INFO]: [CHAT] VanDamm fell into the void.
-[20:44:15] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed got memed by rkswkdqkq9359_!
-[20:44:17] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:44:22] [Client thread/INFO]: [CHAT] Boweeton got rekt by rkswkdqkq9359_. FINAL KILL!
-[20:44:22] [Client thread/INFO]: [CHAT] You have been eliminated!
-[20:44:27] [Client thread/INFO]: [CHAT] star_mingming was given the cold shoulder by BlackMagic813.
-[20:44:27] [Client thread/INFO]: [CHAT] rkswkdqkq9359_ was killed by Noahquay.
-[20:44:30] [Client thread/INFO]: [CHAT] You were teleported to VanDamm
-[20:44:36] [Client thread/INFO]: [CHAT] VanDamm was given the cold shoulder by BlackMagic813.
-[20:44:41] [Client thread/INFO]: [CHAT] TTM05 was knocked into the void by Felipe_Uzumaki.
-[20:44:45] [Client thread/INFO]: [CHAT] star_mingming fell into the void.
-[20:44:48] [Client thread/INFO]: [CHAT] 
-[20:44:48] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Blue Team has been eliminated!
-[20:44:48] [Client thread/INFO]: [CHAT] 
-[20:44:48] [Client thread/INFO]: [CHAT] VanDamm fell into the void.
-[20:44:48] [Client thread/INFO]: [CHAT] CandyCane743 was knocked into the void by Felipe_Uzumaki.
-[20:44:48] [Client thread/INFO]: [CHAT] Felipe_Uzumaki fell into the void.
-[20:45:17] [Client thread/INFO]: [CHAT] If you get disconnected use /rejoin to join back in the game.
-[20:45:18] [Client thread/INFO]: [CHAT] CandyCane743 was knocked into the void by Felipe_Uzumaki.
-[20:45:18] [Client thread/INFO]: [CHAT] Felipe_Uzumaki met their end by TTM05.
-[20:45:25] [Client thread/INFO]: [CHAT] star_mingming was hit off by a love bomb from BlackMagic813.
-[20:45:44] [Client thread/INFO]: Connecting to o09o039303j30e113.ddns.net., 25565
-[20:45:46] [Client thread/INFO]: [CHAT] You have no new mail.
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT]                          Welcome to GotPvP!
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT]                Website Link: http://www.gotpvp.com/
-[20:45:46] [Client thread/INFO]: [CHAT]                 Store Link: http://buy.gotpvp.com/
-[20:45:46] [Client thread/INFO]: [CHAT]            Discord Link: https://discord.gg/fZ8Qngg
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:45:46] [Client thread/INFO]: [CHAT]                    Type /server to join a server!
-[20:45:46] [Client thread/INFO]: [CHAT] 
-[20:46:46] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
-[20:46:47] [Client thread/INFO]: [CHAT]                                      
-[20:46:47] [Client thread/INFO]: [CHAT]        
-[20:46:47] [Client thread/INFO]: [CHAT] To leave Bed Wars, type /lobby
-[20:46:47] [Client thread/INFO]: [CHAT] VanDamm was hit off by a love bomb from BlackMagic813.
-[20:46:47] [Client thread/INFO]: [CHAT] Felipe_Uzumaki met their end by TTM05.
-[20:46:47] [Client thread/INFO]: [CHAT] Your bed was destroyed so you are a spectator!
-[20:46:47] [Client thread/INFO]: [CHAT] 
-[20:46:47] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Aqua Bed got memed by rkswkdqkq9359_!
-[20:46:47] [Client thread/INFO]: [CHAT] 
-[20:46:48] [Client thread/INFO]: [CHAT] TTM05 was knocked into the void by Felipe_Uzumaki.
-[20:46:56] [Client thread/INFO]: [CHAT] star_mingming took the L to rkswkdqkq9359_. FINAL KILL!
-[20:47:00] [Client thread/INFO]: [CHAT] VanDamm got rekt by rkswkdqkq9359_. FINAL KILL!
-[20:47:00] [Client thread/INFO]: [CHAT] 
-[20:47:00] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Aqua Team has been eliminated!
-[20:47:00] [Client thread/INFO]: [CHAT] 
-[20:47:07] [Client thread/INFO]: [CHAT] Felipe_Uzumaki was knocked into the void by CandyCane743.
-[20:47:08] [Client thread/INFO]: [CHAT] CandyCane743 was knocked into the void by Felipe_Uzumaki.
-[20:47:12] [Client thread/INFO]: [CHAT] rkswkdqkq9359_ fell into the void.
-[20:47:17] [Client thread/INFO]: [CHAT] Cross-teaming is not allowed! Report cross-teamers on the forums.
-[20:47:19] [Client thread/INFO]: [CHAT]                                      
-[20:47:19] [Client thread/INFO]: [CHAT]        
-[20:47:19] [Client thread/INFO]: [CHAT] Noahquay has joined (6/24)!
-[20:47:19] [Client thread/INFO]: [CHAT] Boweeton has joined (7/24)!
-[20:47:41] [Client thread/INFO]: [CHAT] Noahquay has quit!
-[20:47:41] [Client thread/INFO]: [CHAT] Teleporting you to the lobby in 3 seconds... Right-click again to cancel the teleport!
-[20:47:42] [Client thread/INFO]: [CHAT] Teleport cancelled!
-[20:47:42] [Client thread/INFO]: [CHAT] Teleporting you to the lobby in 3 seconds... Right-click again to cancel the teleport!
-[20:47:43] [Client thread/INFO]: [CHAT] Teleport cancelled!
-[20:47:43] [Client thread/INFO]: [CHAT] Teleporting you to the lobby in 3 seconds... Right-click again to cancel the teleport!
-[20:47:44] [Client thread/INFO]: [CHAT] lego_brain has quit!
-[20:47:47] [Client thread/INFO]: [CHAT]                                      
-[20:47:47] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:47:47] [Client thread/INFO]: [CHAT]                                  Speed UHC
-[20:47:47] [Client thread/INFO]: [CHAT] 
-[20:47:47] [Client thread/INFO]: [CHAT]               Tears are gained by killing players
-[20:47:47] [Client thread/INFO]: [CHAT]               Salt is gained by rolling duplicates
-[20:47:47] [Client thread/INFO]: [CHAT]                         from the Tear Trader
-[20:47:47] [Client thread/INFO]: [CHAT] 
-[20:47:47] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:47:47] [Client thread/INFO]: [CHAT]                          
-[20:47:47] [Client thread/INFO]: [CHAT] You found a ????? Mystery Box!
-[20:47:47] [Client thread/INFO]: [CHAT] You have 1 unclaimed leveling reward!
-[20:47:47] [Client thread/INFO]: [CHAT] Click here to view it!
-[20:47:50] [Client thread/INFO]: [CHAT] �7bombsgamer2221�7: i was really close to a legendary
-[20:47:57] [Client thread/WARN]: Received passengers for unknown entity
-[20:48:00] [Client thread/WARN]: Received passengers for unknown entity
-[20:48:03] [Client thread/WARN]: Received passengers for unknown entity
-[20:48:06] [Client thread/WARN]: Received passengers for unknown entity
-[20:48:09] [Client thread/INFO]: [CHAT]                                      
-[20:48:09] [Client thread/INFO]: [CHAT]        
-[20:48:09] [Client thread/INFO]: [CHAT] Noahquay has joined (8/24)!
-[20:48:09] [Client thread/INFO]: [CHAT] Boweeton has joined (9/24)!
-[20:48:15] [Client thread/INFO]: [CHAT] bored_engineer has quit!
-[20:48:19] [Client thread/INFO]: [CHAT] hulk200987 has joined (9/24)!
-[20:48:24] [Client thread/INFO]: [CHAT] TendedFountain1 has joined (10/24)!
-[20:48:46] [Client thread/INFO]: [CHAT] bombsgamer2221 has joined (11/24)!
-[20:48:49] [Client thread/INFO]: [CHAT] hulk200987 has quit!
-[20:49:02] [Client thread/INFO]: [CHAT] Select one of your kits by clicking on it!
-[20:49:02] [Client thread/INFO]: [CHAT] Select one of your kits by clicking on it!
-[20:49:02] [Client thread/INFO]: [CHAT] Select one of your kits by clicking on it!
-[20:49:08] [Client thread/INFO]: [CHAT] You've selected the Wild Specialist Mastery!
-[20:49:09] [Client thread/INFO]: [CHAT] supermonkey674 has quit!
-[20:49:14] [Client thread/INFO]: [CHAT] TendedFountain1 has quit!
-[20:49:28] [Client thread/INFO]: [CHAT] Nik11223344: nice skin Anilly
-[20:49:34] [Client thread/INFO]: [CHAT] WOLF_Replayy has joined (9/24)!
-[20:49:34] [Client thread/INFO]: [CHAT] Bara_killer has joined (10/24)!
-[20:49:40] [Client thread/INFO]: [CHAT] ACE_angel has joined (11/24)!
-[20:49:40] [Client thread/INFO]: [CHAT] ACE_Suiga has joined (12/24)!
-[20:49:40] [Client thread/INFO]: [CHAT] The game starts in 25 seconds!
-[20:49:53] [Client thread/INFO]: [CHAT] [MVP+] Bara_killer: yes
-[20:49:55] [Client thread/INFO]: [CHAT] The game starts in 10 seconds!
-[20:50:00] [Client thread/INFO]: [CHAT] The game starts in 5 seconds!
-[20:50:01] [Client thread/INFO]: [CHAT] The game starts in 4 seconds!
-[20:50:02] [Client thread/INFO]: [CHAT] The game starts in 3 seconds!
-[20:50:03] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
-[20:50:04] [Client thread/INFO]: [CHAT] The game starts in 1 second!
-[20:50:05] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:50:05] [Client thread/INFO]: [CHAT]                                  Speed UHC
-[20:50:05] [Client thread/INFO]: [CHAT] 
-[20:50:05] [Client thread/INFO]: [CHAT]            Gather resources and craft equipment
-[20:50:05] [Client thread/INFO]: [CHAT]           in order to eliminate every other player
-[20:50:05] [Client thread/INFO]: [CHAT]           while staying inside the shrinking border
-[20:50:05] [Client thread/INFO]: [CHAT] 
-[20:50:05] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:50:05] [Client thread/INFO]: [CHAT] Cross Teaming / Teaming with other teams is not allowed!
-[20:50:05] [Client thread/INFO]: [CHAT] PVP will enable in 55 seconds!
-[20:50:05] [Client thread/INFO]: [CHAT] \n? Robert39 activated 3x coins for this game! Gain XP and coins by � CLICKING HERE! �
-[20:50:05] [Client thread/INFO]: [CHAT] Buy Network Boosters at https://store.hypixel.net
-[20:50:05] [Client thread/INFO]: [CHAT]  
-[20:50:05] [Client thread/INFO]: [CHAT] Cages open in: 10 seconds!
-[20:50:06] [Client thread/INFO]: [CHAT] Cages open in: 9 seconds!
-[20:50:07] [Client thread/INFO]: [CHAT] Cages open in: 8 seconds!
-[20:50:08] [Client thread/INFO]: [CHAT] Cages open in: 7 seconds!
-[20:50:09] [Client thread/INFO]: [CHAT] Cages open in: 6 seconds!
-[20:50:10] [Client thread/INFO]: [CHAT] Cages open in: 5 seconds!
-[20:50:11] [Client thread/INFO]: [CHAT] Cages open in: 4 seconds!
-[20:50:12] [Client thread/INFO]: [CHAT] Cages open in: 3 seconds!
-[20:50:13] [Client thread/INFO]: [CHAT] Cages open in: 2 seconds!
-[20:50:14] [Client thread/INFO]: [CHAT] Cages open in: 1 second!
-[20:50:15] [Client thread/INFO]: [CHAT] Cages opened!
-[20:50:47] [Client thread/INFO]: [CHAT] You are not allowed to place blocks here!
-[20:50:48] [Client thread/INFO]: [CHAT] You are not allowed to place blocks here!
-[20:51:00] [Client thread/INFO]: [CHAT] PVP is now enabled!
-[20:51:05] [Client thread/INFO]: [CHAT] Cross Teaming / Teaming with other teams is not allowed!
-[20:51:05] [Client thread/INFO]: [CHAT] Alabri_Gamer was killed by Anilly.
-[20:51:28] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.squish
-[20:51:31] [Client thread/INFO]: [CHAT] Nik11223344 was killed by Anilly.
-[20:52:05] [Client thread/INFO]: [CHAT] Cross Teaming / Teaming with other teams is not allowed!
-[20:53:01] [Client thread/INFO]: [CHAT] Bara_killer was killed by Caser.
-[20:53:03] [Client thread/INFO]: [CHAT] WOLF_Replayy was killed by Allocation.
-[20:53:05] [Client thread/INFO]: [CHAT] Cross Teaming / Teaming with other teams is not allowed!
-[20:54:05] [Client thread/INFO]: [CHAT] Cross Teaming / Teaming with other teams is not allowed!
-[20:54:40] [Client thread/INFO]: [CHAT] bombsgamer2221 was teleported back into the arena due to being past the border!
-[20:54:59] [Client thread/INFO]: [CHAT] Noahquay was killed by Caser.
-[20:54:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.rabbit.idle
-[20:55:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.rabbit.hop
-[20:55:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.rabbit.step
-[20:55:04] [Client thread/INFO]: [CHAT] Players are now shown on the world map!
-[20:55:04] [Client thread/INFO]: [CHAT] Boweeton was killed by Caser.
-[20:55:05] [Client thread/INFO]: [CHAT] Cross Teaming / Teaming with other teams is not allowed!
-[20:55:19] [Client thread/INFO]: [CHAT] Anilly was killed by Caser.
-[20:56:05] [Client thread/INFO]: [CHAT] Cross Teaming / Teaming with other teams is not allowed!
-[20:56:29] [Client thread/INFO]: [CHAT] ACE_Suiga was killed by Caser.
-[20:56:45] [Client thread/INFO]: [CHAT] bombsgamer2221 was killed by Caser.
-[20:56:48] [Client thread/INFO]: [CHAT] \n? Your game was boosted by Robert39's 3x coins Network Booster! Gain XP and coins by � CLICKING HERE! �
-[20:56:48] [Client thread/INFO]: [CHAT] Buy Network Boosters at https://store.hypixel.net
-[20:56:48] [Client thread/INFO]: [CHAT]  
-[20:56:48] [Client thread/INFO]: [CHAT] Rate this map by clicking: [5] [4] [3] [2] [1]
-[20:56:48] [Client thread/INFO]: [CHAT] ACE_angel was killed by Allocation.
-[20:56:49] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:56:49] [Client thread/INFO]: [CHAT]                                  Speed UHC
-[20:56:49] [Client thread/INFO]: [CHAT] 
-[20:56:49] [Client thread/INFO]: [CHAT]               Winners - [MVP+] Allocation, [MVP++] Caser
-[20:56:49] [Client thread/INFO]: [CHAT] 
-[20:56:49] [Client thread/INFO]: [CHAT]                     1st Killer - [MVP++] Caser - 6
-[20:56:49] [Client thread/INFO]: [CHAT]                   2nd Killer - [MVP+] Allocation - 2
-[20:56:49] [Client thread/INFO]: [CHAT]                           3rd Killer - Anilly - 2
-[20:56:49] [Client thread/INFO]: [CHAT] 
-[20:56:49] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:56:54] [Client thread/INFO]: [CHAT] [MVP++] Caser: gg
-[20:56:55] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:56:55] [Client thread/INFO]: [CHAT]                             Reward Summary
-[20:56:55] [Client thread/INFO]: [CHAT] 
-[20:56:55] [Client thread/INFO]: [CHAT] 
-[20:56:55] [Client thread/INFO]: [CHAT] Total Earned Coins: 45
-[20:56:55] [Client thread/INFO]: [CHAT]     +45 Your game had 3 VIPs (or higher)
-[20:56:55] [Client thread/INFO]: [CHAT] Total Earned Hypixel Experience: 15
-[20:56:55] [Client thread/INFO]: [CHAT]     +15 Your game had 3 MVPs (or higher)
-[20:56:55] [Client thread/INFO]: [CHAT] 
-[20:56:55] [Client thread/INFO]: [CHAT] You harvested 0 Tears
-[20:56:55] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:56:59] [Client thread/INFO]: [CHAT]                                      
-[20:56:59] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:56:59] [Client thread/INFO]: [CHAT]                                  Speed UHC
-[20:56:59] [Client thread/INFO]: [CHAT] 
-[20:56:59] [Client thread/INFO]: [CHAT]               Tears are gained by killing players
-[20:56:59] [Client thread/INFO]: [CHAT]               Salt is gained by rolling duplicates
-[20:56:59] [Client thread/INFO]: [CHAT]                         from the Tear Trader
-[20:56:59] [Client thread/INFO]: [CHAT] 
-[20:56:59] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
-[20:56:59] [Client thread/INFO]: [CHAT]                          
-[20:56:59] [Client thread/INFO]: [CHAT] You have 1 unclaimed leveling reward!
-[20:56:59] [Client thread/INFO]: [CHAT] Click here to view it!
-[20:57:04] [Client thread/INFO]: [CHAT] Click to view the stats of your Speed UHC game!
-[20:57:26] [Client thread/INFO]: Stopping!
-[20:57:26] [Client thread/INFO]: SoundSystem shutting down...
-[20:57:27] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:33:41] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:33:41] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:33:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:33:41] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
+[12:33:41] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25
+[12:33:41] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:33:41] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:33:41] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:33:41] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:33:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:33:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:33:41] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:33:42] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[12:33:42] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[12:33:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:33:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:33:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:33:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:33:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:33:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:33:42] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[12:33:43] [Client thread/INFO]: Setting user: Boweeton
+[12:33:45] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:33:45] [Client thread/WARN]: =============================================================
+[12:33:45] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[12:33:45] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[12:33:45] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[12:33:45] [Client thread/WARN]: =============================================================
+[12:33:45] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
+  NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
+Contact their authors BEFORE contacting forge
+
+// On the bright side, I bought you a teddy bear!
+
+Time: 1/26/18 12:33 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 94997816 bytes (90 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
+  net.fybertech.nwr.NowWithRendering
+NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
+  net.fybertech.nwr.NowWithRendering
+	GL info: ' Vendor: 'Intel' Version: '4.4.0 - Build 21.20.16.4526' Renderer: 'Intel(R) HD Graphics 630'
+[12:33:45] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
+[12:33:45] [Client thread/INFO]: Replaced 204 ore recipies
+[12:33:45] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[12:33:45] [Client thread/INFO]: Searching C:\Users\Boweeton\AppData\Roaming\.minecraft\mods for mods
+[12:33:46] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
+[12:33:47] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
+[12:33:47] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
+[12:33:47] [Client thread/INFO]: Starting automation
+[12:33:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[12:33:47] [Client thread/INFO]: Processing ObjectHolder annotations
+[12:33:47] [Client thread/INFO]: Found 418 ObjectHolder annotations
+[12:33:47] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[12:33:47] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[12:33:47] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[12:33:47] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
+[12:33:48] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
+[12:33:48] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[12:33:48] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[12:33:48] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
+[12:33:48] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[12:33:48] [Client thread/INFO]: MFR Loaded
+[12:33:48] [Client thread/INFO]: RightClickPlants Loaded
+[12:33:48] [Client thread/INFO]: Vanilla Loaded
+[12:33:49] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
+[12:33:49] [Client thread/INFO]: Pre-initialization complete!
+[12:33:49] [Client thread/INFO]: Applying holder lookups
+[12:33:49] [Client thread/INFO]: Holder lookups applied
+[12:33:49] [Client thread/INFO]: Injecting itemstacks
+[12:33:49] [Client thread/INFO]: Itemstack injection complete
+[12:33:49] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[12:33:49] [Client thread/ERROR]: Couldn't initialize twitch stream
+[12:33:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:33:49] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[12:33:49] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:33:49] [Thread-9/INFO]: OpenAL initialized.
+[12:33:50] [Sound Library Loader/INFO]: Sound engine started
+[12:33:51] [Client thread/INFO]: Max texture size: 16384
+[12:33:51] [Client thread/INFO]: Created: 16x16 textures-atlas
+[12:33:51] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[12:33:51] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[12:33:51] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[12:33:51] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[12:33:52] [Client thread/INFO]: JourneyMap log initialized.
+[12:33:52] [Client thread/INFO]: initialize ENTER
+[12:33:52] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
+[12:33:52] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[12:33:52] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[12:33:52] [Client thread/INFO]: Registering replacer for village generation
+[12:33:52] [Client thread/INFO]: Injecting itemstacks
+[12:33:52] [Client thread/INFO]: Itemstack injection complete
+[12:33:52] [Client thread/INFO]: postInitialize ENTER
+[12:33:52] [Client thread/INFO]: Registered channel: world_info
+[12:33:52] [Client thread/INFO]: Initializing icon sets...
+[12:33:53] [Client thread/INFO]: postInitialize EXIT, elapsed�8 count 1�8 avg 382.42�8ms
+[12:33:53] [Client thread/INFO]: Prioritizing User and IMC mod configs...
+[12:33:53] [Client thread/INFO]: Registering items and trees...
+[12:33:53] [Client thread/INFO]: Skipping Ore Dictionary processing.
+[12:33:53] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
+[12:33:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[12:33:53] [Client thread/INFO]: SoundSystem shutting down...
+[12:33:53] [JM-VersionCheck-1/ERROR]: Could not check version URL
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:134) [VersionCheck$1.class:unspecified]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_25]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:531) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
+	... 7 more
+[12:33:53] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:33:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:33:53] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[12:33:53] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:33:53] [Thread-11/INFO]: OpenAL initialized.
+[12:33:54] [Sound Library Loader/INFO]: Sound engine started
+[12:33:54] [Client thread/INFO]: Max texture size: 16384
+[12:33:55] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[12:33:57] [Client thread/INFO]: Loading blocks and textures...
+[12:33:57] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 80.64ms
+[12:33:57] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 21.571692ms
+[12:33:57] [Client thread/INFO]: Existing color palette's resource packs and mod names match current loadout.
+[12:33:57] [Client thread/INFO]: Loaded 508 block colors from color palette file in 3ms: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[12:33:57] [Client thread/INFO]: Initialized 8314 block colors from mods and resource packs in 364ms
+[12:33:57] [Client thread/INFO]: Color palette file generated with 507 colors in 41ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[12:33:57] [Client thread/INFO]: Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[12:34:44] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[12:34:44] [Server thread/INFO]: Generating keypair
+[12:34:45] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[12:34:45] [Server thread/INFO]: Applying holder lookups
+[12:34:45] [Server thread/INFO]: Holder lookups applied
+[12:34:45] [Server thread/INFO]: Loading dimension 0 (mod testing) (net.minecraft.server.integrated.IntegratedServer@673c301f)
+[12:34:45] [Server thread/INFO]: Loading dimension 1 (mod testing) (net.minecraft.server.integrated.IntegratedServer@673c301f)
+[12:34:45] [Server thread/INFO]: Loading dimension -1 (mod testing) (net.minecraft.server.integrated.IntegratedServer@673c301f)
+[12:34:45] [Server thread/INFO]: Preparing start region for level 0
+[12:34:45] [Server thread/INFO]: Changing view distance to 9, from 10
+[12:34:46] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[12:34:46] [Netty Server IO #1/INFO]: Client protocol version 2
+[12:34:46] [Netty Server IO #1/INFO]: Client attempting to join with 20 mods : FML@8.0.99.99,ironbackpacks@1.8.9-2.0.5,DungeonTactics@DT0.9.3,VillageNames@2.0,Forge@11.15.1.1722,MoreFurnaces@1.5.1,FlatBedrockx@1.1.0,endercompass@1.2.2.1,uncraftingTable@1.5.1,progressiveautomation@1.6.44,golems@3.05,hopperducts@1.4.6,fasterladderclimbing@0.1-104,redstonepaste@1.7.2,rftl@1.0,bspkrsCore@at_0.9,mcp@9.19,Treecapitator@at_0.9,journeymap@1.8.9-5.2.4,tobymodxp@2.0
+[12:34:46] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[12:34:46] [Server thread/INFO]: [Server thread] Server side modded connection established
+[12:34:46] [Server thread/INFO]: Boweeton[local:E:ce93d88b] logged in with entity id 224 at (1310.0158138552135, 4.0, 281.53292604392306)
+[12:34:46] [Server thread/INFO]: Boweeton joined the game
+[12:34:47] [Client thread/INFO]: Loading journeymap.topo.config
+[12:34:48] [Client thread/INFO]: Loaded 0 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\sp\mod testing\waypoints
+[12:34:48] [Client thread/INFO]: Blocks and textures are current
+[12:34:48] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\sp\mod testing\DIM0. Memory: 656MB total, 215MB free 
+[12:34:48] [Client thread/INFO]: [CHAT] JourneyMap: Press [J]
+[12:34:48] [Client thread/INFO]: JourneyMap: Press [J]
+[12:35:21] [Server thread/INFO]: Saving and pausing game...
+[12:35:21] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
+[12:35:21] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
+[12:35:21] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
+[12:38:16] [Server thread/INFO]: Saving and pausing game...
+[12:38:16] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
+[12:38:16] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
+[12:38:16] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
+[12:40:23] [Client thread/ERROR]: Item entity 1591459 has no item?!
+[12:44:35] [Client thread/INFO]: Stopping!
+[12:44:35] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\sp\mod testing\DIM0
+[12:44:35] [JM-task-4/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@45330d80
+[12:44:35] [Client thread/INFO]: SoundSystem shutting down...
+[12:44:35] [Server thread/INFO]: Stopping server
+[12:44:35] [Server thread/INFO]: Saving players
+[12:44:35] [Server thread/INFO]: Saving worlds
+[12:44:35] [Server thread/INFO]: Saving chunks for level 'mod testing'/Overworld
+[12:44:35] [Server thread/INFO]: Saving chunks for level 'mod testing'/Nether
+[12:44:35] [Server thread/INFO]: Saving chunks for level 'mod testing'/The End
+[12:44:35] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:44:35] [Client Shutdown Thread/INFO]: Stopping server
+[12:44:35] [Client Shutdown Thread/INFO]: Saving players
+[12:44:35] [Client Shutdown Thread/INFO]: Saving worlds
+[12:44:35] [Client Shutdown Thread/INFO]: Saving chunks for level 'mod testing'/Overworld

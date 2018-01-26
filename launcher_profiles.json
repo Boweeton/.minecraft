@@ -1,7 +1,7 @@
 {
   "settings": {
     "locale": "en-us",
-    "showMenu": true,
+    "showMenu": false,
     "enableAdvanced": true
   },
   "launcherVersion": {
@@ -13,7 +13,7 @@
   "profiles": {
     "8f47a9523fe40a65a9461c54d0e7eadf": {
       "type": "latest-release",
-      "lastUsed": "2018-01-26T03:13:54.596Z"
+      "lastUsed": "2018-01-26T17:30:29.724Z"
     },
     "a9d47d2cc734747b0d5779b997360298": {
       "type": "latest-snapshot",
@@ -23,16 +23,16 @@
       "name": "forge",
       "type": "custom",
       "created": "2018-01-12T14:38:14.972Z",
-      "lastUsed": "2018-01-26T01:31:49.689Z",
+      "lastUsed": "2018-01-26T19:33:39.775Z",
       "lastVersionId": "1.8.9-forge1.8.9-11.15.1.1722",
       "javaArgs": "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M"
     }
   },
   "analyticsFailcount": 0,
-  "analyticsToken": "06bcffd1999e857a6d93ec1b855ba15e",
+  "analyticsToken": "059af83695cf7f60efd4d6c9843dd669",
   "authenticationDatabase": {
     "e354f24ccabc40d988ee5cb87ddb6b16": {
-      "accessToken": "5d69517135e545cb929c7736d586b2c8",
+      "accessToken": "076dce117cf04f9ca97c74455e7faa87",
       "username": "luke.r.strom@gmail.com",
       "profiles": {
         "e94b3883e7084ae3a7ee7cbd02c84b47": {
