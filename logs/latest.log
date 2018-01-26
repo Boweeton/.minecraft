@@ -230,3 +230,63 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [15:57:22] [Client thread/INFO]: Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
 [15:57:22] [Client thread/INFO]: Applying holder lookups
 [15:57:22] [Client thread/INFO]: Holder lookups applied
+[16:00:57] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 14994
+[16:00:58] [Netty Client IO #3/INFO]: Server protocol version 2
+[16:00:59] [Netty Client IO #3/INFO]: Injecting existing block and item data into this client instance
+[16:00:59] [Netty Client IO #3/INFO]: Applying holder lookups
+[16:00:59] [Netty Client IO #3/INFO]: Holder lookups applied
+[16:00:59] [Netty Client IO #3/INFO]: [Netty Client IO #3] Client side modded connection established
+[16:01:00] [Client thread/INFO]: Requesting World ID
+[16:01:00] [Client thread/INFO]: Loading journeymap.topo.config
+[16:01:00] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[16:01:00] [Client thread/INFO]: Blocks and textures are current
+[16:01:00] [Client thread/INFO]: Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1568MB total, 1012MB free 
+[16:01:09] [Client thread/ERROR]: Item entity 190050 has no item?!
+[16:01:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:01:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:01:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:02:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:03:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:03:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:03:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:03:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:03:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:03:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:03:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:05:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:05:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:05:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:05:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:05:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:10:40] [Client thread/ERROR]: Item entity 213212 has no item?!
+[16:10:40] [Client thread/ERROR]: Item entity 213212 has no item?!
+[16:16:03] [Client thread/INFO]: Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[16:16:03] [Client thread/INFO]: Applying holder lookups
+[16:16:03] [Client thread/INFO]: Holder lookups applied
+[16:16:05] [Client thread/INFO]: Stopping!
+[16:16:05] [Client thread/INFO]: SoundSystem shutting down...
+[16:16:05] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

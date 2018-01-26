@@ -11430,3 +11430,130 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 
 [0126/155722:INFO:GameCallbacks.cpp(178)] game/FML (Client thread) info Holder lookups applied
 
+[0126/160057:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.multiplayer.GuiConnecting (Client thread) info Connecting to 0.tcp.ngrok.io, 14994
+
+[0126/160058:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Server protocol version 2
+
+[0126/160059:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Injecting existing block and item data into this client instance
+
+[0126/160059:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Applying holder lookups
+
+[0126/160059:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info Holder lookups applied
+
+[0126/160059:INFO:GameCallbacks.cpp(178)] game/FML (Netty Client IO #3) info [Netty Client IO #3] Client side modded connection established
+
+[0126/160100:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Requesting World ID
+
+[0126/160100:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Loading journeymap.topo.config
+
+[0126/160100:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+
+[0126/160100:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Blocks and textures are current
+
+[0126/160100:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1568MB total, 1012MB free 
+
+[0126/160109:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 190050 has no item?!
+
+[0126/160154:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160154:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160156:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160215:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160215:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160216:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160221:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160221:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160223:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160223:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160227:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160227:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160229:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160232:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160232:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160234:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160234:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160238:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160238:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160239:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160239:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160252:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160252:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160252:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160253:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160257:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160258:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160259:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160303:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160303:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160304:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160304:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160310:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160310:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160311:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160526:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160526:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160527:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160541:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/160542:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Unable to play unknown soundEvent: minecraft:step.anvil
+
+[0126/161040:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 213212 has no item?!
+
+[0126/161040:INFO:GameCallbacks.cpp(178)] game/net.minecraft.entity.item.EntityItem (Client thread) error Item entity 213212 has no item?!
+
+[0126/161603:INFO:GameCallbacks.cpp(178)] game/journeymap (Client thread) info Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+
+[0126/161603:INFO:GameCallbacks.cpp(178)] game/FML (Client thread) info Applying holder lookups
+
+[0126/161603:INFO:GameCallbacks.cpp(178)] game/FML (Client thread) info Holder lookups applied
+
+[0126/161605:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.Minecraft (Client thread) info Stopping!
+
+[0126/161605:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) info SoundSystem shutting down...
+
+[0126/161605:INFO:GameCallbacks.cpp(178)] game/net.minecraft.client.audio.SoundManager (Client thread) warn Author: Paul Lamb, www.paulscode.com
+
+[0126/161606:INFO:GameCallbacks.cpp(178)] launcher/launcher (main) info Process closed with exit code 0
+
+[0126/161606:INFO:GameCallbacks.cpp(178)] launcher/launcher (main) info 
+
+
+[0126/161606:INFO:ClientHandler.cpp(149)] Shutting down!
+

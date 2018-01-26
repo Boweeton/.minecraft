@@ -59,3 +59,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [15:50:54] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
 [15:51:24] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
 [15:57:22] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[16:01:00] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[16:01:00] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[16:01:00] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[16:01:00] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[16:01:00] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1568MB total, 1012MB free 
+[16:16:03] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
