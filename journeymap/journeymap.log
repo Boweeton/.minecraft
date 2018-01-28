@@ -54,3 +54,31 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [11:35:06] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 656MB total, 274MB free 
 [11:35:07] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
 [11:43:14] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[11:55:55] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[11:55:55] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[11:55:55] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[11:55:55] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[11:55:55] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 672MB total, 287MB free 
+[12:00:11] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[12:01:22] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:01:22] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:01:22] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[12:01:22] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:01:22] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 672MB total, 181MB free 
+[12:10:19] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[12:11:22] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:11:23] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:11:23] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[12:11:23] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:11:23] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 720MB total, 231MB free 
+[12:15:33] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[12:17:13] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[12:17:13] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:17:13] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[12:17:13] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:17:13] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 832MB total, 275MB free 
+[12:21:31] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=-854, y=11, z=-46}. Deathpoints enabled: false. Deathpoint created: true
+[13:07:39] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[13:07:40] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[13:28:24] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=232, y=91, z=-67}. Deathpoints enabled: false. Deathpoint created: true
+[14:11:28] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0

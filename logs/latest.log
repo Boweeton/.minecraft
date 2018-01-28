@@ -211,3 +211,782 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [11:43:14] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
 [11:43:14] [Client thread/INFO]: Applying holder lookups
 [11:43:14] [Client thread/INFO]: Holder lookups applied
+[11:55:53] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 11738
+[11:55:54] [Netty Client IO #5/INFO]: Server protocol version 2
+[11:55:54] [Netty Client IO #5/INFO]: Injecting existing block and item data into this client instance
+[11:55:54] [Netty Client IO #5/INFO]: Applying holder lookups
+[11:55:54] [Netty Client IO #5/INFO]: Holder lookups applied
+[11:55:54] [Netty Client IO #5/INFO]: [Netty Client IO #5] Client side modded connection established
+[11:55:55] [Client thread/INFO]: Requesting World ID
+[11:55:55] [Client thread/INFO]: Loading journeymap.topo.config
+[11:55:55] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[11:55:55] [Client thread/INFO]: Blocks and textures are current
+[11:55:55] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 672MB total, 287MB free 
+[11:56:26] [Client thread/ERROR]: Item entity 22041 has no item?!
+[11:56:26] [Client thread/ERROR]: Item entity 22041 has no item?!
+[11:56:26] [Client thread/ERROR]: Item entity 22041 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24903 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24903 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24903 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24921 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24921 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24921 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24921 has no item?!
+[11:57:20] [Client thread/ERROR]: Item entity 24921 has no item?!
+[11:57:40] [Client thread/ERROR]: Item entity 25338 has no item?!
+[11:57:40] [Client thread/ERROR]: Item entity 25338 has no item?!
+[11:57:57] [Client thread/ERROR]: Item entity 25887 has no item?!
+[11:57:57] [Client thread/ERROR]: Item entity 25887 has no item?!
+[11:59:10] [Client thread/ERROR]: Item entity 29424 has no item?!
+[11:59:10] [Client thread/ERROR]: Item entity 29424 has no item?!
+[11:59:10] [Client thread/ERROR]: Item entity 29424 has no item?!
+[12:00:11] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[12:00:11] [Client thread/INFO]: Applying holder lookups
+[12:00:11] [Client thread/INFO]: Holder lookups applied
+[12:01:19] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 11738
+[12:01:20] [Netty Client IO #7/INFO]: Server protocol version 2
+[12:01:20] [Netty Client IO #7/INFO]: Injecting existing block and item data into this client instance
+[12:01:20] [Netty Client IO #7/INFO]: Applying holder lookups
+[12:01:20] [Netty Client IO #7/INFO]: Holder lookups applied
+[12:01:20] [Netty Client IO #7/INFO]: [Netty Client IO #7] Client side modded connection established
+[12:01:22] [Client thread/INFO]: Requesting World ID
+[12:01:22] [Client thread/INFO]: Loading journeymap.topo.config
+[12:01:22] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[12:01:22] [Client thread/INFO]: Blocks and textures are current
+[12:01:22] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 672MB total, 181MB free 
+[12:02:26] [Client thread/ERROR]: Item entity 35079 has no item?!
+[12:02:26] [Client thread/ERROR]: Item entity 35079 has no item?!
+[12:02:26] [Client thread/ERROR]: Item entity 35079 has no item?!
+[12:02:26] [Client thread/ERROR]: Item entity 35079 has no item?!
+[12:02:26] [Client thread/ERROR]: Item entity 35079 has no item?!
+[12:04:14] [Client thread/ERROR]: Item entity 38846 has no item?!
+[12:04:14] [Client thread/ERROR]: Item entity 38846 has no item?!
+[12:04:14] [Client thread/ERROR]: Item entity 38846 has no item?!
+[12:04:19] [Client thread/ERROR]: Item entity 39084 has no item?!
+[12:04:19] [Client thread/ERROR]: Item entity 39084 has no item?!
+[12:05:17] [Client thread/ERROR]: Item entity 41163 has no item?!
+[12:05:17] [Client thread/ERROR]: Item entity 41163 has no item?!
+[12:05:17] [Client thread/ERROR]: Item entity 41163 has no item?!
+[12:05:17] [Client thread/ERROR]: Item entity 41163 has no item?!
+[12:05:17] [Client thread/ERROR]: Item entity 41163 has no item?!
+[12:05:17] [Client thread/ERROR]: Item entity 41163 has no item?!
+[12:05:17] [Client thread/ERROR]: Item entity 41163 has no item?!
+[12:05:51] [Client thread/ERROR]: Item entity 42449 has no item?!
+[12:05:51] [Client thread/ERROR]: Item entity 42449 has no item?!
+[12:05:51] [Client thread/ERROR]: Item entity 42449 has no item?!
+[12:05:51] [Client thread/ERROR]: Item entity 42449 has no item?!
+[12:05:51] [Client thread/ERROR]: Item entity 42449 has no item?!
+[12:06:16] [Client thread/ERROR]: Item entity 43136 has no item?!
+[12:06:16] [Client thread/ERROR]: Item entity 43136 has no item?!
+[12:06:55] [Client thread/ERROR]: Item entity 44631 has no item?!
+[12:06:55] [Client thread/ERROR]: Item entity 44631 has no item?!
+[12:06:55] [Client thread/ERROR]: Item entity 44631 has no item?!
+[12:06:55] [Client thread/ERROR]: Item entity 44631 has no item?!
+[12:06:55] [Client thread/ERROR]: Item entity 44631 has no item?!
+[12:09:30] [Client thread/ERROR]: Item entity 49064 has no item?!
+[12:09:30] [Client thread/ERROR]: Item entity 49064 has no item?!
+[12:09:43] [Client thread/ERROR]: Item entity 49690 has no item?!
+[12:09:43] [Client thread/ERROR]: Item entity 49690 has no item?!
+[12:09:43] [Client thread/ERROR]: Item entity 49690 has no item?!
+[12:09:44] [Client thread/ERROR]: Item entity 49701 has no item?!
+[12:09:44] [Client thread/ERROR]: Item entity 49701 has no item?!
+[12:09:44] [Client thread/ERROR]: Item entity 49701 has no item?!
+[12:09:51] [Client thread/ERROR]: Item entity 50005 has no item?!
+[12:09:51] [Client thread/ERROR]: Item entity 50005 has no item?!
+[12:09:51] [Client thread/ERROR]: Item entity 50005 has no item?!
+[12:09:59] [Client thread/ERROR]: Item entity 50183 has no item?!
+[12:09:59] [Client thread/ERROR]: Item entity 50183 has no item?!
+[12:09:59] [Client thread/ERROR]: Item entity 50183 has no item?!
+[12:10:19] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[12:10:20] [Client thread/INFO]: Applying holder lookups
+[12:10:20] [Client thread/INFO]: Holder lookups applied
+[12:11:20] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 11738
+[12:11:21] [Netty Client IO #1/INFO]: Server protocol version 2
+[12:11:22] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
+[12:11:22] [Netty Client IO #1/INFO]: Applying holder lookups
+[12:11:22] [Netty Client IO #1/INFO]: Holder lookups applied
+[12:11:22] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
+[12:11:22] [Client thread/INFO]: Requesting World ID
+[12:11:23] [Client thread/INFO]: Loading journeymap.topo.config
+[12:11:23] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[12:11:23] [Client thread/INFO]: Blocks and textures are current
+[12:11:23] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 720MB total, 231MB free 
+[12:11:57] [Client thread/ERROR]: Item entity 52076 has no item?!
+[12:11:57] [Client thread/ERROR]: Item entity 52076 has no item?!
+[12:12:44] [Client thread/ERROR]: Item entity 54193 has no item?!
+[12:12:44] [Client thread/ERROR]: Item entity 54193 has no item?!
+[12:12:44] [Client thread/ERROR]: Item entity 54193 has no item?!
+[12:14:07] [Client thread/ERROR]: Item entity 56975 has no item?!
+[12:14:07] [Client thread/ERROR]: Item entity 56975 has no item?!
+[12:14:07] [Client thread/ERROR]: Item entity 56975 has no item?!
+[12:14:07] [Client thread/ERROR]: Item entity 56975 has no item?!
+[12:14:07] [Client thread/ERROR]: Item entity 56975 has no item?!
+[12:14:07] [Client thread/ERROR]: Item entity 56975 has no item?!
+[12:14:07] [Client thread/ERROR]: Item entity 56975 has no item?!
+[12:14:13] [Client thread/ERROR]: Item entity 57220 has no item?!
+[12:14:13] [Client thread/ERROR]: Item entity 57220 has no item?!
+[12:14:13] [Client thread/ERROR]: Item entity 57220 has no item?!
+[12:15:33] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[12:15:33] [Client thread/INFO]: Applying holder lookups
+[12:15:33] [Client thread/INFO]: Holder lookups applied
+[12:17:11] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 11738
+[12:17:12] [Netty Client IO #3/INFO]: Server protocol version 2
+[12:17:12] [Netty Client IO #3/INFO]: Injecting existing block and item data into this client instance
+[12:17:12] [Netty Client IO #3/INFO]: Applying holder lookups
+[12:17:12] [Netty Client IO #3/INFO]: Holder lookups applied
+[12:17:12] [Netty Client IO #3/INFO]: [Netty Client IO #3] Client side modded connection established
+[12:17:13] [Client thread/INFO]: Requesting World ID
+[12:17:13] [Client thread/INFO]: Loading journeymap.topo.config
+[12:17:13] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[12:17:13] [Client thread/INFO]: Blocks and textures are current
+[12:17:13] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 832MB total, 275MB free 
+[12:21:30] [Client thread/INFO]: [CHAT] Boweeton was slain by Zombie
+[12:21:31] [Client thread/INFO]: Boweeton died at BlockPos{x=-854, y=11, z=-46}. Deathpoints enabled: false. Deathpoint created: true
+[12:23:11] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[12:23:12] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:23:20] [Client thread/INFO]: [CHAT] Set the time to 13000
+[12:23:28] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[12:23:29] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:30:48] [Client thread/INFO]: [CHAT] Noahquay joined the game
+[12:30:55] [Client thread/INFO]: [CHAT] <Boweeton> my dude!
+[12:31:05] [Client thread/INFO]: [CHAT] <Noahquay> hello discord????
+[12:31:21] [Client thread/INFO]: [CHAT] <Noahquay> where are you
+[12:31:51] [Client thread/INFO]: [CHAT] <Boweeton> at the game jam
+[12:31:59] [Client thread/INFO]: [CHAT] <Boweeton> so i can't talk on discord
+[12:32:18] [Client thread/INFO]: [CHAT] <Noahquay> RIP what are you working on??/
+[12:32:23] [Client thread/INFO]: [CHAT] <Boweeton> but my job became useless here about 3 hours ago so i'm playing minecraft XD
+[12:33:14] [Client thread/INFO]: [CHAT] <Noahquay> tp me to you
+[12:33:21] [Client thread/INFO]: [CHAT] Teleported Noahquay to Boweeton
+[12:33:32] [Client thread/INFO]: [CHAT] <Noahquay> tree house???
+[12:33:38] [Client thread/ERROR]: Item entity 123559 has no item?!
+[12:33:38] [Client thread/ERROR]: Item entity 123559 has no item?!
+[12:33:50] [Client thread/INFO]: [CHAT] <Boweeton> sure, lemme finish this mining trip
+[12:34:12] [Client thread/INFO]: [CHAT] <Noahquay> oh otay
+[12:34:23] [Client thread/INFO]: [CHAT] <Noahquay> kinda weird we cant talk for real
+[12:34:33] [Client thread/INFO]: [CHAT] <Boweeton> i know right
+[12:34:49] [Client thread/INFO]: [CHAT] <Boweeton> lol, im sitting in a room surrounded by 8 people all crunching code
+[12:34:57] [Client thread/INFO]: [CHAT] <Noahquay> lol
+[12:35:05] [Client thread/ERROR]: Item entity 127699 has no item?!
+[12:35:05] [Client thread/ERROR]: Item entity 127699 has no item?!
+[12:35:05] [Client thread/ERROR]: Item entity 127699 has no item?!
+[12:35:36] [Client thread/INFO]: [CHAT] <Noahquay> how lobf till you can talk
+[12:36:06] [Client thread/ERROR]: Item entity 132466 has no item?!
+[12:36:06] [Client thread/ERROR]: Item entity 132466 has no item?!
+[12:36:35] [Client thread/ERROR]: Item entity 137212 has no item?!
+[12:36:35] [Client thread/ERROR]: Item entity 137212 has no item?!
+[12:37:36] [Client thread/INFO]: [CHAT] <Boweeton> I can talk this afternoon around 4
+[12:37:41] [Client thread/INFO]: [CHAT] <Noahquay> you want to play utc
+[12:38:04] [Client thread/INFO]: [CHAT] <Boweeton> I want to play UTC when I'm at work...... when we can talk
+[12:38:18] [Client thread/INFO]: [CHAT] <Boweeton> i forsee bad things if we can't talk in voice
+[12:38:20] [Client thread/ERROR]: Item entity 147910 has no item?!
+[12:38:20] [Client thread/ERROR]: Item entity 147910 has no item?!
+[12:38:20] [Client thread/ERROR]: Item entity 147910 has no item?!
+[12:38:27] [Client thread/INFO]: [CHAT] <Noahquay> i have to work a 5
+[12:38:32] [Client thread/INFO]: [CHAT] <Noahquay> so rip
+[12:38:46] [Client thread/INFO]: [CHAT] <Boweeton> hmmmm
+[12:38:51] [Client thread/INFO]: [CHAT] <Boweeton> when do you get back?
+[12:39:05] [Client thread/INFO]: [CHAT] <Noahquay> do you just have a feeling everyone will be mad if we start taliking
+[12:39:27] [Client thread/INFO]: [CHAT] <Boweeton> yeah, they're all in the zone
+[12:39:35] [Client thread/INFO]: [CHAT] <Noahquay> ah rip
+[12:40:06] [Client thread/INFO]: [CHAT] Noahquay has just earned the achievement [Benchmarking]
+[12:40:53] [Client thread/ERROR]: Item entity 158073 has no item?!
+[12:40:53] [Client thread/ERROR]: Item entity 158073 has no item?!
+[12:45:57] [Client thread/INFO]: [CHAT] <Noahquay> luke
+[12:47:25] [Client thread/INFO]: [CHAT] <Boweeton> im back
+[12:47:28] [Client thread/INFO]: [CHAT] <Boweeton> what's up?
+[12:47:39] [Client thread/INFO]: [CHAT] <Noahquay> tree house
+[12:47:48] [Client thread/INFO]: [CHAT] <Boweeton> yup
+[12:47:52] [Client thread/INFO]: [CHAT] <Boweeton> on my way soon
+[12:48:04] [Client thread/INFO]: [CHAT] <Noahquay> we should bulid a defence system
+[12:48:25] [Client thread/INFO]: [CHAT] <Boweeton> also, i just had to go upstairs to see another project, and i passed by a lab that had at least
+[12:48:35] [Client thread/INFO]: [CHAT] <Boweeton> 20 enterprise grad 3D printers
+[12:49:03] [Client thread/INFO]: [CHAT] <Noahquay> OMG MY HEAVEN
+[12:49:28] [Client thread/INFO]: [CHAT] <Boweeton> some of the teams here were given free tope grade filiment to print game pieces
+[12:49:40] [Client thread/INFO]: [CHAT] <Boweeton> *top grade
+[12:50:18] [Client thread/ERROR]: Item entity 188385 has no item?!
+[12:50:18] [Client thread/ERROR]: Item entity 188385 has no item?!
+[12:50:18] [Client thread/ERROR]: Item entity 188385 has no item?!
+[12:51:20] [Client thread/ERROR]: Item entity 192503 has no item?!
+[12:51:20] [Client thread/ERROR]: Item entity 192503 has no item?!
+[12:51:20] [Client thread/ERROR]: Item entity 192503 has no item?!
+[12:51:20] [Client thread/ERROR]: Item entity 192503 has no item?!
+[12:51:20] [Client thread/ERROR]: Item entity 192503 has no item?!
+[12:51:22] [Client thread/ERROR]: Item entity 192676 has no item?!
+[12:51:22] [Client thread/ERROR]: Item entity 192676 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:51:59] [Client thread/ERROR]: Item entity 196553 has no item?!
+[12:52:04] [Client thread/ERROR]: Item entity 196693 has no item?!
+[12:52:04] [Client thread/ERROR]: Item entity 196693 has no item?!
+[12:52:08] [Client thread/ERROR]: Item entity 196997 has no item?!
+[12:52:08] [Client thread/ERROR]: Item entity 196997 has no item?!
+[12:52:35] [Client thread/ERROR]: Item entity 199394 has no item?!
+[12:52:35] [Client thread/ERROR]: Item entity 199394 has no item?!
+[12:52:35] [Client thread/ERROR]: Item entity 199394 has no item?!
+[12:52:35] [Client thread/ERROR]: Item entity 199394 has no item?!
+[12:52:35] [Client thread/ERROR]: Item entity 199394 has no item?!
+[12:52:35] [Client thread/ERROR]: Item entity 199394 has no item?!
+[12:52:35] [Client thread/ERROR]: Item entity 199394 has no item?!
+[12:53:44] [Client thread/ERROR]: Item entity 204128 has no item?!
+[12:53:44] [Client thread/ERROR]: Item entity 204128 has no item?!
+[12:54:14] [Client thread/INFO]: [CHAT] <Noahquay> my dude my tree is dieing
+[12:54:22] [Client thread/INFO]: [CHAT] <Boweeton> how so?
+[12:54:36] [Client thread/INFO]: [CHAT] <Noahquay> all the leaves are falling off
+[12:54:40] [Client thread/INFO]: [CHAT] <Boweeton> WHAT
+[12:54:44] [Client thread/INFO]: [CHAT] <Boweeton> NOOOOOOOOOOOOOOOOOOOOOO
+[12:54:50] [Client thread/INFO]: [CHAT] <Noahquay> YEAH GET HERE QUICK
+[12:55:09] [Client thread/INFO]: [CHAT] <Noahquay> almost all of them are gonw
+[12:55:14] [Client thread/INFO]: [CHAT] <Noahquay> gont
+[12:55:25] [Client thread/INFO]: [CHAT] <Noahquay> gone i can type
+[12:56:54] [Client thread/ERROR]: Item entity 220886 has no item?!
+[12:58:16] [Client thread/INFO]: [CHAT] <Boweeton> finishing the run
+[12:58:20] [Client thread/INFO]: [CHAT] <Noahquay> ok
+[12:58:31] [Client thread/INFO]: [CHAT] <Boweeton> should we design something else for your house?
+[12:58:38] [Client thread/INFO]: [CHAT] <Noahquay> where are hoppers
+[12:58:48] [Client thread/INFO]: [CHAT] <Boweeton> crafting mat.
+[12:58:50] [Client thread/INFO]: [CHAT] <Noahquay> im working on that i got it
+[12:59:15] [Client thread/INFO]: [CHAT] <Boweeton> if you need any recources for the new design let me know
+[12:59:16] [Client thread/INFO]: [CHAT] <Noahquay> t flip flopd
+[12:59:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[12:59:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[12:59:46] [Client thread/INFO]: [CHAT] <Noahquay> check it flow me
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[12:59:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:01] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:02] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:03] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:04] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:07] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [CHAT] <Boweeton> what does that mean?
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:00:28] [Client thread/INFO]: [CHAT] <Noahquay> do you have apic
+[13:00:36] [Client thread/INFO]: [CHAT] <Noahquay> a pic
+[13:01:18] [Client thread/INFO]: [CHAT] <Boweeton> ???
+[13:01:43] [Client thread/INFO]: [CHAT] <Noahquay> do you have a redstone not the repater the other one
+[13:01:55] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:56] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:01:57] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:02:05] [Client thread/INFO]: [CHAT] <Noahquay> compator
+[13:02:33] [Client thread/INFO]: [CHAT] <Noahquay> i need two
+[13:03:02] [Client thread/INFO]: [CHAT] <Noahquay> do have dispencers also
+[13:03:17] [Client thread/INFO]: [CHAT] <Boweeton> not on me
+[13:03:21] [Client thread/INFO]: [CHAT] <Boweeton> or in here yet
+[13:03:32] [Client thread/INFO]: [CHAT] <Noahquay> can you build me 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:42] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:43] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:44] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:44] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:03:49] [Client thread/INFO]: [CHAT] <Boweeton> sure, hang tight
+[13:05:45] [Client thread/INFO]: [CHAT] <Noahquay> a t flip flop is a toggle switch that you can use of a button rather than a switch
+[13:05:53] [Client thread/INFO]: [CHAT] <Noahquay> leaver
+[13:06:12] [Client thread/INFO]: [CHAT] <Boweeton> what's it for?
+[13:06:20] [Client thread/INFO]: [CHAT] <Noahquay> ill show you
+[13:06:32] [Client thread/INFO]: [CHAT] <Boweeton> is it for hoppering upward?
+[13:06:43] [Client thread/INFO]: [CHAT] <Noahquay> no just wait
+[13:06:51] [Client thread/ERROR]: Item entity 253062 has no item?!
+[13:07:21] [Client thread/INFO]: [CHAT] <Boweeton> here
+[13:07:39] [Client thread/INFO]: TileDrawStep.updateRegionTexture hit max count, 1000000
+[13:07:40] [Client thread/INFO]: TileDrawStep.draw(low) hit max count, 1000000
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:08:34] [Client thread/INFO]: [CHAT] <Boweeton> is this an item duplicator???
+[13:08:41] [Client thread/INFO]: [CHAT] <Noahquay> no just wait
+[13:08:54] [Client thread/INFO]: [CHAT] <Boweeton> i need to go grab lunch
+[13:08:56] [Client thread/INFO]: [CHAT] <Boweeton> brb
+[13:09:19] [Client thread/ERROR]: Item entity 259831 has no item?!
+[13:09:24] [Client thread/ERROR]: Item entity 260054 has no item?!
+[13:09:24] [Client thread/ERROR]: Item entity 260054 has no item?!
+[13:09:24] [Client thread/ERROR]: Item entity 260054 has no item?!
+[13:09:24] [Client thread/ERROR]: Item entity 260054 has no item?!
+[13:09:24] [Client thread/ERROR]: Item entity 260054 has no item?!
+[13:10:16] [Client thread/ERROR]: Item entity 262804 has no item?!
+[13:10:16] [Client thread/ERROR]: Item entity 262804 has no item?!
+[13:11:08] [Client thread/ERROR]: Item entity 264966 has no item?!
+[13:11:52] [Client thread/ERROR]: Item entity 266133 has no item?!
+[13:13:34] [Client thread/ERROR]: Item entity 268787 has no item?!
+[13:13:36] [Client thread/ERROR]: Item entity 268794 has no item?!
+[13:16:27] [Client thread/ERROR]: Item entity 274999 has no item?!
+[13:16:27] [Client thread/ERROR]: Item entity 274999 has no item?!
+[13:16:27] [Client thread/ERROR]: Item entity 274999 has no item?!
+[13:21:37] [Client thread/ERROR]: Item entity 286288 has no item?!
+[13:21:40] [Client thread/ERROR]: Item entity 286390 has no item?!
+[13:21:53] [Client thread/ERROR]: Item entity 286850 has no item?!
+[13:21:53] [Client thread/ERROR]: Item entity 286850 has no item?!
+[13:21:53] [Client thread/ERROR]: Item entity 286850 has no item?!
+[13:21:53] [Client thread/ERROR]: Item entity 286850 has no item?!
+[13:21:53] [Client thread/ERROR]: Item entity 286850 has no item?!
+[13:22:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:18] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:18] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:22:20] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:28:23] [Client thread/INFO]: [CHAT] Boweeton was slain by Spider
+[13:28:24] [Client thread/INFO]: Boweeton died at BlockPos{x=232, y=91, z=-67}. Deathpoints enabled: false. Deathpoint created: true
+[13:34:33] [Client thread/INFO]: [CHAT] <Boweeton> im back
+[13:35:05] [Client thread/INFO]: [CHAT] <Noahquay> i diched the tree house im makeing a underground base
+[13:35:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:08] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:09] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:10] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[13:35:18] [Client thread/INFO]: [CHAT] <Boweeton> I love underground bases
+[13:35:26] [Client thread/INFO]: [CHAT] <Boweeton> are you in the same area??
+[13:35:26] [Client thread/INFO]: [CHAT] <Noahquay> teleport to the tree house and ill show you
+[13:35:46] [Client thread/INFO]: [CHAT] <Noahquay> ok
+[13:36:08] [Client thread/INFO]: [CHAT] <Noahquay> luke
+[13:36:40] [Client thread/INFO]: [CHAT] <Boweeton> yup omw
+[13:37:35] [Client thread/INFO]: [CHAT] <Noahquay> trying to make a secret door
+[13:37:45] [Client thread/INFO]: [CHAT] <Boweeton> i see
+[13:37:50] [Client thread/INFO]: [CHAT] <Boweeton> very secret
+[13:37:57] [Client thread/INFO]: [CHAT] <Noahquay> do you know the way???
+[13:38:04] [Client thread/INFO]: [CHAT] <Noahquay> to make the door
+[13:38:06] [Client thread/INFO]: [CHAT] <Boweeton> yup
+[13:38:17] [Client thread/INFO]: [CHAT] <Boweeton> i need the pistons
+[13:38:18] [Client thread/ERROR]: Item entity 330045 has no item?!
+[13:38:18] [Client thread/ERROR]: Item entity 330045 has no item?!
+[13:38:26] [Client thread/ERROR]: Item entity 330111 has no item?!
+[13:38:26] [Client thread/ERROR]: Item entity 330111 has no item?!
+[13:38:28] [Client thread/ERROR]: Item entity 330209 has no item?!
+[13:38:28] [Client thread/ERROR]: Item entity 330209 has no item?!
+[13:38:32] [Client thread/INFO]: [CHAT] <Noahquay> teach me master
+[13:39:33] [Client thread/INFO]: [CHAT] <Noahquay> thats where i want it
+[13:40:41] [Client thread/INFO]: [CHAT] <Noahquay> RIP sheep ????-2018
+[13:41:15] [Client thread/INFO]: [CHAT] <Noahquay> the green stuff makes it much easyer
+[13:41:19] [Client thread/INFO]: [CHAT] <Noahquay> huh
+[13:41:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:41:58] [Client thread/INFO]: [CHAT] <Noahquay> im showing you something
+[13:42:37] [Client thread/INFO]: [CHAT] <Noahquay> thats what you wanted right
+[13:42:48] [Client thread/INFO]: [CHAT] <Boweeton> i was just testing, but yeah
+[13:43:20] [Client thread/INFO]: [CHAT] <Noahquay> i feel it needs to be pushed back
+[13:43:26] [Client thread/INFO]: [CHAT] <Boweeton> repeters?
+[13:43:36] [Client thread/INFO]: [CHAT] <Noahquay> do i have any/
+[13:43:41] [Client thread/INFO]: [CHAT] <Noahquay> ?
+[13:43:44] [Client thread/INFO]: [CHAT] <Noahquay> no
+[13:44:07] [Client thread/INFO]: [CHAT] <Noahquay> do you want me to make some
+[13:45:49] [Client thread/INFO]: [CHAT] <Noahquay> this is a excample where a t flip flop will work
+[13:46:45] [Client thread/INFO]: [CHAT] <Noahquay> i need two pistons
+[13:46:49] [Client thread/ERROR]: Item entity 339183 has no item?!
+[13:46:49] [Client thread/ERROR]: Item entity 339183 has no item?!
+[13:46:49] [Client thread/ERROR]: Item entity 339183 has no item?!
+[13:47:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:damage.thorns
+[13:50:10] [Client thread/INFO]: [CHAT] <Noahquay> did you make thoes repaters
+[13:51:21] [Client thread/INFO]: [CHAT] <Boweeton> brb
+[13:51:30] [Client thread/ERROR]: Item entity 343931 has no item?!
+[13:51:30] [Client thread/ERROR]: Item entity 343931 has no item?!
+[13:51:30] [Client thread/ERROR]: Item entity 343931 has no item?!
+[13:51:30] [Client thread/ERROR]: Item entity 343931 has no item?!
+[13:51:30] [Client thread/ERROR]: Item entity 343931 has no item?!
+[13:51:30] [Client thread/ERROR]: Item entity 343931 has no item?!
+[13:51:30] [Client thread/ERROR]: Item entity 343931 has no item?!
+[13:52:22] [Client thread/ERROR]: Item entity 344870 has no item?!
+[13:52:22] [Client thread/ERROR]: Item entity 344870 has no item?!
+[13:52:53] [Client thread/INFO]: [CHAT] <Boweeton> dont touch
+[13:53:04] [Client thread/INFO]: [CHAT] <Boweeton> no
+[13:53:10] [Client thread/INFO]: [CHAT] <Boweeton> dont connect our systems
+[13:53:26] [Client thread/ERROR]: Item entity 346115 has no item?!
+[13:53:26] [Client thread/ERROR]: Item entity 346115 has no item?!
+[13:53:52] [Client thread/ERROR]: Item entity 346616 has no item?!
+[13:53:52] [Client thread/ERROR]: Item entity 346616 has no item?!
+[13:54:08] [Client thread/ERROR]: Item entity 346813 has no item?!
+[13:54:08] [Client thread/ERROR]: Item entity 346813 has no item?!
+[13:54:08] [Client thread/ERROR]: Item entity 346813 has no item?!
+[13:54:38] [Client thread/INFO]: [CHAT] <Noahquay> WHAIT I HAVE IN IDEA
+[13:54:46] [Client thread/INFO]: [CHAT] <Boweeton> wait
+[13:54:53] [Client thread/INFO]: [CHAT] <Noahquay> connect them from the roof
+[13:55:01] [Client thread/INFO]: [CHAT] <Boweeton> wait
+[13:55:25] [Client thread/INFO]: [CHAT] <Boweeton> hold on a min
+[13:55:27] [Client thread/INFO]: [CHAT] <Boweeton> brb
+[13:55:32] [Client thread/INFO]: [CHAT] <Boweeton> please dont break it
+[13:55:36] [Client thread/INFO]: [CHAT] <Noahquay> ok
+[13:56:12] [Client thread/ERROR]: Item entity 349307 has no item?!
+[13:57:15] [Client thread/INFO]: [CHAT] <Boweeton> we need an inverted system
+[13:57:26] [Client thread/INFO]: [CHAT] <Noahquay> did you look it up
+[13:57:39] [Client thread/INFO]: [CHAT] <Noahquay> i think we should start complety over
+[13:57:42] [Client thread/INFO]: [CHAT] <Boweeton> ok
+[13:58:14] [Client thread/ERROR]: Item entity 351540 has no item?!
+[13:58:20] [Client thread/ERROR]: Item entity 351549 has no item?!
+[13:58:20] [Client thread/ERROR]: Item entity 351549 has no item?!
+[13:58:32] [Client thread/INFO]: [CHAT] <Boweeton> here's an idea
+[13:58:41] [Client thread/INFO]: [CHAT] <Noahquay> lets look it up
+[13:59:11] [Client thread/INFO]: [CHAT] <Noahquay> i want it to be flush
+[13:59:17] [Client thread/INFO]: [CHAT] <Boweeton> well, hold on
+[13:59:32] [Client thread/INFO]: [CHAT] <Boweeton> if we terraform the side of the cliff correctly
+[13:59:37] [Client thread/INFO]: [CHAT] <Boweeton> we don't need to
+[13:59:51] [Client thread/INFO]: [CHAT] <Boweeton> plus we can hide the button/lever MUCH easier
+[14:00:19] [Client thread/INFO]: [CHAT] <Noahquay> look at dicord
+[14:01:56] [Client thread/INFO]: [CHAT] <Noahquay> hold on we are makeing this WAY to complet
+[14:02:01] [Client thread/INFO]: [CHAT] <Boweeton> the button/lever will be super obvious if it's flush
+[14:02:08] [Client thread/INFO]: [CHAT] <Noahquay> complex
+[14:02:52] [Client thread/INFO]: [CHAT] <Boweeton> green paste?
+[14:02:52] [Client thread/INFO]: [CHAT] <Noahquay> luke guve me pistons
+[14:03:06] [Client thread/INFO]: [CHAT] <Boweeton> green paste?
+[14:03:20] [Client thread/INFO]: [CHAT] <Boweeton> green paste?
+[14:03:34] [Client thread/INFO]: [CHAT] <Noahquay> stp
+[14:04:00] [Client thread/ERROR]: Item entity 358093 has no item?!
+[14:04:00] [Client thread/ERROR]: Item entity 358093 has no item?!
+[14:04:00] [Client thread/ERROR]: Item entity 358093 has no item?!
+[14:04:01] [Client thread/ERROR]: Item entity 358095 has no item?!
+[14:04:01] [Client thread/ERROR]: Item entity 358095 has no item?!
+[14:04:01] [Client thread/ERROR]: Item entity 358095 has no item?!
+[14:04:01] [Client thread/ERROR]: Item entity 358095 has no item?!
+[14:04:01] [Client thread/ERROR]: Item entity 358095 has no item?!
+[14:04:48] [Client thread/INFO]: [CHAT] <Noahquay> reapters
+[14:04:52] [Client thread/INFO]: [CHAT] <Noahquay> plz 2
+[14:05:07] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[14:05:09] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:05:16] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:06:19] [Client thread/INFO]: [CHAT] <Noahquay> LUKE IVE DONE IT
+[14:07:17] [Client thread/INFO]: [CHAT] <Boweeton> I like it, but
+[14:07:26] [Client thread/INFO]: [CHAT] <Boweeton> how will we hide the lever?
+[14:07:35] [Client thread/INFO]: [CHAT] <Noahquay> hold please
+[14:08:02] [Client thread/INFO]: [CHAT] <Noahquay> clear out yours
+[14:10:55] [Client thread/INFO]: [CHAT] <Boweeton> hey, i got to go and get the last of the game assets built
+[14:11:02] [Client thread/INFO]: [CHAT] <Boweeton> I'll be back on at 3:40 pm
+[14:11:28] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:11:28] [Client thread/INFO]: Applying holder lookups
+[14:11:28] [Client thread/INFO]: Holder lookups applied
+[14:11:29] [Client thread/INFO]: Stopping!
+[14:11:29] [Client thread/INFO]: SoundSystem shutting down...
+[14:11:29] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
