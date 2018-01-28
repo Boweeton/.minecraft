@@ -92,13 +92,13 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_key.ironbackpacks.open:19
 key_key.ironbackpacks.equip:47
-key_key.journeymap.map_toggle:36
+key_key.journeymap.map_toggle:50
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
+key_key.journeymap.create_waypoint:49
 soundCategory_master:0.2218543
 soundCategory_music:0.0
 soundCategory_record:1.0
