@@ -1,41 +1,41 @@
-[21:05:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[21:05:02] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[21:05:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[21:05:02] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
-[21:05:02] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25
-[21:05:02] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[21:05:02] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[21:05:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:05:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:05:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:05:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:05:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:05:04] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[21:05:04] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[21:05:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:05:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:05:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:05:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:05:04] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:05:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:05:04] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[21:05:05] [Client thread/INFO]: Setting user: Boweeton
-[21:05:08] [Client thread/INFO]: LWJGL Version: 2.9.4
-[21:05:08] [Client thread/WARN]: =============================================================
-[21:05:08] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
-[21:05:08] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
-[21:05:08] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
-[21:05:08] [Client thread/WARN]: =============================================================
-[21:05:08] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+[09:32:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:32:16] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:32:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:32:16] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
+[09:32:16] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at S:\Games\Minecraft\runtime\jre-x64\1.8.0_25
+[09:32:16] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[09:32:16] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[09:32:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:32:16] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:32:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:32:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:32:16] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:32:17] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[09:32:17] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[09:32:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:32:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:32:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:32:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:32:17] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:32:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:32:17] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[09:32:18] [Client thread/INFO]: Setting user: Boweeton
+[09:32:20] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:32:20] [Client thread/WARN]: =============================================================
+[09:32:20] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[09:32:20] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[09:32:20] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[09:32:20] [Client thread/WARN]: =============================================================
+[09:32:21] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
 
 WARNING: coremods are present:
   NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
   NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
 Contact their authors BEFORE contacting forge
 
-// You should try our sister game, Minceraft!
+// I just don't know what went wrong :(
 
-Time: 1/28/18 9:05 PM
+Time: 1/29/18 9:32 AM
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -50,7 +50,7 @@ Details:
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_25, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 168136208 bytes (160 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
+	Memory: 162211856 bytes (154 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
 	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
@@ -59,75 +59,69 @@ NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
   net.fybertech.nwr.NowWithRendering
 NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
   net.fybertech.nwr.NowWithRendering
-	GL info: ' Vendor: 'Intel' Version: '4.4.0 - Build 21.20.16.4526' Renderer: 'Intel(R) HD Graphics 630'
-[21:05:08] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
-[21:05:08] [Client thread/INFO]: Replaced 204 ore recipies
-[21:05:08] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
-[21:05:08] [Client thread/INFO]: Searching C:\Users\Boweeton\AppData\Roaming\.minecraft\mods for mods
-[21:05:10] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
-[21:05:10] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
-[21:05:10] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
-[21:05:12] [Client thread/INFO]: Starting automation
-[21:05:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
-[21:05:12] [Client thread/INFO]: Processing ObjectHolder annotations
-[21:05:12] [Client thread/INFO]: Found 418 ObjectHolder annotations
-[21:05:12] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[21:05:12] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[21:05:12] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[21:05:12] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
-[21:05:12] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
-[21:05:12] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[21:05:13] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
-[21:05:13] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
-[21:05:13] [Client thread/INFO]: No plugins for JourneyMap API discovered.
-[21:05:13] [Client thread/INFO]: MFR Loaded
-[21:05:13] [Client thread/INFO]: RightClickPlants Loaded
-[21:05:13] [Client thread/INFO]: Vanilla Loaded
-[21:05:13] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
-[21:05:14] [Client thread/INFO]: Pre-initialization complete!
-[21:05:14] [Client thread/INFO]: Applying holder lookups
-[21:05:14] [Client thread/INFO]: Holder lookups applied
-[21:05:14] [Client thread/INFO]: Injecting itemstacks
-[21:05:14] [Client thread/INFO]: Itemstack injection complete
-[21:05:14] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
-[21:05:14] [Client thread/ERROR]: Couldn't initialize twitch stream
-[21:05:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:05:14] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[21:05:14] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:05:14] [Thread-9/INFO]: OpenAL initialized.
-[21:05:15] [Sound Library Loader/INFO]: Sound engine started
-[21:05:17] [Client thread/INFO]: Max texture size: 16384
-[21:05:17] [Client thread/INFO]: Created: 16x16 textures-atlas
-[21:05:18] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
-[21:05:18] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
-[21:05:18] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
-[21:05:18] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceCaveMin
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceCaveMax
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceSurfaceMin
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceSurfaceMax
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceCaveMin
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceCaveMax
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceSurfaceMin
-[21:05:18] [Client thread/WARN]: core (Valid) Render distance 2 is less than CoreProperties.renderDistanceSurfaceMax
-[21:05:18] [Client thread/INFO]: JourneyMap log initialized.
-[21:05:18] [Client thread/INFO]: initialize ENTER
-[21:05:18] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
-[21:05:18] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[21:05:18] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
-[21:05:19] [Client thread/INFO]: Registering replacer for village generation
-[21:05:19] [Client thread/INFO]: Injecting itemstacks
-[21:05:19] [Client thread/INFO]: Itemstack injection complete
-[21:05:19] [Client thread/INFO]: postInitialize ENTER
-[21:05:19] [Client thread/INFO]: Registered channel: world_info
-[21:05:19] [Client thread/INFO]: Initializing icon sets...
-[21:05:19] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r564.47§8ms§r
-[21:05:19] [Client thread/INFO]: Prioritizing User and IMC mod configs...
-[21:05:19] [Client thread/INFO]: Registering items and trees...
-[21:05:19] [Client thread/INFO]: Skipping Ore Dictionary processing.
-[21:05:19] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
-[21:05:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
-[21:05:19] [JM-VersionCheck-1/ERROR]: Could not check version URL
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13506 Compatibility Profile Context 23.20.15015.1002' Renderer: 'Radeon (TM) RX 480 Graphics'
+[09:32:21] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
+[09:32:21] [Client thread/INFO]: Replaced 204 ore recipies
+[09:32:21] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[09:32:21] [Client thread/INFO]: Searching C:\Users\Luke\AppData\Roaming\.minecraft\mods for mods
+[09:32:22] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
+[09:32:22] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
+[09:32:22] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
+[09:32:23] [Client thread/INFO]: Starting automation
+[09:32:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[09:32:23] [Client thread/INFO]: Processing ObjectHolder annotations
+[09:32:23] [Client thread/INFO]: Found 418 ObjectHolder annotations
+[09:32:23] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[09:32:23] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[09:32:23] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[09:32:23] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
+[09:32:24] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
+[09:32:24] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
+[09:32:24] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[09:32:24] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[09:32:24] [Client thread/INFO]: MFR Loaded
+[09:32:24] [Client thread/INFO]: RightClickPlants Loaded
+[09:32:24] [Client thread/INFO]: Vanilla Loaded
+[09:32:24] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[09:32:24] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
+[09:32:24] [Client thread/INFO]: Pre-initialization complete!
+[09:32:24] [Client thread/INFO]: Applying holder lookups
+[09:32:24] [Client thread/INFO]: Holder lookups applied
+[09:32:24] [Client thread/INFO]: Injecting itemstacks
+[09:32:24] [Client thread/INFO]: Itemstack injection complete
+[09:32:24] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[09:32:24] [Client thread/ERROR]: Couldn't initialize twitch stream
+[09:32:24] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:32:25] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[09:32:25] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:32:25] [Thread-9/INFO]: OpenAL initialized.
+[09:32:25] [Sound Library Loader/INFO]: Sound engine started
+[09:32:26] [Client thread/INFO]: Max texture size: 16384
+[09:32:26] [Client thread/INFO]: Created: 16x16 textures-atlas
+[09:32:27] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[09:32:27] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[09:32:27] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[09:32:27] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[09:32:27] [Client thread/INFO]: JourneyMap log initialized.
+[09:32:27] [Client thread/INFO]: initialize ENTER
+[09:32:27] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
+[09:32:27] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[09:32:27] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[09:32:27] [Client thread/INFO]: Registering replacer for village generation
+[09:32:28] [Client thread/INFO]: Injecting itemstacks
+[09:32:28] [Client thread/INFO]: Itemstack injection complete
+[09:32:28] [Client thread/INFO]: postInitialize ENTER
+[09:32:28] [Client thread/INFO]: Registered channel: world_info
+[09:32:28] [Client thread/INFO]: Initializing icon sets...
+[09:32:28] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r287.16§8ms§r
+[09:32:28] [Client thread/INFO]: Prioritizing User and IMC mod configs...
+[09:32:28] [Client thread/INFO]: Registering items and trees...
+[09:32:28] [Client thread/INFO]: Skipping Ore Dictionary processing.
+[09:32:28] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
+[09:32:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[09:32:28] [Client thread/INFO]: SoundSystem shutting down...
+[09:32:28] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:32:28] [JM-VersionCheck-1/ERROR]: Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -144,235 +138,372 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[21:05:19] [Client thread/INFO]: SoundSystem shutting down...
-[21:05:20] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[21:05:20] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:05:20] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[21:05:20] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:05:20] [Thread-11/INFO]: OpenAL initialized.
-[21:05:20] [Sound Library Loader/INFO]: Sound engine started
-[21:05:21] [Client thread/INFO]: Max texture size: 16384
-[21:05:22] [Client thread/INFO]: Created: 1024x1024 textures-atlas
-[21:05:24] [Client thread/INFO]: Loading blocks and textures...
-[21:05:24] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 84.51ms
-[21:05:24] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 26.406154ms
-[21:05:24] [Client thread/INFO]: Existing color palette's resource packs and mod names match current loadout.
-[21:05:24] [Client thread/INFO]: Loaded 505 block colors from color palette file in 3ms: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[21:05:25] [Client thread/INFO]: Initialized 8317 block colors from mods and resource packs in 326ms
-[21:05:25] [Client thread/INFO]: Color palette file generated with 504 colors in 86ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[21:05:25] [Client thread/INFO]: Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[21:06:04] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 17512
-[21:06:05] [Netty Client IO #1/INFO]: Server protocol version 2
-[21:06:06] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
-[21:06:06] [Netty Client IO #1/INFO]: Applying holder lookups
-[21:06:06] [Netty Client IO #1/INFO]: Holder lookups applied
-[21:06:06] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
-[21:06:06] [Client thread/INFO]: Requesting World ID
-[21:06:07] [Client thread/INFO]: Loading journeymap.topo.config
-[21:06:07] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[21:06:07] [Client thread/INFO]: Blocks and textures are current
-[21:06:07] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 656MB total, 271MB free 
-[21:08:41] [Client thread/ERROR]: Item entity 525294 has no item?!
-[21:11:54] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bM§f]
-[21:11:54] [Client thread/INFO]: JourneyMap: Press [M]
-[21:12:25] [Client thread/ERROR]: Item entity 533637 has no item?!
-[21:12:53] [Client thread/ERROR]: Item entity 534519 has no item?!
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:29] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:30] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:31] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:22:32] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:23:45] [Client thread/ERROR]: Item entity 559110 has no item?!
-[21:31:04] [Client thread/ERROR]: Item entity 580668 has no item?!
-[21:33:05] [Client thread/ERROR]: Item entity 586030 has no item?!
-[21:37:45] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:37:45] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:37:45] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:37:45] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:37:45] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:37:45] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:37:45] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[21:38:18] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
-[21:38:20] [Client thread/INFO]: Requesting World ID
-[21:38:20] [Client thread/INFO]: Loading journeymap.topo.config
-[21:38:20] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[21:38:20] [Client thread/INFO]: Blocks and textures are current
-[21:38:20] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 912MB total, 296MB free 
-[21:42:57] [Client thread/ERROR]: Item entity 603685 has no item?!
-[21:42:57] [Client thread/ERROR]: Item entity 603685 has no item?!
-[21:43:01] [Client thread/ERROR]: Item entity 603713 has no item?!
-[21:43:01] [Client thread/ERROR]: Item entity 603713 has no item?!
-[21:43:01] [Client thread/ERROR]: Item entity 603713 has no item?!
-[21:43:47] [Client thread/ERROR]: Item entity 603936 has no item?!
-[21:43:47] [Client thread/ERROR]: Item entity 603936 has no item?!
-[21:43:50] [Client thread/ERROR]: Item entity 603944 has no item?!
-[21:43:50] [Client thread/ERROR]: Item entity 603944 has no item?!
-[21:45:58] [Client thread/ERROR]: Item entity 604204 has no item?!
-[21:45:58] [Client thread/ERROR]: Item entity 604204 has no item?!
-[21:45:58] [Client thread/ERROR]: Item entity 604204 has no item?!
-[21:46:28] [Client thread/ERROR]: Item entity 604352 has no item?!
-[21:46:28] [Client thread/ERROR]: Item entity 604352 has no item?!
-[21:46:28] [Client thread/ERROR]: Item entity 604352 has no item?!
-[21:46:39] [Client thread/ERROR]: Item entity 604393 has no item?!
-[21:46:39] [Client thread/ERROR]: Item entity 604393 has no item?!
-[21:46:39] [Client thread/ERROR]: Item entity 604393 has no item?!
-[21:51:36] [Client thread/INFO]: [CHAT] Boweeton has just earned the achievement [Into Fire]
-[21:53:10] [Client thread/ERROR]: Item entity 605621 has no item?!
-[21:53:10] [Client thread/ERROR]: Item entity 605621 has no item?!
-[21:54:06] [Client thread/ERROR]: Item entity 605854 has no item?!
-[21:54:06] [Client thread/ERROR]: Item entity 605854 has no item?!
-[21:54:06] [Client thread/ERROR]: Item entity 605854 has no item?!
-[21:58:18] [Client thread/ERROR]: Item entity 606597 has no item?!
-[21:58:18] [Client thread/ERROR]: Item entity 606597 has no item?!
-[21:59:58] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
-[21:59:58] [Client thread/INFO]: Applying holder lookups
-[21:59:58] [Client thread/INFO]: Holder lookups applied
-[22:02:20] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 17512
-[22:02:21] [Netty Client IO #4/INFO]: Server protocol version 2
-[22:02:21] [Netty Client IO #4/INFO]: Injecting existing block and item data into this client instance
-[22:02:21] [Netty Client IO #4/INFO]: Applying holder lookups
-[22:02:21] [Netty Client IO #4/INFO]: Holder lookups applied
-[22:02:21] [Netty Client IO #4/INFO]: [Netty Client IO #4] Client side modded connection established
-[22:02:22] [Client thread/INFO]: Requesting World ID
-[22:02:22] [Client thread/INFO]: Loading journeymap.topo.config
-[22:02:22] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[22:02:22] [Client thread/INFO]: Blocks and textures are current
-[22:02:22] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 1024MB total, 529MB free 
-[22:03:14] [Client thread/ERROR]: Item entity 607069 has no item?!
-[22:03:14] [Client thread/ERROR]: Item entity 607069 has no item?!
-[22:03:14] [Client thread/ERROR]: Item entity 607069 has no item?!
-[22:11:58] [Client thread/ERROR]: Item entity 608528 has no item?!
-[22:11:58] [Client thread/ERROR]: Item entity 608528 has no item?!
-[22:11:58] [Client thread/ERROR]: Item entity 608528 has no item?!
-[22:12:16] [Client thread/ERROR]: Item entity 608576 has no item?!
-[22:12:16] [Client thread/ERROR]: Item entity 608576 has no item?!
-[22:12:16] [Client thread/ERROR]: Item entity 608576 has no item?!
-[22:12:19] [Client thread/ERROR]: Item entity 608581 has no item?!
-[22:12:19] [Client thread/ERROR]: Item entity 608581 has no item?!
-[22:15:36] [Client thread/ERROR]: Item entity 609276 has no item?!
-[22:15:36] [Client thread/ERROR]: Item entity 609276 has no item?!
-[22:22:53] [Client thread/ERROR]: Item entity 610572 has no item?!
-[22:22:53] [Client thread/ERROR]: Item entity 610572 has no item?!
-[22:22:53] [Client thread/ERROR]: Item entity 610572 has no item?!
-[22:23:00] [Client thread/ERROR]: Item entity 610590 has no item?!
-[22:23:00] [Client thread/ERROR]: Item entity 610590 has no item?!
-[22:23:00] [Client thread/ERROR]: Item entity 610590 has no item?!
-[22:23:04] [Client thread/ERROR]: Item entity 610604 has no item?!
-[22:23:04] [Client thread/ERROR]: Item entity 610604 has no item?!
-[22:23:04] [Client thread/ERROR]: Item entity 610604 has no item?!
-[22:23:43] [Client thread/ERROR]: Item entity 610727 has no item?!
-[22:23:43] [Client thread/ERROR]: Item entity 610727 has no item?!
-[22:23:43] [Client thread/ERROR]: Item entity 610727 has no item?!
-[22:23:45] [Client thread/ERROR]: Item entity 610737 has no item?!
-[22:23:45] [Client thread/ERROR]: Item entity 610737 has no item?!
-[22:26:46] [Client thread/ERROR]: Item entity 611256 has no item?!
-[22:26:46] [Client thread/ERROR]: Item entity 611256 has no item?!
-[22:28:11] [Client thread/ERROR]: Item entity 611629 has no item?!
-[22:28:11] [Client thread/ERROR]: Item entity 611629 has no item?!
-[22:29:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
-[22:30:06] [Client thread/ERROR]: Item entity 612004 has no item?!
-[22:30:06] [Client thread/ERROR]: Item entity 612004 has no item?!
-[22:30:25] [Client thread/ERROR]: Item entity 612067 has no item?!
-[22:30:25] [Client thread/ERROR]: Item entity 612067 has no item?!
-[22:31:19] [Client thread/ERROR]: Item entity 612235 has no item?!
-[22:31:19] [Client thread/ERROR]: Item entity 612235 has no item?!
-[22:31:19] [Client thread/ERROR]: Item entity 612235 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:33:35] [Client thread/ERROR]: Item entity 612665 has no item?!
-[22:34:02] [Client thread/INFO]: TileDrawStep.updateRegionTexture hit max count, 1000000
-[22:34:09] [Client thread/INFO]: TileDrawStep.updateScaledTexture hit max count, 1000000
-[22:34:10] [Client thread/INFO]: TileDrawStep.draw(high) hit max count, 1000000
-[22:35:14] [Client thread/INFO]: [CHAT] Boweeton has just earned the achievement [Return to Sender]
-[22:35:31] [Client thread/ERROR]: Item entity 612978 has no item?!
-[22:35:31] [Client thread/ERROR]: Item entity 612978 has no item?!
-[22:36:23] [Client thread/INFO]: [CHAT] Boweeton fell from a high place
-[22:36:24] [Client thread/INFO]: Boweeton died at BlockPos{x=-365, y=51, z=790}. Deathpoints enabled: false. Deathpoint created: true
-[22:36:25] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
-[22:36:25] [Client thread/INFO]: Requesting World ID
-[22:36:25] [Client thread/INFO]: Loading journeymap.topo.config
-[22:36:25] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[22:36:25] [Client thread/INFO]: Blocks and textures are current
-[22:36:25] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1184MB total, 391MB free 
-[22:37:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[22:37:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[22:37:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[22:37:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
-[22:39:45] [JM-task-15/WARN]: Bad block at 7,63,7. Total bad blocks: 1
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:40:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
-[22:41:13] [Client thread/ERROR]: Item entity 624053 has no item?!
-[22:42:46] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
-[22:42:46] [Client thread/INFO]: Applying holder lookups
-[22:42:46] [Client thread/INFO]: Holder lookups applied
-[22:42:47] [Client thread/INFO]: Stopping!
-[22:42:47] [Client thread/INFO]: SoundSystem shutting down...
-[22:42:48] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:32:28] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:32:28] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[09:32:28] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:32:28] [Thread-11/INFO]: OpenAL initialized.
+[09:32:29] [Sound Library Loader/INFO]: Sound engine started
+[09:32:29] [Client thread/INFO]: Max texture size: 16384
+[09:32:30] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[09:32:32] [Client thread/INFO]: Loading blocks and textures...
+[09:32:32] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 91.5ms
+[09:32:32] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 36.178039ms
+[09:32:32] [Client thread/WARN]: Existing color palette's resource packs no longer match current loadout.
+[09:32:32] [Client thread/INFO]: WAS: faithful32pack.zip:zip:1515718186562
+NOW: faithful32pack.zip:zip:1516381066640
+[09:32:32] [Client thread/INFO]: Initialized 8799 block colors from mods and resource packs in 393ms
+[09:32:32] [Client thread/INFO]: Color palette file generated with 505 colors in 33ms for: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[09:32:32] [Client thread/INFO]: Updated color palette file: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[09:32:46] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 17512
+[09:32:47] [Netty Client IO #1/INFO]: Server protocol version 2
+[09:32:48] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
+[09:32:48] [Netty Client IO #1/INFO]: Applying holder lookups
+[09:32:48] [Netty Client IO #1/INFO]: Holder lookups applied
+[09:32:48] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
+[09:32:49] [Client thread/INFO]: Requesting World ID
+[09:32:49] [Client thread/INFO]: Loading journeymap.topo.config
+[09:32:49] [Client thread/INFO]: Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[09:32:49] [Client thread/INFO]: Blocks and textures are current
+[09:32:49] [Client thread/INFO]: Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 656MB total, 282MB free 
+[09:32:49] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bM§f]
+[09:32:49] [Client thread/INFO]: JourneyMap: Press [M]
+[09:33:55] [Client thread/ERROR]: Item entity 638340 has no item?!
+[09:33:55] [Client thread/ERROR]: Item entity 638340 has no item?!
+[09:33:55] [Client thread/ERROR]: Item entity 638340 has no item?!
+[09:33:55] [Client thread/ERROR]: Item entity 638340 has no item?!
+[09:33:55] [Client thread/ERROR]: Item entity 638340 has no item?!
+[09:34:19] [Client thread/ERROR]: Item entity 639734 has no item?!
+[09:34:19] [Client thread/ERROR]: Item entity 639734 has no item?!
+[09:34:19] [Client thread/ERROR]: Item entity 639734 has no item?!
+[09:34:19] [Client thread/ERROR]: Item entity 639734 has no item?!
+[09:35:11] [Client thread/ERROR]: Item entity 641843 has no item?!
+[09:35:33] [Client thread/ERROR]: Item entity 648097 has no item?!
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:54] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:55] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:55] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:55] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:55] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:35:55] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:05] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:36:06] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:38:45] [Client thread/ERROR]: Item entity 663525 has no item?!
+[09:43:55] [Client thread/ERROR]: Item entity 673561 has no item?!
+[09:46:56] [Client thread/ERROR]: Item entity 680009 has no item?!
+[09:46:56] [Client thread/ERROR]: Item entity 680009 has no item?!
+[09:46:56] [Client thread/ERROR]: Item entity 680009 has no item?!
+[09:46:56] [Client thread/ERROR]: Item entity 680009 has no item?!
+[09:46:56] [Client thread/ERROR]: Item entity 680009 has no item?!
+[09:46:56] [Client thread/ERROR]: Item entity 680009 has no item?!
+[09:46:56] [Client thread/ERROR]: Item entity 680009 has no item?!
+[09:47:06] [Client thread/ERROR]: Item entity 680470 has no item?!
+[09:47:06] [Client thread/ERROR]: Item entity 680470 has no item?!
+[09:47:11] [Client thread/ERROR]: Item entity 680596 has no item?!
+[09:47:11] [Client thread/ERROR]: Item entity 680596 has no item?!
+[09:47:11] [Client thread/ERROR]: Item entity 680596 has no item?!
+[09:47:11] [Client thread/ERROR]: Item entity 680596 has no item?!
+[09:47:11] [Client thread/ERROR]: Item entity 680596 has no item?!
+[09:56:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:56:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:56:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:56:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:56:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:56:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:56:58] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:56:59] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:00] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:19] [Client thread/INFO]: [net.jaspr.fasterladderclimbing.module.FasterLadderClimbing$EntityClimber:getElevationChangeUpdate:90]: CURRENT MODIFER = 6
+[09:57:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:57:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:58:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:59:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:59:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:59:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[09:59:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:05] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[10:00:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:07] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[10:00:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:00:54] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[10:00:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:02:18] [Client thread/ERROR]: Item entity 731545 has no item?!
+[10:02:18] [Client thread/ERROR]: Item entity 731545 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:01] [Client thread/ERROR]: Item entity 732931 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:03:27] [Client thread/ERROR]: Item entity 733628 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:10] [Client thread/ERROR]: Item entity 735345 has no item?!
+[10:04:34] [Client thread/INFO]: [CHAT] Boweeton fell out of the world
+[10:04:34] [Client thread/INFO]: [CHAT] Killed Boweeton
+[10:04:35] [Client thread/INFO]: Boweeton died at BlockPos{x=91, y=63, z=-139}. Deathpoints enabled: false. Deathpoint created: true
+[10:13:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:13:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[10:13:44] [Client thread/INFO]: [CHAT] Set the time to 0
+[10:14:11] [Client thread/ERROR]: Item entity 756060 has no item?!
+[10:14:11] [Client thread/ERROR]: Item entity 756060 has no item?!
+[10:14:11] [Client thread/ERROR]: Item entity 756060 has no item?!
+[10:14:11] [Client thread/ERROR]: Item entity 756060 has no item?!
+[10:14:11] [Client thread/ERROR]: Item entity 756060 has no item?!
+[10:14:11] [Client thread/ERROR]: Item entity 756060 has no item?!
+[10:14:11] [Client thread/ERROR]: Item entity 756060 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:22] [Client thread/ERROR]: Item entity 756343 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:41] [Client thread/ERROR]: Item entity 757291 has no item?!
+[10:14:52] [Client thread/ERROR]: Item entity 757600 has no item?!
+[10:14:52] [Client thread/ERROR]: Item entity 757600 has no item?!
+[10:14:52] [Client thread/ERROR]: Item entity 757600 has no item?!
+[10:15:20] [Client thread/ERROR]: Item entity 758153 has no item?!
+[10:15:20] [Client thread/ERROR]: Item entity 758153 has no item?!
+[10:15:20] [Client thread/ERROR]: Item entity 758153 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:25] [Client thread/ERROR]: Item entity 758266 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:15:35] [Client thread/ERROR]: Item entity 758771 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759672 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759672 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:16:02] [Client thread/ERROR]: Item entity 759674 has no item?!
+[10:17:26] [Client thread/ERROR]: Item entity 762374 has no item?!
+[10:17:26] [Client thread/ERROR]: Item entity 762374 has no item?!
+[10:17:53] [Client thread/ERROR]: Item entity 764319 has no item?!
+[10:17:53] [Client thread/ERROR]: Item entity 764319 has no item?!
+[10:19:56] [Client thread/ERROR]: Item entity 768576 has no item?!
+[10:19:56] [Client thread/ERROR]: Item entity 768576 has no item?!
+[10:20:01] [Client thread/ERROR]: Item entity 768676 has no item?!
+[10:20:01] [Client thread/ERROR]: Item entity 768676 has no item?!
+[10:20:01] [Client thread/ERROR]: Item entity 768676 has no item?!
+[10:20:01] [Client thread/ERROR]: Item entity 768676 has no item?!
+[10:20:01] [Client thread/ERROR]: Item entity 768676 has no item?!
+[10:20:01] [Client thread/ERROR]: Item entity 768676 has no item?!
+[10:20:01] [Client thread/ERROR]: Item entity 768676 has no item?!
+[10:20:55] [Client thread/ERROR]: Item entity 770257 has no item?!
+[10:20:55] [Client thread/ERROR]: Item entity 770257 has no item?!
+[10:20:55] [Client thread/ERROR]: Item entity 770257 has no item?!
+[10:21:07] [Client thread/ERROR]: Item entity 770472 has no item?!
+[10:21:07] [Client thread/ERROR]: Item entity 770472 has no item?!
+[10:21:19] [Client thread/INFO]: TileDrawStep.updateRegionTexture hit max count, 1000000
+[10:21:21] [Client thread/INFO]: TileDrawStep.updateScaledTexture hit max count, 1000000
+[10:21:23] [Client thread/INFO]: TileDrawStep.draw(high) hit max count, 1000000
+[10:24:10] [Client thread/ERROR]: Item entity 780955 has no item?!
+[10:24:10] [Client thread/ERROR]: Item entity 780955 has no item?!
+[10:24:28] [Client thread/INFO]: [CHAT] Set the time to 0
+[10:24:48] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:48] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:48] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:50] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:50] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:50] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:52] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:52] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:53] [Client thread/INFO]: [CHAT] on, off, list, add, remove, reload
+[10:24:54] [Client thread/INFO]: [CHAT] There are 4 (out of 5 seen) whitelisted players:
+[10:24:54] [Client thread/INFO]: [CHAT] Noahquay, Balurith, Boweeton and CO_hippy
+[10:24:56] [Client thread/ERROR]: Item entity 782337 has no item?!
+[10:24:56] [Client thread/ERROR]: Item entity 782337 has no item?!
+[10:24:57] [Client thread/ERROR]: Item entity 782340 has no item?!
+[10:24:57] [Client thread/ERROR]: Item entity 782340 has no item?!
+[10:25:04] [Client thread/ERROR]: Item entity 782503 has no item?!
+[10:25:04] [Client thread/ERROR]: Item entity 782503 has no item?!
+[10:25:46] [Client thread/ERROR]: Item entity 784027 has no item?!
+[10:25:46] [Client thread/ERROR]: Item entity 784027 has no item?!
+[10:25:52] [Client thread/ERROR]: Item entity 784117 has no item?!
+[10:25:52] [Client thread/ERROR]: Item entity 784117 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:20] [Client thread/ERROR]: Item entity 786069 has no item?!
+[10:27:30] [Client thread/ERROR]: Item entity 786319 has no item?!
+[10:27:30] [Client thread/ERROR]: Item entity 786319 has no item?!
+[10:27:30] [Client thread/ERROR]: Item entity 786319 has no item?!
+[10:27:30] [Client thread/ERROR]: Item entity 786319 has no item?!
+[10:27:30] [Client thread/ERROR]: Item entity 786319 has no item?!
+[10:27:30] [Client thread/ERROR]: Item entity 786319 has no item?!
+[10:27:30] [Client thread/ERROR]: Item entity 786319 has no item?!
+[10:29:08] [Client thread/INFO]: [CHAT] /weather, /worldborder, /whitelist, /w
+[10:29:09] [Client thread/INFO]: [CHAT] Changing to clear weather
+[10:29:56] [Client thread/INFO]: Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[10:29:56] [Client thread/INFO]: Applying holder lookups
+[10:29:56] [Client thread/INFO]: Holder lookups applied
+[10:30:04] [Client thread/INFO]: Stopping!
+[10:30:04] [Client thread/INFO]: SoundSystem shutting down...
+[10:30:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
