@@ -1,6 +1,6 @@
-[12:52:34] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[12:52:34] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[12:52:34] [Client thread/INFO] [?] Version: JourneyMap 5.2.4 Unlimited, built with Forge 11.15.1.1722
+[13:41:54] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[13:41:54] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[13:41:54] [Client thread/INFO] [?] Version: JourneyMap 5.2.4 Unlimited, built with Forge 11.15.1.1722
 Forge: 11.15.1.1722
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Unlimited Features: 
@@ -15,14 +15,14 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.2
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.2.4, createDeathpoints=false, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=false}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.2.4, zoomLevel=0, showPlayers=true, showSelf=true, showGrid=true, entityIconSetName=2D, enabled=false, showVillagers=true, showWaypoints=true, port=8080, showAnimals=true, showMobs=true, showPets=true, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.2.4, radarLateralDistance=64, maxPlayersData=32, mapSurfaceAboveCaves=true, mapBathymetry=false, mapCrops=true, maxMobsData=32, optionsManagerViewed=5.2.4, announceMod=true, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mappingEnabled=true, renderOverlayEventTypeName=ALL, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, renderDistanceSurfaceMax=2, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=2, radarVerticalDistance=16, mapAntialiasing=true, cachePlayersData=2000, recordCacheStats=false, cacheMobsData=3000, hideSneakingEntities=true, renderDistanceSurfaceMin=2, cachePlayerData=1000, splashViewed=5.2.4, revealShape=Square, renderDistanceCaveMin=2, cacheAnimalsData=3100, themeName=Purist, alwaysMapSurface=false, mapCaveLighting=true, mapPlants=false, renderDelay=0, renderOverlayPreEvent=true, autoMapPoll=2000}
-[12:52:34] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.2
-[12:52:34] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[12:52:34] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[12:52:34] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
-[12:52:34] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
-[12:52:34] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
-[12:52:35] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r418.29§8ms§r
-[12:52:35] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[13:41:54] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.2
+[13:41:54] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:41:54] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[13:41:54] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[13:41:54] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[13:41:54] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[13:41:54] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r332.91§8ms§r
+[13:41:55] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
 	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
@@ -39,46 +39,271 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
 	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
 	... 7 more
-[12:52:39] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[12:52:40] [Client thread/INFO] [BlockMD] Built BlockMD cache (8851) : BlockMD.reset count 1 avg 92.8ms
-[12:52:40] [Client thread/INFO] [ColorHelper_1_8] initBlocksTexture: 1024x1024 loaded in 24.793846ms
-[12:52:40] [Client thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
-[12:52:40] [Client thread/INFO] [ColorPalette] WAS: faithful32pack.zip:zip:1516381066640
-NOW: faithful32pack.zip:zip:1515718186562
-[12:52:40] [Client thread/INFO] [ColorManager] Initialized 8799 block colors from mods and resource packs in 377ms
-[12:52:40] [Client thread/INFO] [ColorPalette] Color palette file generated with 505 colors in 46ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[12:52:40] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
-[12:53:32] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[12:53:32] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:53:33] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[12:53:33] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[12:53:33] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 656MB total, 262MB free 
-[12:53:36] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
-[12:58:47] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=-311, y=71, z=389}. Deathpoints enabled: false. Deathpoint created: true
-[13:00:41] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
-[13:00:46] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[13:00:46] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[13:00:46] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[13:00:46] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:00:46] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 656MB total, 335MB free 
-[13:04:26] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
-[13:04:27] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[13:04:27] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[13:04:27] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[13:04:27] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:04:27] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 1872MB total, 1314MB free 
-[13:17:11] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=31, y=77, z=-124}. Deathpoints enabled: false. Deathpoint created: true
-[13:17:12] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
-[13:17:13] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[13:17:13] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[13:17:13] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[13:17:13] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:17:13] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1872MB total, 888MB free 
-[13:17:35] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
-[13:17:35] [JM-task-11/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@5b46241f
-[13:17:36] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
-[13:17:36] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[13:17:36] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
-[13:17:36] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[13:17:36] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 1872MB total, 842MB free 
-[13:20:00] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[13:41:59] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[13:41:59] [Client thread/INFO] [BlockMD] Built BlockMD cache (8851) : BlockMD.reset count 1 avg 71.82ms
+[13:41:59] [Client thread/INFO] [ColorHelper_1_8] initBlocksTexture: 1024x1024 loaded in 22.430955ms
+[13:41:59] [Client thread/WARN] [ColorPalette] Existing color palette's resource packs no longer match current loadout.
+[13:41:59] [Client thread/INFO] [ColorPalette] WAS: faithful32pack.zip:zip:1515718186562
+NOW: faithful32pack.zip:zip:1516381066640
+[13:41:59] [Client thread/INFO] [ColorManager] Initialized 8799 block colors from mods and resource packs in 317ms
+[13:41:59] [Client thread/INFO] [ColorPalette] Color palette file generated with 505 colors in 28ms for: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[13:41:59] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[13:42:04] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
+[13:42:04] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[13:42:04] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:42:05] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[13:42:05] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[13:42:05] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 656MB total, 394MB free 
+[13:52:07] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=29, y=33, z=-234}. Deathpoints enabled: false. Deathpoint created: true
+[13:52:08] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[13:52:09] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[13:52:09] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:52:09] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[13:52:09] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[13:52:09] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 848MB total, 526MB free 
+[13:52:46] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[13:52:46] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[13:52:46] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:52:46] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[13:52:46] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[13:52:46] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 976MB total, 387MB free 
+[13:59:15] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=28, y=23, z=-360}. Deathpoints enabled: false. Deathpoint created: true
+[13:59:16] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[13:59:17] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[13:59:17] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:59:17] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[13:59:17] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[13:59:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 976MB total, 592MB free 
+[13:59:38] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[13:59:39] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[13:59:40] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:59:40] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[13:59:40] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[13:59:40] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 1040MB total, 267MB free 
+[14:00:29] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=28, y=24, z=-367}. Deathpoints enabled: false. Deathpoint created: true
+[14:00:30] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:00:31] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:00:31] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:00:31] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:00:31] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:00:31] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1040MB total, 578MB free 
+[14:00:41] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:00:42] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:00:42] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:00:42] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:00:42] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:00:42] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 1056MB total, 387MB free 
+[14:03:11] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=30, y=49, z=-418}. Deathpoints enabled: false. Deathpoint created: true
+[14:03:12] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:03:14] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:03:14] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:03:14] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:03:14] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:03:14] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1072MB total, 373MB free 
+[14:03:29] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:03:30] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:03:30] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:03:30] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:03:30] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:03:30] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 1248MB total, 251MB free 
+[14:03:52] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=30, y=78, z=-14}. Deathpoints enabled: false. Deathpoint created: true
+[14:03:53] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:03:54] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:03:54] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:03:54] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:03:54] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:03:54] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1312MB total, 622MB free 
+[14:04:11] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:04:12] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:04:13] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:04:13] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:04:13] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:04:13] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 1360MB total, 338MB free 
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=65, y=58, z=-544}. Deathpoints enabled: false. Deathpoint created: true
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:34] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:35] [Client thread/WARN] [StatTimer] MiniMap1.Square is not running.
+[14:26:37] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:26:39] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:26:39] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:26:39] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:26:39] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:26:39] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1392MB total, 549MB free 
+[14:27:03] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:27:04] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:27:04] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:27:04] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:27:04] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:27:04] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 2720MB total, 1356MB free 
+[14:27:07] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:27:08] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:27:08] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:27:08] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:27:08] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:27:08] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 2720MB total, 1318MB free 
+[14:27:11] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:27:12] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:27:12] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:27:12] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:27:12] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:27:12] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 2720MB total, 1201MB free 
+[14:30:57] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=157, y=59, z=-607}. Deathpoints enabled: false. Deathpoint created: true
+[14:30:59] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:31:04] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:31:04] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:31:04] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:31:04] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:31:04] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 2720MB total, 1043MB free 
+[14:31:23] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:31:24] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:31:26] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:31:26] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:31:26] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:31:26] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 2720MB total, 1162MB free 
+[14:41:59] [Client thread/INFO] [StateTickHandler] Boweeton died at BlockPos{x=29, y=51, z=-1700}. Deathpoints enabled: false. Deathpoint created: true
+[14:42:02] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:42:04] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:42:04] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:42:04] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:42:04] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:42:04] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 2720MB total, 1485MB free 
+[14:42:34] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[14:42:35] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:42:37] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:42:37] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:42:37] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:42:37] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1. Memory: 2720MB total, 977MB free 
+[14:54:42] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM-1
+[14:54:43] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[14:54:44] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[14:54:44] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[14:54:44] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[14:54:44] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 2720MB total, 758MB free 
+[14:55:50] [JM-task-37/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:01:40] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[15:17:46] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[15:17:46] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:17:46] [Client thread/INFO] [WaypointStore] Loaded 21 waypoints from C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[15:17:46] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[15:17:46] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 2720MB total, 1303MB free 
+[15:19:26] [Client thread/INFO] [ChatLog] JourneyMap: Saving map to screenshots: 2018-01-29_15.19.25_The~1~8~9~Forge~Server_Overworld_day.png
+[15:19:35] [JM-task-40/INFO] [MapSaver] Map filesize:21791582
+[15:20:13] [Client thread/INFO] [ChatLog] JourneyMap: Map saved: C:\Users\Luke\AppData\Roaming\.minecraft\screenshots\2018-01-29_15.19.25_The~1~8~9~Forge~Server_Overworld_day.png
+[15:21:09] [JM-task-40/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:21:14] [JM-task-40/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:22:04] [Client thread/ERROR] [ChatLog] JourneyMap: High Display Quality: Off
+[15:22:04] [Client thread/ERROR] [ChatLog] JourneyMap: High Display Quality: On
+[15:22:05] [Client thread/ERROR] [ChatLog] JourneyMap: Map Tile Render Type: 2 (GL_LINEAR, GL_MIRRORED_REPEAT)
+[15:22:05] [Client thread/ERROR] [ChatLog] JourneyMap: Map Tile Render Type: 3 (GL_LINEAR, GL_CLAMP_TO_EDGE)
+[15:22:06] [Client thread/ERROR] [ChatLog] JourneyMap: Map Tile Render Type: 4 (GL_NEAREST, GL_MIRRORED_REPEAT)
+[15:22:06] [Client thread/ERROR] [ChatLog] JourneyMap: Map Tile Render Type: 4 (GL_NEAREST, GL_CLAMP_TO_EDGE)
+[15:22:06] [Client thread/ERROR] [ChatLog] JourneyMap: Map Tile Render Type: 4 (GL_NEAREST, GL_CLAMP_TO_EDGE)
+[15:30:18] [JM-task-40/WARN] [BaseRenderer] Bad block at 5,67,14. Total bad blocks: 1
+[15:52:57] [JM-task-40/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:52:58] [Client thread/INFO] [ChatLog] JourneyMap: Saving map to screenshots: 2018-01-29_15.52.58_The~1~8~9~Forge~Server_Overworld_day.png
+[15:53:10] [JM-task-40/INFO] [MapSaver] Map filesize:24785513
+[15:53:11] [Client thread/INFO] [ChatLog] JourneyMap: Map saved: C:\Users\Luke\AppData\Roaming\.minecraft\screenshots\2018-01-29_15.52.58_The~1~8~9~Forge~Server_Overworld_day.png
+[15:53:21] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[16:00:06] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[16:01:01] [JM-task-40/INFO] [StatTimer] TopoRenderer.renderSurface hit max count, 1000000
+[16:01:02] [JM-task-40/INFO] [StatTimer] SurfaceRenderer.renderSurface hit max count, 1000000
+[16:22:10] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Luke\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0

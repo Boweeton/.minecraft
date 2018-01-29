@@ -1,0 +1,18 @@
+{
+  "id": "Fim City [Village]_-983,71,-16345",
+  "name": "Fim City [Village]",
+  "icon": "waypoint-normal.png",
+  "x": -983,
+  "y": 71,
+  "z": -16345,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
