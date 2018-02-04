@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:2
+renderDistance:16
 guiScale:0
 particles:1
 bobView:true
@@ -105,7 +105,7 @@ soundCategory_record:1.0
 soundCategory_weather:0.09154929
 soundCategory_block:1.0
 soundCategory_hostile:0.8239437
-soundCategory_neutral:0.03521127
+soundCategory_neutral:0.6056338
 soundCategory_player:0.52112675
 soundCategory_ambient:1.0
 modelPart_cape:true
