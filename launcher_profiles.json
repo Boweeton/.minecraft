@@ -23,16 +23,16 @@
       "name": "forge",
       "type": "custom",
       "created": "2018-01-12T14:38:14.972Z",
-      "lastUsed": "2018-02-05T03:32:05.152Z",
+      "lastUsed": "2018-02-05T19:14:16.488Z",
       "lastVersionId": "1.8.9-forge1.8.9-11.15.1.1722",
       "javaArgs": "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M"
     }
   },
   "analyticsFailcount": 0,
-  "analyticsToken": "2c2b7f00505920e223f7b228ce2681cb",
+  "analyticsToken": "44e79a6f88f00b08774754b4cc427be7",
   "authenticationDatabase": {
     "e354f24ccabc40d988ee5cb87ddb6b16": {
-      "accessToken": "b957c11cfbb04a858444b135d443ad27",
+      "accessToken": "7c36d870a9df422d8963cf32b4d5ab8c",
       "username": "luke.r.strom@gmail.com",
       "profiles": {
         "e94b3883e7084ae3a7ee7cbd02c84b47": {

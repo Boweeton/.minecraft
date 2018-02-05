@@ -1,8 +1,177 @@
-[00:00:00] [Client thread/INFO]: [CHAT] Saved screenshot as 2018-02-05_00.00.00.png
-[00:00:04] [Client thread/INFO]: [CHAT] Saved screenshot as 2018-02-05_00.00.04.png
-[00:00:07] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
-[00:00:07] [Client thread/INFO]: Applying holder lookups
-[00:00:07] [Client thread/INFO]: Holder lookups applied
-[00:00:09] [Client thread/INFO]: Stopping!
-[00:00:09] [Client thread/INFO]: SoundSystem shutting down...
-[00:00:09] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:14:17] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:14:17] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:14:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:14:17] [main/INFO]: Forge Mod Loader version 11.15.1.1722 for Minecraft 1.8.9 loading
+[12:14:17] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Program Files (x86)\Minecraft\runtime\jre-x64\1.8.0_25
+[12:14:17] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:14:17] [main/WARN]: The coremod net.fybertech.nwr.NowWithRendering does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:14:17] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:14:17] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:14:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:14:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:14:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:14:19] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[12:14:19] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[12:14:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:14:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:14:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:14:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:14:19] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:14:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:14:19] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[12:14:19] [Client thread/INFO]: Setting user: Boweeton
+[12:14:22] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:14:22] [Client thread/WARN]: =============================================================
+[12:14:22] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[12:14:22] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[12:14:22] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[12:14:22] [Client thread/WARN]: =============================================================
+[12:14:22] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
+  NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
+Contact their authors BEFORE contacting forge
+
+// I'm sorry, Dave.
+
+Time: 2/5/18 12:14 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 100977192 bytes (96 MB) / 251658240 bytes (240 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+NowWithRendering (Redstone-Paste-Mod-1.8.9.jar)
+  net.fybertech.nwr.NowWithRendering
+NowWithRendering (Hopper-Ducts-Mod-1.8.8.jar)
+  net.fybertech.nwr.NowWithRendering
+	GL info: ' Vendor: 'Intel' Version: '4.4.0 - Build 21.20.16.4526' Renderer: 'Intel(R) HD Graphics 630'
+[12:14:22] [Client thread/INFO]: MinecraftForge v11.15.1.1722 Initialized
+[12:14:22] [Client thread/INFO]: Replaced 204 ore recipies
+[12:14:22] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[12:14:22] [Client thread/INFO]: Searching C:\Users\Boweeton\AppData\Roaming\.minecraft\mods for mods
+[12:14:24] [Client thread/INFO]: Forge Mod Loader has identified 20 mods to load
+[12:14:24] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at CLIENT
+[12:14:24] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, DungeonTactics, endercompass, golems, fasterladderclimbing, FlatBedrockx, hopperducts, ironbackpacks, journeymap, MoreFurnaces, progressiveautomation, redstonepaste, rftl, bspkrsCore, Treecapitator, uncraftingTable, VillageNames, tobymodxp] at SERVER
+[12:14:24] [Client thread/INFO]: Starting automation
+[12:14:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[12:14:25] [Client thread/INFO]: Processing ObjectHolder annotations
+[12:14:25] [Client thread/INFO]: Found 418 ObjectHolder annotations
+[12:14:25] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[12:14:25] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[12:14:25] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[12:14:25] [Forge Version Check/INFO]: [uncraftingTable] Starting version check at https://raw.githubusercontent.com/crazysnailboy/UncraftingTable/1.8.9/update.json
+[12:14:25] [Client thread/INFO]: [FasterLadderClimbing] Module featureloader is enabled
+[12:14:25] [Forge Version Check/INFO]: [uncraftingTable] Found status: UP_TO_DATE Target: null
+[12:14:25] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[12:14:25] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[12:14:25] [Forge Version Check/INFO]: [Forge] Found status: UP_TO_DATE Target: null
+[12:14:25] [Client thread/INFO]: MFR Loaded
+[12:14:25] [Client thread/INFO]: RightClickPlants Loaded
+[12:14:25] [Client thread/INFO]: Vanilla Loaded
+[12:14:26] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
+[12:14:26] [Client thread/INFO]: Pre-initialization complete!
+[12:14:26] [Client thread/INFO]: Applying holder lookups
+[12:14:26] [Client thread/INFO]: Holder lookups applied
+[12:14:26] [Client thread/INFO]: Injecting itemstacks
+[12:14:26] [Client thread/INFO]: Itemstack injection complete
+[12:14:26] [Client thread/INFO]: [tv.twitch.StandardCoreAPI:<init>:16]: If on Windows, make sure to provide all of the necessary dll's as specified in the twitchsdk README. Also, make sure to set the PATH environment variable to point to the directory containing the dll's.
+[12:14:26] [Client thread/ERROR]: Couldn't initialize twitch stream
+[12:14:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:14:27] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[12:14:27] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:14:27] [Thread-9/INFO]: OpenAL initialized.
+[12:14:27] [Sound Library Loader/INFO]: Sound engine started
+[12:14:28] [Client thread/INFO]: Max texture size: 16384
+[12:14:28] [Client thread/INFO]: Created: 16x16 textures-atlas
+[12:14:29] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[12:14:29] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[12:14:29] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockDamageMethodVisitor:visitCode:98]: PATCH 2
+[12:14:29] [Client thread/INFO]: [net.fybertech.nwr.NowWithRendering$RenderBlockMethodVisitor:visitCode:72]: PATCH 1
+[12:14:30] [Client thread/INFO]: JourneyMap log initialized.
+[12:14:30] [Client thread/INFO]: initialize ENTER
+[12:14:30] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.2
+[12:14:30] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[12:14:30] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[12:14:30] [Client thread/INFO]: Registering replacer for village generation
+[12:14:30] [Client thread/INFO]: Injecting itemstacks
+[12:14:30] [Client thread/INFO]: Itemstack injection complete
+[12:14:30] [Client thread/INFO]: postInitialize ENTER
+[12:14:30] [Client thread/INFO]: Registered channel: world_info
+[12:14:30] [Client thread/INFO]: Initializing icon sets...
+[12:14:31] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r324.69§8ms§r
+[12:14:31] [Client thread/INFO]: Prioritizing User and IMC mod configs...
+[12:14:31] [Client thread/INFO]: Registering items and trees...
+[12:14:31] [Client thread/INFO]: Skipping Ore Dictionary processing.
+[12:14:31] [Client thread/INFO]: Forge Mod Loader has successfully loaded 20 mods
+[12:14:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DungeonTactics, FMLFileResourcePack:Ender Compass, FMLFileResourcePack:Extra Golems, FMLFileResourcePack:Faster Ladder Climbing, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Hopper Ducts, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:More Furnaces, FMLFileResourcePack:Progressive Automation, FMLFileResourcePack:Redstone Paste, FMLFileResourcePack:Rotten Flesh to Leather, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:Village Names, FMLFileResourcePack:XPyourself, faithful32pack.zip
+[12:14:31] [Client thread/INFO]: SoundSystem shutting down...
+[12:14:31] [JM-VersionCheck-1/ERROR]: Could not check version URL
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:134) [VersionCheck$1.class:unspecified]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_25]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_25]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 2
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:531) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
+	... 7 more
+[12:14:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:14:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:14:31] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[12:14:31] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:14:31] [Thread-11/INFO]: OpenAL initialized.
+[12:14:31] [Sound Library Loader/INFO]: Sound engine started
+[12:14:32] [Client thread/INFO]: Max texture size: 16384
+[12:14:33] [Client thread/INFO]: Created: 1024x1024 textures-atlas
+[12:14:35] [Client thread/INFO]: Loading blocks and textures...
+[12:14:35] [Client thread/INFO]: Built BlockMD cache (8851) : BlockMD.reset count 1 avg 96.77ms
+[12:14:35] [Client thread/INFO]: initBlocksTexture: 1024x1024 loaded in 26.68677ms
+[12:14:35] [Client thread/INFO]: Existing color palette's resource packs and mod names match current loadout.
+[12:14:35] [Client thread/INFO]: Loaded 504 block colors from color palette file in 9ms: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[12:14:35] [Client thread/INFO]: Initialized 8317 block colors from mods and resource packs in 364ms
+[12:14:35] [Client thread/INFO]: Color palette file generated with 505 colors in 29ms for: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[12:14:35] [Client thread/INFO]: Updated color palette file: C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\colorpalette.json
+[12:14:36] [Client thread/INFO]: Connecting to 0.tcp.ngrok.io, 19611
+[12:14:38] [Netty Client IO #1/INFO]: Server protocol version 2
+[12:14:38] [Netty Client IO #1/INFO]: Injecting existing block and item data into this client instance
+[12:14:38] [Netty Client IO #1/INFO]: Applying holder lookups
+[12:14:38] [Netty Client IO #1/INFO]: Holder lookups applied
+[12:14:39] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side modded connection established
+[12:14:40] [Client thread/INFO]: Requesting World ID
+[12:14:40] [Client thread/INFO]: Loading journeymap.topo.config
+[12:14:41] [Client thread/INFO]: Loaded 25 waypoints from C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\waypoints
+[12:14:41] [Client thread/INFO]: Blocks and textures are current
+[12:14:41] [Client thread/INFO]: Mapping started in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0. Memory: 1312MB total, 914MB free 
+[12:14:41] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bM§f]
+[12:14:41] [Client thread/INFO]: JourneyMap: Press [M]
+[12:15:26] [Client thread/ERROR]: Item entity 771130 has no item?!
+[12:15:26] [Client thread/ERROR]: Item entity 771130 has no item?!
+[12:19:32] [Client thread/INFO]: Mapping halted in C:\Users\Boweeton\AppData\Roaming\.minecraft\journeymap\data\mp\The~1~8~9~Forge~Server\DIM0
+[12:19:32] [JM-task-4/WARN]: TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@1d3a5718
+[12:19:32] [Client thread/INFO]: Applying holder lookups
+[12:19:32] [Client thread/INFO]: Holder lookups applied
+[12:19:33] [Client thread/INFO]: Stopping!
+[12:19:33] [Client thread/INFO]: SoundSystem shutting down...
+[12:19:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
