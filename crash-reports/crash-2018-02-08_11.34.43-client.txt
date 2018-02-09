@@ -1,0 +1,118 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  NWRTweak (Redstone-Paste-Mod-1.12.1.jar)
+  CXLibraryCore (cxlibrary-1.12.1-1.6.1.jar)
+Contact their authors BEFORE contacting forge
+
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 2/8/18 11:34 AM
+Description: Initializing game
+
+java.lang.NullPointerException: BackpackType cannot be null
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:787)
+	at gr8pefish.ironbackpacks.api.IronBackpacksAPI.getStack(IronBackpacksAPI.java:166)
+	at gr8pefish.ironbackpacks.core.recipe.BackpackTierRecipe.<init>(BackpackTierRecipe.java:22)
+	at gr8pefish.ironbackpacks.core.RecipesIronBackpacks.registerRecipes(RecipesIronBackpacks.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_8_RecipesIronBackpacks_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:143)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:179)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:698)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:671)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:605)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:266)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:466)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:787)
+	at gr8pefish.ironbackpacks.api.IronBackpacksAPI.getStack(IronBackpacksAPI.java:166)
+	at gr8pefish.ironbackpacks.core.recipe.BackpackTierRecipe.<init>(BackpackTierRecipe.java:22)
+	at gr8pefish.ironbackpacks.core.RecipesIronBackpacks.registerRecipes(RecipesIronBackpacks.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_8_RecipesIronBackpacks_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:143)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:179)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:698)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:671)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:605)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:266)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:466)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 198921072 bytes (189 MB) / 352321536 bytes (336 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.40 Powered by Forge 14.21.1.2387 17 mods loaded, 17 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCH	minecraft{1.12} [Minecraft] (minecraft.jar) 
+	UCH	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	UCH	FML{8.0.99.99} [Forge Mod Loader] (forge-1.12-14.21.1.2387.jar) 
+	UCH	forge{14.21.1.2387} [Minecraft Forge] (forge-1.12-14.21.1.2387.jar) 
+	UCH	mercurius_updater{1.0} [mercurius_updater] (MercuriusUpdater-1.12.jar) 
+	UCH	classiccombat{1.0.0} [Classic Combat] (ClassicCombat-1.12-1.0.0.jar) 
+	UCH	cxlibrary{1.6.1} [CXLibrary] (cxlibrary-1.12.1-1.6.1.jar) 
+	UCH	endercompass{1.2.6} [Ender Compass] (Ender-Compass-Mod-1.12.jar) 
+	UCH	fasterladderclimbing{0.1-146} [Faster Ladder Climbing] (Faster-Ladder-Climbing-Mod-1.12.2.jar) 
+	UCH	flatbedrockx{1.4.0} [FlatBedrock Xplosion's Edition] (Flat-Bedrock-Mod-1.12.jar) 
+	UCH	hopperducts{1.5} [Hopper Ducts] (Hopper-Ducts-Mod-1.12.jar) 
+	UCH	ironbackpacks{1.12.2-3.0.5-6} [Iron Backpacks] (IronBackpacks-1.12.2-3.0.5-6.jar) 
+	UCH	morefurnaces{1.10.1} [More Furnaces] (More-Furnaces-Mod-1.12.1.jar) 
+	UCH	redstonepaste{1.7.5} [Redstone Paste] (Redstone-Paste-Mod-1.12.1.jar) 
+	UCH	bspkrscore{at_0.9} [bspkrsCore] (TreeCapitator-Mod-1.12.jar) 
+	UCH	treecapitator{at_0.9} [Treecapitator] (TreeCapitator-Mod-1.12.jar) 
+	UCH	uncraftingtable{1.8-beta6} [Uncrafting Table] (Uncrafting-Table-Mod-1.12.1.jar) 
+	Loaded coremods (and transformers): 
+NWRTweak (Redstone-Paste-Mod-1.12.1.jar)
+  net.fybertech.nwr.NWRTransformer
+CXLibraryCore (cxlibrary-1.12.1-1.6.1.jar)
+  cubex2.cxlibrary.CoreModTransformer
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13447 Compatibility Profile Context 16.300.2311.0' Renderer: 'Radeon (TM) RX 480 Graphics'
+	Launched Version: 1.12-forge1.12-14.21.1.2387
+	LWJGL: 2.9.4
+	OpenGL: Radeon (TM) RX 480 Graphics GL version 4.5.13447 Compatibility Profile Context 16.300.2311.0, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
